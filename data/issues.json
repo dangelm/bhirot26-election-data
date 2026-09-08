@@ -1,0 +1,196 @@
+{
+  "$comment": "נוצר אוטומטית על ידי scripts/gen-repo.mjs במאגר האתר. אין לערוך ידנית — הקובץ ייכתב מחדש.",
+  "name": "מצפן הבחירות 2026",
+  "version": "2026-09-07",
+  "generated": "2026-09-08",
+  "election_date": "2026-10-27",
+  "site": "https://bhirot26.online",
+  "repository": "https://github.com/dangelm/bhirot26-election-data",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "counts": {
+    "issues": 20
+  },
+  "issues": [
+    {
+      "index": 0,
+      "slug": "palestinian-state",
+      "topic": "ביטחון ומדינאות",
+      "label": "מדינה פלסטינית",
+      "question": "האם יש להקים מדינה פלסטינית לצד ישראל במסגרת הסדר עתידי?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/palestinian-state"
+    },
+    {
+      "index": 1,
+      "slug": "death-penalty",
+      "topic": "מאבק בטרור",
+      "label": "עונש מוות למחבלים",
+      "question": "האם יש לחוקק בישראל עונש מוות למחבלים?",
+      "explainer": "התומכים: הרתעה, צדק לנפגעי הטרור ומניעת עסקאות שחרור עתידיות. המתנגדים: לא מרתיע מחבלים מתאבדים, עלול לסכן ישראלים שייפלו בשבי בעתיד ולפגוע במעמדה של ישראל בעולם.",
+      "page": "https://bhirot26.online/issue/death-penalty"
+    },
+    {
+      "index": 2,
+      "slug": "haredi-draft",
+      "topic": "גיוס",
+      "label": "גיוס חרדים",
+      "question": "האם יש לחוקק חוק המחייב גיוס בחורי ישיבה חרדים, כולל סנקציות אישיות על משתמטים?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/haredi-draft"
+    },
+    {
+      "index": 3,
+      "slug": "judicial-reform",
+      "topic": "משפט",
+      "label": "הרפורמה המשפטית והגבלת בג\"ץ",
+      "question": "האם יש להגביל את סמכויות בג\"ץ ולחזק את כוחן של הכנסת והממשלה (ברוח הרפורמה המשפטית)?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/judicial-reform"
+    },
+    {
+      "index": 4,
+      "slug": "oct7-inquiry",
+      "topic": "7 באוקטובר",
+      "label": "ועדת חקירה ממלכתית ל-7 באוקטובר",
+      "question": "האם יש להקים מיד ועדת חקירה ממלכתית לאירועי 7 באוקטובר?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/oct7-inquiry"
+    },
+    {
+      "index": 5,
+      "slug": "religion-state",
+      "topic": "דת ומדינה",
+      "label": "תחבורה ציבורית בשבת ונישואים אזרחיים",
+      "question": "האם יש להפעיל תחבורה ציבורית בשבת ולהנהיג נישואים אזרחיים בישראל?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/religion-state"
+    },
+    {
+      "index": 6,
+      "slug": "gaza-control",
+      "topic": "עזה",
+      "label": "שליטה ביטחונית בעזה",
+      "question": "האם צה\"ל צריך להמשיך לשלוט ביטחונית ברצועת עזה גם בשנים הקרובות?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/gaza-control"
+    },
+    {
+      "index": 7,
+      "slug": "lower-taxes",
+      "topic": "כלכלה",
+      "label": "הורדת מסים מול שירותים לאזרח",
+      "question": "האם צריך להוריד מסים, גם אם המשמעות היא שהמדינה תספק פחות שירותים לאזרח?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/lower-taxes"
+    },
+    {
+      "index": 8,
+      "slug": "yeshiva-budgets",
+      "topic": "תקציבים",
+      "label": "תקציבי הישיבות והחינוך החרדי",
+      "question": "האם יש להגדיל את התקציבים לישיבות ולמוסדות החינוך החרדי?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/yeshiva-budgets"
+    },
+    {
+      "index": 9,
+      "slug": "nation-state-law",
+      "topic": "חוק הלאום",
+      "label": "סעיף שוויון בחוק הלאום",
+      "question": "האם צריך להוסיף לחוק הלאום סעיף שקובע שכל אזרחי ישראל שווים?",
+      "explainer": "חוק יסוד מ-2018 שמגדיר את ישראל כמדינת הלאום של העם היהודי ומעגן את הדגל, ההמנון וההתיישבות היהודית, בלי סעיף שוויון. המבקרים: מדיר ערבים ודרוזים. התומכים: השוויון מובטח בחוקים אחרים.",
+      "page": "https://bhirot26.online/issue/nation-state-law"
+    },
+    {
+      "index": 10,
+      "slug": "temple-mount",
+      "topic": "הר הבית",
+      "label": "תפילת יהודים בהר הבית",
+      "question": "האם יש לאפשר תפילת יהודים בהר הבית, גם אם המשמעות היא שינוי הסטטוס-קוו?",
+      "explainer": "לפי הסטטוס-קוו הנהוג מ-1967, יהודים רשאים לבקר בהר הבית אך לא להתפלל בו. התומכים בשינוי: חופש פולחן במקום הקדוש ביותר ליהדות. המתנגדים: שינוי עלול להצית הסלמה ביטחונית ולפגוע ביחסים עם ירדן ומדינות ערב.",
+      "page": "https://bhirot26.online/issue/temple-mount"
+    },
+    {
+      "index": 11,
+      "slug": "settlements",
+      "topic": "התיישבות",
+      "label": "הרחבת ההתנחלויות",
+      "question": "האם יש להרחיב את ההתנחלויות ביהודה ושומרון?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/settlements"
+    },
+    {
+      "index": 12,
+      "slug": "term-limits",
+      "topic": "שלטון",
+      "label": "הגבלת כהונת ראש הממשלה",
+      "question": "האם צריך לקבוע בחוק הגבלה על מספר השנים שראש ממשלה יכול לכהן?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/term-limits"
+    },
+    {
+      "index": 13,
+      "slug": "benefits-for-service",
+      "topic": "זכויות וחובות",
+      "label": "התניית הטבות בשירות צבאי או אזרחי",
+      "question": "האם יש להתנות הטבות ממשלתיות (כמו הנחות ומענקים) בשירות צבאי או אזרחי?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/benefits-for-service"
+    },
+    {
+      "index": 14,
+      "slug": "housing",
+      "topic": "דיור",
+      "label": "התערבות ממשלתית בשוק הדיור",
+      "question": "האם על הממשלה להתערב באופן פעיל בשוק הדיור: פיקוח, סבסוד ודיור ציבורי?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/housing"
+    },
+    {
+      "index": 15,
+      "slug": "lgbt-equality",
+      "topic": "להט\"ב",
+      "label": "שוויון זכויות לקהילה הלהט\"בית",
+      "question": "האם יש לעגן בחוק שוויון זכויות מלא לקהילת הלהט\"ב, כולל הכרה בזוגיות?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/lgbt-equality"
+    },
+    {
+      "index": 16,
+      "slug": "saudi-normalization",
+      "topic": "נורמליזציה",
+      "label": "ויתורים לפלסטינים תמורת שלום עם סעודיה",
+      "question": "האם כדאי לישראל לוותר לפלסטינים, למשל להקפיא בנייה בהתנחלויות, כדי להשיג הסכם שלום עם ערב הסעודית?",
+      "explainer": "מה ישראל מרוויחה מהסכם כזה? יחסים רשמיים עם המדינה החזקה בעולם הערבי, טיסות ישירות מעליה למזרח, השקעות ענק במשק וברית אזורית מול איראן. סעודיה מצידה דורשת בתמורה צעדים כלפי הפלסטינים.",
+      "page": "https://bhirot26.online/issue/saudi-normalization"
+    },
+    {
+      "index": 17,
+      "slug": "universal-service",
+      "topic": "שירות לכול",
+      "label": "חובת שירות לכלל האזרחים",
+      "question": "האם יש להנהיג חובת שירות, צבאי או אזרחי, לכלל אזרחי ישראל, כולל חרדים וערבים?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/universal-service"
+    },
+    {
+      "index": 18,
+      "slug": "haredi-coalition",
+      "topic": "שותפות חרדית",
+      "label": "חרדים בקואליציה ללא חוק גיוס",
+      "question": "האם לגיטימי לצרף את המפלגות החרדיות לקואליציה גם ללא הסכמה מראש על חוק גיוס?",
+      "explainer": "התומכים: שותפות היסטורית ויציבות שלטונית — את סוגיית הגיוס יש לפתור בהסכמה מבפנים. המתנגדים: בלי התניה מראש הפטור יימשך בפועל, כפי שקרה בקדנציות האחרונות.",
+      "page": "https://bhirot26.online/issue/haredi-coalition"
+    },
+    {
+      "index": 19,
+      "slug": "arab-coalition",
+      "topic": "שותפות",
+      "label": "מפלגות ערביות בקואליציה",
+      "question": "האם לגיטימי לצרף מפלגות ערביות לקואליציה ולממשלה?",
+      "explainer": null,
+      "page": "https://bhirot26.online/issue/arab-coalition"
+    }
+  ]
+}
