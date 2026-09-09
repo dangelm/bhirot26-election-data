@@ -7,6 +7,9 @@
 לבדוק את הכלי בלי להאמין לו: כל עמדה מובילה למקור, וכל מקור מוביל לציטוט מילולי
 ולקישור לעמוד שממנו נלקח.
 
+> [!IMPORTANT]
+> **הנתונים אינם סופיים עדיין.** הרשימות הוגשו ב-7–8.9.2026. האותיות והכינויים שביקשו המפלגות עדיין בבדיקת ועדת הבחירות המרכזית, ועד 14.9.2026 אפשר לעתור לפסילת רשימה או מועמד — הנתונים כאן יהיו סופיים אחרי התאריך הזה.
+
 ## המספרים
 
 | | |
@@ -62,6 +65,11 @@
 
 Open data behind **[מצפן הבחירות 2026](https://bhirot26.online)**, a voting-advice application for
 Israel's 26th Knesset election (2026-10-27).
+
+**Not final yet:** lists were filed on 7–8 September 2026, and the ballot letters and list
+names the parties requested are still under review by the Central Elections Committee.
+Petitions to disqualify a list or candidate may be filed until 14.9.2026; the data
+becomes final after that date.
 
 20 parties × 20 issues = 400 coded positions. 347 carry a
 published primary source with a verbatim quote, a date and a link; 53 are cells where we
