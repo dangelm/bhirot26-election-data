@@ -12,14 +12,14 @@
 | | |
 |---|---|
 | רשימות שהוגשו ומוצגות | 36 |
-| רשימות מנוקדות במחשבון | 21 |
+| רשימות מנוקדות במחשבון | 20 |
 | סוגיות | 20 |
-| תאים (רשימה × סוגיה) | 420 |
-| תאים עם מקור מוצג | 361 (86%) |
-| תאים שנבדקו ולא נמצאה בהם אמירה פומבית | 59 (14%) |
+| תאים (רשימה × סוגיה) | 400 |
+| תאים עם מקור מוצג | 347 (87%) |
+| תאים שנבדקו ולא נמצאה בהם אמירה פומבית | 53 (13%) |
 | תאים שטרם נחקרו | 0 |
-| רשומות מקור מאומתות | 791 |
-| גרסת הנתונים | 2026-09-08 |
+| רשומות מקור מאומתות | 815 |
+| גרסת הנתונים | 2026-09-09 |
 
 ## הקבצים
 
@@ -27,9 +27,9 @@
 |---|---|
 | `data/parties.json` | כל 36 הרשימות: שם, אות, יו"ר, שיוך, והאם היא מנוקדת במחשבון |
 | `data/issues.json` | 20 השאלות כלשונן, עם הנוסח המלא וההסבר שמוצג למשתמש |
-| `data/positions.json` | 420 התאים: העמדה, סוג הראיה, המקור החזק ביותר ותאריכו |
-| `data/sources.json` | 791 רשומות המקור עם הציטוט המילולי, וכן התאים שנבדקו ונמצאו ריקים |
-| `data/positions.csv` | אותם 420 תאים כטבלה שטוחה, לניתוח בגיליון או ב-pandas |
+| `data/positions.json` | 400 התאים: העמדה, סוג הראיה, המקור החזק ביותר ותאריכו |
+| `data/sources.json` | 815 רשומות המקור עם הציטוט המילולי, וכן התאים שנבדקו ונמצאו ריקים |
+| `data/positions.csv` | אותם 400 תאים כטבלה שטוחה, לניתוח בגיליון או ב-pandas |
 | `methodology.md` | היררכיית המקורות, קידוד העמדות, תיקון הסיכוי, ומה שהכלי אינו עושה |
 | `CHANGELOG.md` | כל שינוי בנתונים לפי תאריך |
 
@@ -37,13 +37,13 @@
 
 הנתונים משתנים עד סגירת הרשימות, ולכן ציטוט בלי גרסה אינו ניתן לבדיקה:
 
-> מצפן הבחירות 2026, גרסת נתונים 2026-09-08. https://bhirot26.online · https://github.com/dangelm/bhirot26-election-data
+> מצפן הבחירות 2026, גרסת נתונים 2026-09-09. https://bhirot26.online · https://github.com/dangelm/bhirot26-election-data
 
 ## מה המאגר הזה אינו
 
 - **אינו סקר ואינו תחזית.** הוא אומר מה מפלגות אמרו, לא מה בוחרים יחשבו או כיצד יצביעו.
 - **אינו ממצה את השדה הפוליטי.** 20 שאלות אינן כל מה שמפריד בין רשימות.
-- **אינו שלם.** ב-59 תאים חיפשנו ולא מצאנו אמירה פומבית. הם מסומנים ככאלה ולא
+- **אינו שלם.** ב-53 תאים חיפשנו ולא מצאנו אמירה פומבית. הם מסומנים ככאלה ולא
   מוצגים כעמדה — ההבחנה בין "המפלגה מסויגת" ל"המפלגה שתקה" נשמרת בכל הקבצים.
 - **אינו קפוא.** רשימות מתמזגות ופורשות עד סגירתן; ראו `CHANGELOG.md`.
 
@@ -63,8 +63,8 @@
 Open data behind **[מצפן הבחירות 2026](https://bhirot26.online)**, a voting-advice application for
 Israel's 26th Knesset election (2026-10-27).
 
-21 parties × 20 issues = 420 coded positions. 361 carry a
-published primary source with a verbatim quote, a date and a link; 59 are cells where we
+20 parties × 20 issues = 400 coded positions. 347 carry a
+published primary source with a verbatim quote, a date and a link; 53 are cells where we
 searched the party's platform, the news, and — for leaders who sat in the Knesset — the voting
 and bill record, and found no public statement. Those are marked as documented silence rather
 than treated as a hedged position. 0 cells remain unresearched.

@@ -1,19 +1,19 @@
 {
   "$comment": "נוצר אוטומטית על ידי scripts/gen-repo.mjs במאגר האתר. אין לערוך ידנית — הקובץ ייכתב מחדש.",
   "name": "מצפן הבחירות 2026",
-  "version": "2026-09-08",
-  "generated": "2026-09-08",
+  "version": "2026-09-09",
+  "generated": "2026-09-09",
   "election_date": "2026-10-27",
   "site": "https://bhirot26.online",
   "repository": "https://github.com/dangelm/bhirot26-election-data",
   "license": "CC BY 4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "counts": {
-    "parties": 21,
+    "parties": 20,
     "issues": 20,
-    "cells": 420,
-    "sourced": 361,
-    "documented_silence": 59,
+    "cells": 400,
+    "sourced": 347,
+    "documented_silence": 53,
     "unresearched": 0
   },
   "stance_values": {
@@ -5536,13 +5536,13 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "palestinian-state",
       "issue_label": "מדינה פלסטינית",
       "stance": 0,
       "stance_he": "נגד",
       "evidence": "sourced",
-      "source_count": 2,
+      "source_count": 4,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5556,7 +5556,7 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "death-penalty",
       "issue_label": "עונש מוות למחבלים",
       "stance": 0.5,
@@ -5576,13 +5576,13 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "haredi-draft",
       "issue_label": "גיוס חרדים",
       "stance": 1,
       "stance_he": "בעד",
       "evidence": "sourced",
-      "source_count": 1,
+      "source_count": 3,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5596,13 +5596,13 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "judicial-reform",
       "issue_label": "הרפורמה המשפטית והגבלת בג\"ץ",
       "stance": 0.5,
       "stance_he": "עמדה חלקית",
       "evidence": "sourced",
-      "source_count": 1,
+      "source_count": 3,
       "strongest_source": {
         "type": "media",
         "type_he": "מקור תקשורתי",
@@ -5616,13 +5616,13 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "oct7-inquiry",
       "issue_label": "ועדת חקירה ממלכתית ל-7 באוקטובר",
-      "stance": 1,
-      "stance_he": "בעד",
+      "stance": 0.5,
+      "stance_he": "עמדה חלקית",
       "evidence": "sourced",
-      "source_count": 2,
+      "source_count": 3,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5636,13 +5636,13 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "religion-state",
       "issue_label": "תחבורה ציבורית בשבת ונישואים אזרחיים",
       "stance": 0.5,
       "stance_he": "עמדה חלקית",
       "evidence": "sourced",
-      "source_count": 1,
+      "source_count": 2,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5656,13 +5656,13 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "gaza-control",
       "issue_label": "שליטה ביטחונית בעזה",
-      "stance": 1,
-      "stance_he": "בעד",
+      "stance": 0.5,
+      "stance_he": "עמדה חלקית",
       "evidence": "sourced",
-      "source_count": 1,
+      "source_count": 3,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5676,29 +5676,33 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "lower-taxes",
       "issue_label": "הורדת מסים מול שירותים לאזרח",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "שלושה דומיינים אפשריים נבדקו ו-hamiluimnikim.org.il עדיין עמוד \"בקרוב\"; חיפושי חדשות בשם יועז הנדל ו-13 הצעות החוק שיזם (2019–2021). שלושה מקורות קרובים נדחו: ידיעות 2018 על חוק הלאום ו-ynet 2016 על הר הבית (לפני רצפת 2019), ו-ice 2022 שעוסק ב\"ממשל\" בהר הבית ולא בתפילה. הנדל כיהן בסיעת תקווה חדשה, ורשימה חדשה אינה יורשת הצבעות של סיעה אחרת. לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות ו-13 הצעות החוק של יועז הנדל, ואין בהן דבר על יבוא, מכסים או מועצות ייצור.",
-        "issue_note": null
-      }
+      "stance": 1,
+      "stance_he": "בעד",
+      "evidence": "sourced",
+      "source_count": 1,
+      "strongest_source": {
+        "type": "platform",
+        "type_he": "מצע רשמי",
+        "tier": "doc",
+        "date": "2026-09-06",
+        "title": "מצע המפלגה הכלכלית",
+        "url": "https://www.hakalkalit.org/%D7%9E%D7%A6%D7%A2-%D7%94%D7%9E%D7%A4%D7%9C%D7%92%D7%94-%D7%94%D7%9B%D7%9C%D7%9B%D7%9C%D7%99%D7%AA",
+        "verified": "2026-09-08"
+      },
+      "searched": null
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "yeshiva-budgets",
       "issue_label": "תקציבי הישיבות והחינוך החרדי",
       "stance": 0,
       "stance_he": "נגד",
       "evidence": "sourced",
-      "source_count": 2,
+      "source_count": 3,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5712,23 +5716,27 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "nation-state-law",
       "issue_label": "סעיף שוויון בחוק הלאום",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "שלושה דומיינים אפשריים נבדקו ו-hamiluimnikim.org.il עדיין עמוד \"בקרוב\"; חיפושי חדשות בשם יועז הנדל ו-13 הצעות החוק שיזם (2019–2021). שלושה מקורות קרובים נדחו: ידיעות 2018 על חוק הלאום ו-ynet 2016 על הר הבית (לפני רצפת 2019), ו-ice 2022 שעוסק ב\"ממשל\" בהר הבית ולא בתפילה. הנדל כיהן בסיעת תקווה חדשה, ורשימה חדשה אינה יורשת הצבעות של סיעה אחרת. לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות ו-13 הצעות החוק של יועז הנדל, ואין בהן דבר על יבוא, מכסים או מועצות ייצור.",
-        "issue_note": null
-      }
+      "stance": 1,
+      "stance_he": "בעד",
+      "evidence": "sourced",
+      "source_count": 1,
+      "strongest_source": {
+        "type": "platform",
+        "type_he": "מצע רשמי",
+        "tier": "doc",
+        "date": "2026-09-07",
+        "title": "נושאים ותחומים נוספים | המפלגה הכלכלית",
+        "url": "https://web.archive.org/web/20251116163323/https://www.hakalkalit.org/%D7%A0%D7%95%D7%A9%D7%90%D7%99%D7%9D-%D7%95%D7%AA%D7%97%D7%95%D7%9E%D7%99%D7%9D-%D7%A0%D7%95%D7%A1%D7%A4%D7%99%D7%9D",
+        "verified": "2026-09-08"
+      },
+      "searched": null
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "temple-mount",
       "issue_label": "תפילת יהודים בהר הבית",
       "stance": 0.5,
@@ -5737,20 +5745,20 @@
       "source_count": 0,
       "strongest_source": null,
       "searched": {
-        "checked": "2026-09-08",
-        "how": "שלושה דומיינים אפשריים נבדקו ו-hamiluimnikim.org.il עדיין עמוד \"בקרוב\"; חיפושי חדשות בשם יועז הנדל ו-13 הצעות החוק שיזם (2019–2021). שלושה מקורות קרובים נדחו: ידיעות 2018 על חוק הלאום ו-ynet 2016 על הר הבית (לפני רצפת 2019), ו-ice 2022 שעוסק ב\"ממשל\" בהר הבית ולא בתפילה. הנדל כיהן בסיעת תקווה חדשה, ורשימה חדשה אינה יורשת הצבעות של סיעה אחרת. לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות ו-13 הצעות החוק של יועז הנדל, ואין בהן דבר על יבוא, מכסים או מועצות ייצור.",
+        "checked": "2026-09-09",
+        "how": "הרשימה המשותפת \"המילואימניקים והכלכלית\" הוגשה ב-7.9.2026, ועמדותיה נגזרות משתי המרכיבות. שתי הסוגיות שנותרו הן אלה שבהן שתיהן שתקו: לא נמצאה אמירה של הנדל ולא של זליכה. נבדקו אתר המילואימניקים (עדיין \"בקרוב\" בשלושה דומיינים), אתר הכלכלית החדשה על 48 עמודיו, ארכיון טורי הדעה של זליכה ב-ice, חיפושי חדשות בשני השמות, ו-13 הצעות החוק שיזם הנדל. מקורות קרובים שנדחו: ynet 2016 על הר הבית (לפני רצפת 2019), ice 2022 שעוסק ב\"ממשל\" בהר הבית ולא בתפילה, וטור של זליכה על נורמליזציה סעודית שמתאר דינמיקה אזורית ולא עמדת מדיניות.",
         "issue_note": "נבדק גם מאגר ההצבעות של הכנסת (KNS_PlenumVote, 8.9.2026): אין ולו הצבעה אחת במליאה על תפילת יהודים בהר הבית. שתי ההצבעות היחידות שכותרתן מזכירה את הר הבית הן הצעת חוק פרטית מ-2022 על שמירה על המקומות הקדושים, שאינה עוסקת בזכות התפילה, והצעת אי-אמון מ-2023 — הצבעה על אמון בממשלה ולא על השאלה. לכן אין לאף רשימה מסלול של הצבעה בסוגיה הזו."
       }
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "settlements",
       "issue_label": "הרחבת ההתנחלויות",
       "stance": 1,
       "stance_he": "בעד",
       "evidence": "sourced",
-      "source_count": 1,
+      "source_count": 3,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5764,13 +5772,13 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "term-limits",
       "issue_label": "הגבלת כהונת ראש הממשלה",
       "stance": 1,
       "stance_he": "בעד",
       "evidence": "sourced",
-      "source_count": 2,
+      "source_count": 3,
       "strongest_source": {
         "type": "media",
         "type_he": "מקור תקשורתי",
@@ -5784,13 +5792,13 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "benefits-for-service",
       "issue_label": "התניית הטבות בשירות צבאי או אזרחי",
       "stance": 1,
       "stance_he": "בעד",
       "evidence": "sourced",
-      "source_count": 2,
+      "source_count": 3,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5804,29 +5812,33 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "food-imports",
       "issue_label": "פתיחת שוק המזון ליבוא",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "שלושה דומיינים אפשריים נבדקו ו-hamiluimnikim.org.il עדיין עמוד \"בקרוב\"; חיפושי חדשות בשם יועז הנדל ו-13 הצעות החוק שיזם (2019–2021). שלושה מקורות קרובים נדחו: ידיעות 2018 על חוק הלאום ו-ynet 2016 על הר הבית (לפני רצפת 2019), ו-ice 2022 שעוסק ב\"ממשל\" בהר הבית ולא בתפילה. הנדל כיהן בסיעת תקווה חדשה, ורשימה חדשה אינה יורשת הצבעות של סיעה אחרת. לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות ו-13 הצעות החוק של יועז הנדל, ואין בהן דבר על יבוא, מכסים או מועצות ייצור.",
-        "issue_note": null
-      }
+      "stance": 1,
+      "stance_he": "בעד",
+      "evidence": "sourced",
+      "source_count": 1,
+      "strongest_source": {
+        "type": "platform",
+        "type_he": "מצע רשמי",
+        "tier": "doc",
+        "date": "2026-09-08",
+        "title": "מצע המפלגה הכלכלית — יוקר המחיה",
+        "url": "https://www.hakalkalit.org/מצע-המפלגה-הכלכלית",
+        "verified": "2026-09-08"
+      },
+      "searched": null
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "lgbt-equality",
       "issue_label": "שוויון זכויות לקהילה הלהט\"בית",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
+      "stance": 1,
+      "stance_he": "בעד",
       "evidence": "sourced",
-      "source_count": 1,
+      "source_count": 2,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5840,7 +5852,7 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "saudi-normalization",
       "issue_label": "ויתורים לפלסטינים תמורת שלום עם סעודיה",
       "stance": 0.5,
@@ -5849,20 +5861,20 @@
       "source_count": 0,
       "strongest_source": null,
       "searched": {
-        "checked": "2026-09-08",
-        "how": "שלושה דומיינים אפשריים נבדקו ו-hamiluimnikim.org.il עדיין עמוד \"בקרוב\"; חיפושי חדשות בשם יועז הנדל ו-13 הצעות החוק שיזם (2019–2021). שלושה מקורות קרובים נדחו: ידיעות 2018 על חוק הלאום ו-ynet 2016 על הר הבית (לפני רצפת 2019), ו-ice 2022 שעוסק ב\"ממשל\" בהר הבית ולא בתפילה. הנדל כיהן בסיעת תקווה חדשה, ורשימה חדשה אינה יורשת הצבעות של סיעה אחרת. לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות ו-13 הצעות החוק של יועז הנדל, ואין בהן דבר על יבוא, מכסים או מועצות ייצור.",
+        "checked": "2026-09-09",
+        "how": "הרשימה המשותפת \"המילואימניקים והכלכלית\" הוגשה ב-7.9.2026, ועמדותיה נגזרות משתי המרכיבות. שתי הסוגיות שנותרו הן אלה שבהן שתיהן שתקו: לא נמצאה אמירה של הנדל ולא של זליכה. נבדקו אתר המילואימניקים (עדיין \"בקרוב\" בשלושה דומיינים), אתר הכלכלית החדשה על 48 עמודיו, ארכיון טורי הדעה של זליכה ב-ice, חיפושי חדשות בשני השמות, ו-13 הצעות החוק שיזם הנדל. מקורות קרובים שנדחו: ynet 2016 על הר הבית (לפני רצפת 2019), ice 2022 שעוסק ב\"ממשל\" בהר הבית ולא בתפילה, וטור של זליכה על נורמליזציה סעודית שמתאר דינמיקה אזורית ולא עמדת מדיניות.",
         "issue_note": "נבדק גם מאגר ההצבעות של הכנסת (KNS_PlenumVote, 8.9.2026): אין הצבעה במליאה שכותרתה מזכירה את סעודיה או נורמליזציה. לכן אין מסלול של הצבעה בסוגיה הזו גם לרשימות שיש להן סיעה בכנסת."
       }
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "universal-service",
       "issue_label": "חובת שירות לכלל האזרחים",
-      "stance": 1,
-      "stance_he": "בעד",
+      "stance": 0.5,
+      "stance_he": "עמדה חלקית",
       "evidence": "sourced",
-      "source_count": 1,
+      "source_count": 3,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5876,13 +5888,13 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "haredi-coalition",
       "issue_label": "חרדים בקואליציה ללא חוק גיוס",
-      "stance": 0,
-      "stance_he": "נגד",
+      "stance": 0.5,
+      "stance_he": "עמדה חלקית",
       "evidence": "sourced",
-      "source_count": 1,
+      "source_count": 2,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5896,13 +5908,13 @@
     },
     {
       "party": "miluim",
-      "party_name": "המילואימניקים",
+      "party_name": "המילואימניקים והכלכלית",
       "issue": "arab-coalition",
       "issue_label": "מפלגות ערביות בקואליציה",
       "stance": 0,
       "stance_he": "נגד",
       "evidence": "sourced",
-      "source_count": 1,
+      "source_count": 3,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -7049,394 +7061,6 @@
         "how": "המצע המלא באתר (\"מגלות לריבונות\") וכל עמוד סריק בו, כ-40 חיפושי חדשות, וכל 120 הצעות החוק שענת וילף יזמה בכנסת (PersonID 14470, כהונה 2010–2019). שני ציטוטים קרובים נדחו: אחד עוסק ביהודה ושומרון ולא בעזה, השני בעקרון ולא בשאלה כפי שנוסחה. לשאלת פתיחת שוק המזון ליבוא נקרא המצע במלואו: הוא מונה \"פירוק מונופולים\" בין הרפורמות ליוקר המחיה, אך אינו מזכיר יבוא, מכסים או חקלאות ולו פעם אחת.",
         "issue_note": null
       }
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "palestinian-state",
-      "issue_label": "מדינה פלסטינית",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "מצע המפלגה הכלכלית — ביטחון",
-        "url": "https://www.hakalkalit.org/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "death-penalty",
-      "issue_label": "עונש מוות למחבלים",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "האתר עלה בינתיים: 48 עמודי תוכן, ובהם פרק הביטחון במלואו — אין בו הר הבית ואין בו סעודיה. בנוסף ארכיון טורי הדעה המלא של ירון זליכה ב-ice (כ-30 טורים), סריקת Wayback וחיפושים בניסוחים שונים. שני מקורות קרובים נדחו: טור שעוסק בנורמליזציה סעודית אך מתאר דינמיקה אזורית ולא עמדת מדיניות, ושורת מצע השוללת כל ויתור טריטוריאלי — היא אינה עונה על השאלה, שהיא מותנית (ויתור בתמורה להסכם) ולא כללית.",
-        "issue_note": null
-      }
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "haredi-draft",
-      "issue_label": "גיוס חרדים",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "מצע המפלגה הכלכלית — ביטחון",
-        "url": "https://www.hakalkalit.org/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "judicial-reform",
-      "issue_label": "הרפורמה המשפטית והגבלת בג\"ץ",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "policy",
-        "type_he": "מסמך מדיניות רשמי",
-        "tier": "doc",
-        "date": "2023-01-31",
-        "title": "עמדת פרופ' זליכה והמפלגה הכלכלית בנושא הרפורמה המשפטית",
-        "url": "https://www.hakalkalit.org/%D7%A8%D7%A4%D7%95%D7%A8%D7%9E%D7%94-%D7%91%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA-%D7%94%D7%9E%D7%A9%D7%A4%D7%98",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "oct7-inquiry",
-      "issue_label": "ועדת חקירה ממלכתית ל-7 באוקטובר",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2026-08-13",
-        "title": "\"נתניהו מפחד למנות אותי לשר אוצר\": מי אתה באמת, ירון זליכה?",
-        "url": "https://www.c14.co.il/article/1659414",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "religion-state",
-      "issue_label": "תחבורה ציבורית בשבת ונישואים אזרחיים",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "media",
-        "type_he": "מקור תקשורתי",
-        "tier": "reported",
-        "date": "2021-03-17",
-        "title": "שאלון הבחירות של שקוף: המפלגות שמציעות אלטרנטיבה לנישואין דרך הרבנות — תשובת המפלגה הכלכלית",
-        "url": "https://shakuf.co.il/19271",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "gaza-control",
-      "issue_label": "שליטה ביטחונית בעזה",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "מצע המפלגה הכלכלית — ביטחון",
-        "url": "https://www.hakalkalit.org/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "lower-taxes",
-      "issue_label": "הורדת מסים מול שירותים לאזרח",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "מצע המפלגה הכלכלית",
-        "url": "https://www.hakalkalit.org/%D7%9E%D7%A6%D7%A2-%D7%94%D7%9E%D7%A4%D7%9C%D7%92%D7%94-%D7%94%D7%9B%D7%9C%D7%9B%D7%9C%D7%99%D7%AA",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "yeshiva-budgets",
-      "issue_label": "תקציבי הישיבות והחינוך החרדי",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "מצע המפלגה הכלכלית — ביטחון",
-        "url": "https://www.hakalkalit.org/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "nation-state-law",
-      "issue_label": "סעיף שוויון בחוק הלאום",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "נושאים ותחומים נוספים | המפלגה הכלכלית",
-        "url": "https://web.archive.org/web/20251116163323/https://www.hakalkalit.org/%D7%A0%D7%95%D7%A9%D7%90%D7%99%D7%9D-%D7%95%D7%AA%D7%97%D7%95%D7%9E%D7%99%D7%9D-%D7%A0%D7%95%D7%A1%D7%A4%D7%99%D7%9D",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "temple-mount",
-      "issue_label": "תפילת יהודים בהר הבית",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "האתר עלה בינתיים: 48 עמודי תוכן, ובהם פרק הביטחון במלואו — אין בו הר הבית ואין בו סעודיה. בנוסף ארכיון טורי הדעה המלא של ירון זליכה ב-ice (כ-30 טורים), סריקת Wayback וחיפושים בניסוחים שונים. שני מקורות קרובים נדחו: טור שעוסק בנורמליזציה סעודית אך מתאר דינמיקה אזורית ולא עמדת מדיניות, ושורת מצע השוללת כל ויתור טריטוריאלי — היא אינה עונה על השאלה, שהיא מותנית (ויתור בתמורה להסכם) ולא כללית.",
-        "issue_note": "נבדק גם מאגר ההצבעות של הכנסת (KNS_PlenumVote, 8.9.2026): אין ולו הצבעה אחת במליאה על תפילת יהודים בהר הבית. שתי ההצבעות היחידות שכותרתן מזכירה את הר הבית הן הצעת חוק פרטית מ-2022 על שמירה על המקומות הקדושים, שאינה עוסקת בזכות התפילה, והצעת אי-אמון מ-2023 — הצבעה על אמון בממשלה ולא על השאלה. לכן אין לאף רשימה מסלול של הצבעה בסוגיה הזו."
-      }
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "settlements",
-      "issue_label": "הרחבת ההתנחלויות",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "מצע המפלגה הכלכלית — ביטחון",
-        "url": "https://www.hakalkalit.org/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "media",
-        "type_he": "מקור תקשורתי",
-        "tier": "reported",
-        "date": "2021-03-17",
-        "title": "שאלון הבחירות של שקוף: המפלגות שהבטיחו להילחם בשחיתות השלטונית — תשובת המפלגה הכלכלית",
-        "url": "https://shakuf.co.il/19268",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "benefits-for-service",
-      "issue_label": "התניית הטבות בשירות צבאי או אזרחי",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "מצע המפלגה הכלכלית — ביטחון",
-        "url": "https://www.hakalkalit.org/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "food-imports",
-      "issue_label": "פתיחת שוק המזון ליבוא",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-08",
-        "title": "מצע המפלגה הכלכלית — יוקר המחיה",
-        "url": "https://www.hakalkalit.org/מצע-המפלגה-הכלכלית",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "lgbt-equality",
-      "issue_label": "שוויון זכויות לקהילה הלהט\"בית",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "נושאים ותחומים נוספים | המפלגה הכלכלית",
-        "url": "https://web.archive.org/web/20251116163323/https://www.hakalkalit.org/%D7%A0%D7%95%D7%A9%D7%90%D7%99%D7%9D-%D7%95%D7%AA%D7%97%D7%95%D7%9E%D7%99%D7%9D-%D7%A0%D7%95%D7%A1%D7%A4%D7%99%D7%9D",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "saudi-normalization",
-      "issue_label": "ויתורים לפלסטינים תמורת שלום עם סעודיה",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "האתר עלה בינתיים: 48 עמודי תוכן, ובהם פרק הביטחון במלואו — אין בו הר הבית ואין בו סעודיה. בנוסף ארכיון טורי הדעה המלא של ירון זליכה ב-ice (כ-30 טורים), סריקת Wayback וחיפושים בניסוחים שונים. שני מקורות קרובים נדחו: טור שעוסק בנורמליזציה סעודית אך מתאר דינמיקה אזורית ולא עמדת מדיניות, ושורת מצע השוללת כל ויתור טריטוריאלי — היא אינה עונה על השאלה, שהיא מותנית (ויתור בתמורה להסכם) ולא כללית.",
-        "issue_note": "נבדק גם מאגר ההצבעות של הכנסת (KNS_PlenumVote, 8.9.2026): אין הצבעה במליאה שכותרתה מזכירה את סעודיה או נורמליזציה. לכן אין מסלול של הצבעה בסוגיה הזו גם לרשימות שיש להן סיעה בכנסת."
-      }
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "universal-service",
-      "issue_label": "חובת שירות לכלל האזרחים",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "מצע המפלגה הכלכלית — ביטחון",
-        "url": "https://www.hakalkalit.org/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "haredi-coalition",
-      "issue_label": "חרדים בקואליציה ללא חוק גיוס",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2026-07-09",
-        "title": "\"אני בידידות עם נתניהו, להנדל-טרופר אין אג'נדה\"",
-        "url": "https://www.israelhayom.co.il/news/politics/article/20941902",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "zelicha",
-      "party_name": "הכלכלית החדשה",
-      "issue": "arab-coalition",
-      "issue_label": "מפלגות ערביות בקואליציה",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2026-08-13",
-        "title": "\"נתניהו מפחד למנות אותי לשר אוצר\": מי אתה באמת, ירון זליכה?",
-        "url": "https://www.c14.co.il/article/1659414",
-        "verified": "2026-09-08"
-      },
-      "searched": null
     },
     {
       "party": "standing",

@@ -1,8 +1,8 @@
 {
   "$comment": "נוצר אוטומטית על ידי scripts/gen-repo.mjs במאגר האתר. אין לערוך ידנית — הקובץ ייכתב מחדש.",
   "name": "מצפן הבחירות 2026",
-  "version": "2026-09-08",
-  "generated": "2026-09-08",
+  "version": "2026-09-09",
+  "generated": "2026-09-09",
   "election_date": "2026-10-27",
   "site": "https://bhirot26.online",
   "repository": "https://github.com/dangelm/bhirot26-election-data",
@@ -10,7 +10,7 @@
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "counts": {
     "total": 36,
-    "scored": 21
+    "scored": 20
   },
   "parties": [
     {
@@ -197,15 +197,15 @@
     },
     {
       "id": "miluim",
-      "name": "המילואימניקים",
+      "name": "המילואימניקים והכלכלית",
       "ballot_letter": null,
-      "leader": "יועז הנדל",
-      "tag": "מרכז-ימין",
+      "leader": "יועז הנדל · ירון זליכה",
+      "tag": "מרכז-ימין · כלכלית",
       "scored": true,
       "major": false,
       "debut": true,
       "status": null,
-      "note": "ריצה משותפת עם הכלכלית החדשה (6.9.2026)",
+      "note": "אות הרשימה תיקבע באישור ועדת הבחירות",
       "page": "https://bhirot26.online/party/miluim"
     },
     {
@@ -448,11 +448,11 @@
       "ballot_letter": null,
       "leader": "ירון זליכה",
       "tag": "כלכלית",
-      "scored": true,
+      "scored": false,
       "major": false,
       "debut": false,
-      "status": null,
-      "note": "ריצה משותפת עם המילואימניקים (6.9.2026)",
+      "status": "merged",
+      "note": "רצה במסגרת \"המילואימניקים והכלכלית\" (הוגשה 7.9.2026)",
       "page": "https://bhirot26.online/party/zelicha"
     },
     {
