@@ -1,8 +1,8 @@
 {
   "$comment": "נוצר אוטומטית על ידי scripts/gen-repo.mjs במאגר האתר. אין לערוך ידנית — הקובץ ייכתב מחדש.",
   "name": "מצפן הבחירות 2026",
-  "version": "2026-09-09",
-  "generated": "2026-09-09",
+  "version": "2026-09-10",
+  "generated": "2026-09-10",
   "election_date": "2026-10-27",
   "site": "https://bhirot26.online",
   "repository": "https://github.com/dangelm/bhirot26-election-data",
@@ -10,7 +10,7 @@
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "counts": {
     "total": 36,
-    "scored": 20
+    "scored": 18
   },
   "parties": [
     {
@@ -243,8 +243,8 @@
       "scored": false,
       "major": false,
       "debut": true,
-      "status": null,
-      "note": "הרשימה טרם הוצגה",
+      "status": "withdrawn",
+      "note": "לא הגישה רשימה; אינה בין 38 הרשימות שנרשמו",
       "page": "https://bhirot26.online/party/q4"
     },
     {
@@ -282,8 +282,8 @@
       "scored": false,
       "major": false,
       "debut": true,
-      "status": null,
-      "note": "מתמודדת לראשונה",
+      "status": "withdrawn",
+      "note": "לא הגישה רשימה; אינה בין 38 הרשימות שנרשמו",
       "page": "https://bhirot26.online/party/degel"
     },
     {
@@ -422,11 +422,11 @@
       "ballot_letter": null,
       "leader": "עינת וילף",
       "tag": "מרכז · חדשה",
-      "scored": true,
+      "scored": false,
       "major": false,
       "debut": true,
-      "status": null,
-      "note": null,
+      "status": "merged",
+      "note": "רצה במסגרת \"המילואימניקים והכלכלית\" (7.9.2026)",
       "page": "https://bhirot26.online/party/wilf"
     },
     {
@@ -461,11 +461,11 @@
       "ballot_letter": null,
       "leader": "רולא דאוד · אלון-לי גרין",
       "tag": "יהודית-ערבית · חדשה",
-      "scored": true,
+      "scored": false,
       "major": false,
       "debut": true,
-      "status": null,
-      "note": "מתחת לאחוז החסימה בסקרים",
+      "status": "withdrawn",
+      "note": "לא הגישה רשימה (8.9.2026) כדי לא לשרוף קולות",
       "page": "https://bhirot26.online/party/standing"
     },
     {

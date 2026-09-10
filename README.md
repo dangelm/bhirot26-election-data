@@ -15,14 +15,14 @@
 | | |
 |---|---|
 | רשימות שהוגשו ומוצגות | 36 |
-| רשימות מנוקדות במחשבון | 20 |
+| רשימות מנוקדות במחשבון | 18 |
 | סוגיות | 20 |
-| תאים (רשימה × סוגיה) | 400 |
-| תאים עם מקור מוצג | 347 (87%) |
-| תאים שנבדקו ולא נמצאה בהם אמירה פומבית | 53 (13%) |
+| תאים (רשימה × סוגיה) | 360 |
+| תאים עם מקור מוצג | 321 (89%) |
+| תאים שנבדקו ולא נמצאה בהם אמירה פומבית | 39 (11%) |
 | תאים שטרם נחקרו | 0 |
-| רשומות מקור מאומתות | 815 |
-| גרסת הנתונים | 2026-09-09 |
+| רשומות מקור מאומתות | 835 |
+| גרסת הנתונים | 2026-09-10 |
 
 ## הקבצים
 
@@ -30,9 +30,9 @@
 |---|---|
 | `data/parties.json` | כל 36 הרשימות: שם, אות, יו"ר, שיוך, והאם היא מנוקדת במחשבון |
 | `data/issues.json` | 20 השאלות כלשונן, עם הנוסח המלא וההסבר שמוצג למשתמש |
-| `data/positions.json` | 400 התאים: העמדה, סוג הראיה, המקור החזק ביותר ותאריכו |
-| `data/sources.json` | 815 רשומות המקור עם הציטוט המילולי, וכן התאים שנבדקו ונמצאו ריקים |
-| `data/positions.csv` | אותם 400 תאים כטבלה שטוחה, לניתוח בגיליון או ב-pandas |
+| `data/positions.json` | 360 התאים: העמדה, סוג הראיה, המקור החזק ביותר ותאריכו |
+| `data/sources.json` | 835 רשומות המקור עם הציטוט המילולי, וכן התאים שנבדקו ונמצאו ריקים |
+| `data/positions.csv` | אותם 360 תאים כטבלה שטוחה, לניתוח בגיליון או ב-pandas |
 | `methodology.md` | היררכיית המקורות, קידוד העמדות, תיקון הסיכוי, ומה שהכלי אינו עושה |
 | `CHANGELOG.md` | כל שינוי בנתונים לפי תאריך |
 
@@ -40,13 +40,13 @@
 
 הנתונים משתנים עד סגירת הרשימות, ולכן ציטוט בלי גרסה אינו ניתן לבדיקה:
 
-> מצפן הבחירות 2026, גרסת נתונים 2026-09-09. https://bhirot26.online · https://github.com/dangelm/bhirot26-election-data
+> מצפן הבחירות 2026, גרסת נתונים 2026-09-10. https://bhirot26.online · https://github.com/dangelm/bhirot26-election-data
 
 ## מה המאגר הזה אינו
 
 - **אינו סקר ואינו תחזית.** הוא אומר מה מפלגות אמרו, לא מה בוחרים יחשבו או כיצד יצביעו.
 - **אינו ממצה את השדה הפוליטי.** 20 שאלות אינן כל מה שמפריד בין רשימות.
-- **אינו שלם.** ב-53 תאים חיפשנו ולא מצאנו אמירה פומבית. הם מסומנים ככאלה ולא
+- **אינו שלם.** ב-39 תאים חיפשנו ולא מצאנו אמירה פומבית. הם מסומנים ככאלה ולא
   מוצגים כעמדה — ההבחנה בין "המפלגה מסויגת" ל"המפלגה שתקה" נשמרת בכל הקבצים.
 - **אינו קפוא.** רשימות מתמזגות ופורשות עד סגירתן; ראו `CHANGELOG.md`.
 
@@ -71,8 +71,8 @@ names the parties requested are still under review by the Central Elections Comm
 Petitions to disqualify a list or candidate may be filed until 14.9.2026; the data
 becomes final after that date.
 
-20 parties × 20 issues = 400 coded positions. 347 carry a
-published primary source with a verbatim quote, a date and a link; 53 are cells where we
+18 parties × 20 issues = 360 coded positions. 321 carry a
+published primary source with a verbatim quote, a date and a link; 39 are cells where we
 searched the party's platform, the news, and — for leaders who sat in the Knesset — the voting
 and bill record, and found no public statement. Those are marked as documented silence rather
 than treated as a hedged position. 0 cells remain unresearched.

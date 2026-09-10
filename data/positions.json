@@ -1,19 +1,19 @@
 {
   "$comment": "נוצר אוטומטית על ידי scripts/gen-repo.mjs במאגר האתר. אין לערוך ידנית — הקובץ ייכתב מחדש.",
   "name": "מצפן הבחירות 2026",
-  "version": "2026-09-09",
-  "generated": "2026-09-09",
+  "version": "2026-09-10",
+  "generated": "2026-09-10",
   "election_date": "2026-10-27",
   "site": "https://bhirot26.online",
   "repository": "https://github.com/dangelm/bhirot26-election-data",
   "license": "CC BY 4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "counts": {
-    "parties": 20,
+    "parties": 18,
     "issues": 20,
-    "cells": 400,
-    "sourced": 347,
-    "documented_silence": 53,
+    "cells": 360,
+    "sourced": 321,
+    "documented_silence": 39,
     "unresearched": 0
   },
   "stance_values": {
@@ -5542,7 +5542,7 @@
       "stance": 0,
       "stance_he": "נגד",
       "evidence": "sourced",
-      "source_count": 4,
+      "source_count": 6,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5582,7 +5582,7 @@
       "stance": 1,
       "stance_he": "בעד",
       "evidence": "sourced",
-      "source_count": 3,
+      "source_count": 5,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5602,7 +5602,7 @@
       "stance": 0.5,
       "stance_he": "עמדה חלקית",
       "evidence": "sourced",
-      "source_count": 3,
+      "source_count": 5,
       "strongest_source": {
         "type": "media",
         "type_he": "מקור תקשורתי",
@@ -5639,10 +5639,10 @@
       "party_name": "המילואימניקים והכלכלית",
       "issue": "religion-state",
       "issue_label": "תחבורה ציבורית בשבת ונישואים אזרחיים",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
+      "stance": 1,
+      "stance_he": "בעד",
       "evidence": "sourced",
-      "source_count": 2,
+      "source_count": 4,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5679,10 +5679,10 @@
       "party_name": "המילואימניקים והכלכלית",
       "issue": "lower-taxes",
       "issue_label": "הורדת מסים מול שירותים לאזרח",
-      "stance": 1,
-      "stance_he": "בעד",
+      "stance": 0.5,
+      "stance_he": "עמדה חלקית",
       "evidence": "sourced",
-      "source_count": 1,
+      "source_count": 2,
       "strongest_source": {
         "type": "platform",
         "type_he": "מצע רשמי",
@@ -5702,7 +5702,7 @@
       "stance": 0,
       "stance_he": "נגד",
       "evidence": "sourced",
-      "source_count": 3,
+      "source_count": 5,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5722,7 +5722,7 @@
       "stance": 1,
       "stance_he": "בעד",
       "evidence": "sourced",
-      "source_count": 1,
+      "source_count": 2,
       "strongest_source": {
         "type": "platform",
         "type_he": "מצע רשמי",
@@ -5745,8 +5745,8 @@
       "source_count": 0,
       "strongest_source": null,
       "searched": {
-        "checked": "2026-09-09",
-        "how": "הרשימה המשותפת \"המילואימניקים והכלכלית\" הוגשה ב-7.9.2026, ועמדותיה נגזרות משתי המרכיבות. שתי הסוגיות שנותרו הן אלה שבהן שתיהן שתקו: לא נמצאה אמירה של הנדל ולא של זליכה. נבדקו אתר המילואימניקים (עדיין \"בקרוב\" בשלושה דומיינים), אתר הכלכלית החדשה על 48 עמודיו, ארכיון טורי הדעה של זליכה ב-ice, חיפושי חדשות בשני השמות, ו-13 הצעות החוק שיזם הנדל. מקורות קרובים שנדחו: ynet 2016 על הר הבית (לפני רצפת 2019), ice 2022 שעוסק ב\"ממשל\" בהר הבית ולא בתפילה, וטור של זליכה על נורמליזציה סעודית שמתאר דינמיקה אזורית ולא עמדת מדיניות.",
+        "checked": "2026-09-10",
+        "how": "הרשימה המשותפת \"המילואימניקים והכלכלית\" הוגשה ב-7.9.2026 ואליה הצטרפה גם עוז ב-7.9, ועמדותיה נגזרות משלוש המרכיבות. הר הבית היא הסוגיה היחידה שבה שלושתן שתקו: לא נמצאה אמירה של הנדל, של זליכה ולא של וילף. נבדקו אתר המילואימניקים (עדיין \"בקרוב\" בשלושה דומיינים), אתר הכלכלית החדשה על 48 עמודיו, המצע המלא של עוז וכל 120 הצעות החוק שיזמה וילף בכנסת, ארכיון טורי הדעה של זליכה ב-ice, וחיפושי חדשות בשלושת השמות. שני מקורות קרובים נדחו: ynet 2016 על הר הבית (לפני רצפת 2019) ו-ice 2022 שעוסק ב\"ממשל\" בהר הבית ולא בתפילה.",
         "issue_note": "נבדק גם מאגר ההצבעות של הכנסת (KNS_PlenumVote, 8.9.2026): אין ולו הצבעה אחת במליאה על תפילת יהודים בהר הבית. שתי ההצבעות היחידות שכותרתן מזכירה את הר הבית הן הצעת חוק פרטית מ-2022 על שמירה על המקומות הקדושים, שאינה עוסקת בזכות התפילה, והצעת אי-אמון מ-2023 — הצבעה על אמון בממשלה ולא על השאלה. לכן אין לאף רשימה מסלול של הצבעה בסוגיה הזו."
       }
     },
@@ -5755,10 +5755,10 @@
       "party_name": "המילואימניקים והכלכלית",
       "issue": "settlements",
       "issue_label": "הרחבת ההתנחלויות",
-      "stance": 1,
-      "stance_he": "בעד",
+      "stance": 0.5,
+      "stance_he": "עמדה חלקית",
       "evidence": "sourced",
-      "source_count": 3,
+      "source_count": 5,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5798,7 +5798,7 @@
       "stance": 1,
       "stance_he": "בעד",
       "evidence": "sourced",
-      "source_count": 3,
+      "source_count": 5,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5857,14 +5857,18 @@
       "issue_label": "ויתורים לפלסטינים תמורת שלום עם סעודיה",
       "stance": 0.5,
       "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-09",
-        "how": "הרשימה המשותפת \"המילואימניקים והכלכלית\" הוגשה ב-7.9.2026, ועמדותיה נגזרות משתי המרכיבות. שתי הסוגיות שנותרו הן אלה שבהן שתיהן שתקו: לא נמצאה אמירה של הנדל ולא של זליכה. נבדקו אתר המילואימניקים (עדיין \"בקרוב\" בשלושה דומיינים), אתר הכלכלית החדשה על 48 עמודיו, ארכיון טורי הדעה של זליכה ב-ice, חיפושי חדשות בשני השמות, ו-13 הצעות החוק שיזם הנדל. מקורות קרובים שנדחו: ynet 2016 על הר הבית (לפני רצפת 2019), ice 2022 שעוסק ב\"ממשל\" בהר הבית ולא בתפילה, וטור של זליכה על נורמליזציה סעודית שמתאר דינמיקה אזורית ולא עמדת מדיניות.",
-        "issue_note": "נבדק גם מאגר ההצבעות של הכנסת (KNS_PlenumVote, 8.9.2026): אין הצבעה במליאה שכותרתה מזכירה את סעודיה או נורמליזציה. לכן אין מסלול של הצבעה בסוגיה הזו גם לרשימות שיש להן סיעה בכנסת."
-      }
+      "evidence": "sourced",
+      "source_count": 1,
+      "strongest_source": {
+        "type": "leader",
+        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
+        "tier": "said",
+        "date": "2025-12-13",
+        "title": "הח\"כית לשעבר חוזרת לפרונט - ומפוצצת מיתוסים: \"שיקרנו לעצמנו על הפלסטינים\"",
+        "url": "https://www.maariv.co.il/news/opinions/article-1261155",
+        "verified": "2026-09-08"
+      },
+      "searched": null
     },
     {
       "party": "miluim",
@@ -5874,7 +5878,7 @@
       "stance": 0.5,
       "stance_he": "עמדה חלקית",
       "evidence": "sourced",
-      "source_count": 3,
+      "source_count": 5,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -5894,7 +5898,7 @@
       "stance": 0.5,
       "stance_he": "עמדה חלקית",
       "evidence": "sourced",
-      "source_count": 2,
+      "source_count": 3,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
@@ -6690,754 +6694,6 @@
         "date": "2026-07-07",
         "title": "פעיל הימין מטיל פצצה: \"החלטתי לתמוך בבנט\"",
         "url": "https://www.srugim.co.il/101005786-%D7%A4%D7%A2%D7%99%D7%9C-%D7%94%D7%99%D7%9E%D7%99%D7%9F-%D7%9E%D7%A4%D7%AA%D7%99%D7%A2-%D7%94%D7%97%D7%9C%D7%98%D7%AA%D7%99-%D7%9C%D7%AA%D7%9E%D7%95%D7%9A-%D7%91%D7%91%D7%A0%D7%98",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "palestinian-state",
-      "issue_label": "מדינה פלסטינית",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2026-01-22",
-        "title": "\"רעיון השיבה צריך למות\": עינת וילף מנפצת את אשליית השלום",
-        "url": "https://www.c14.co.il/article/1437699",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "death-penalty",
-      "issue_label": "עונש מוות למחבלים",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "המצע המלא באתר (\"מגלות לריבונות\") וכל עמוד סריק בו, כ-40 חיפושי חדשות, וכל 120 הצעות החוק שענת וילף יזמה בכנסת (PersonID 14470, כהונה 2010–2019). שני ציטוטים קרובים נדחו: אחד עוסק ביהודה ושומרון ולא בעזה, השני בעקרון ולא בשאלה כפי שנוסחה. לשאלת פתיחת שוק המזון ליבוא נקרא המצע במלואו: הוא מונה \"פירוק מונופולים\" בין הרפורמות ליוקר המחיה, אך אינו מזכיר יבוא, מכסים או חקלאות ולו פעם אחת.",
-        "issue_note": null
-      }
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "haredi-draft",
-      "issue_label": "גיוס חרדים",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "שירותי המדינה למשרתי המדינה | מפלגת עוז",
-        "url": "https://www.ozparty.co.il/state-services",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "judicial-reform",
-      "issue_label": "הרפורמה המשפטית והגבלת בג\"ץ",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "מגלות לריבונות | מפלגת עוז",
-        "url": "https://www.ozparty.co.il/exile-to-sovereignty",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "oct7-inquiry",
-      "issue_label": "ועדת חקירה ממלכתית ל-7 באוקטובר",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "המצע המלא באתר (\"מגלות לריבונות\") וכל עמוד סריק בו, כ-40 חיפושי חדשות, וכל 120 הצעות החוק שענת וילף יזמה בכנסת (PersonID 14470, כהונה 2010–2019). שני ציטוטים קרובים נדחו: אחד עוסק ביהודה ושומרון ולא בעזה, השני בעקרון ולא בשאלה כפי שנוסחה. לשאלת פתיחת שוק המזון ליבוא נקרא המצע במלואו: הוא מונה \"פירוק מונופולים\" בין הרפורמות ליוקר המחיה, אך אינו מזכיר יבוא, מכסים או חקלאות ולו פעם אחת.",
-        "issue_note": null
-      }
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "religion-state",
-      "issue_label": "תחבורה ציבורית בשבת ונישואים אזרחיים",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "מגלות לריבונות | מפלגת עוז",
-        "url": "https://www.ozparty.co.il/exile-to-sovereignty",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "gaza-control",
-      "issue_label": "שליטה ביטחונית בעזה",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "המצע המלא באתר (\"מגלות לריבונות\") וכל עמוד סריק בו, כ-40 חיפושי חדשות, וכל 120 הצעות החוק שענת וילף יזמה בכנסת (PersonID 14470, כהונה 2010–2019). שני ציטוטים קרובים נדחו: אחד עוסק ביהודה ושומרון ולא בעזה, השני בעקרון ולא בשאלה כפי שנוסחה. לשאלת פתיחת שוק המזון ליבוא נקרא המצע במלואו: הוא מונה \"פירוק מונופולים\" בין הרפורמות ליוקר המחיה, אך אינו מזכיר יבוא, מכסים או חקלאות ולו פעם אחת.",
-        "issue_note": null
-      }
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "lower-taxes",
-      "issue_label": "הורדת מסים מול שירותים לאזרח",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "שירותי המדינה למשרתי המדינה | מפלגת עוז",
-        "url": "https://www.ozparty.co.il/state-services",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "yeshiva-budgets",
-      "issue_label": "תקציבי הישיבות והחינוך החרדי",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "מגלות לריבונות | מפלגת עוז",
-        "url": "https://www.ozparty.co.il/exile-to-sovereignty",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "nation-state-law",
-      "issue_label": "סעיף שוויון בחוק הלאום",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "מתודעה גלותית להתנהלות ריבונית | מפלגת עוז",
-        "url": "https://www.ozparty.co.il/exile-to-sovereignty",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "temple-mount",
-      "issue_label": "תפילת יהודים בהר הבית",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "המצע המלא באתר (\"מגלות לריבונות\") וכל עמוד סריק בו, כ-40 חיפושי חדשות, וכל 120 הצעות החוק שענת וילף יזמה בכנסת (PersonID 14470, כהונה 2010–2019). שני ציטוטים קרובים נדחו: אחד עוסק ביהודה ושומרון ולא בעזה, השני בעקרון ולא בשאלה כפי שנוסחה. לשאלת פתיחת שוק המזון ליבוא נקרא המצע במלואו: הוא מונה \"פירוק מונופולים\" בין הרפורמות ליוקר המחיה, אך אינו מזכיר יבוא, מכסים או חקלאות ולו פעם אחת.",
-        "issue_note": "נבדק גם מאגר ההצבעות של הכנסת (KNS_PlenumVote, 8.9.2026): אין ולו הצבעה אחת במליאה על תפילת יהודים בהר הבית. שתי ההצבעות היחידות שכותרתן מזכירה את הר הבית הן הצעת חוק פרטית מ-2022 על שמירה על המקומות הקדושים, שאינה עוסקת בזכות התפילה, והצעת אי-אמון מ-2023 — הצבעה על אמון בממשלה ולא על השאלה. לכן אין לאף רשימה מסלול של הצבעה בסוגיה הזו."
-      }
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "settlements",
-      "issue_label": "הרחבת ההתנחלויות",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "מגלות לריבונות | מפלגת עוז",
-        "url": "https://www.ozparty.co.il/exile-to-sovereignty",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "המצע המלא באתר (\"מגלות לריבונות\") וכל עמוד סריק בו, כ-40 חיפושי חדשות, וכל 120 הצעות החוק שענת וילף יזמה בכנסת (PersonID 14470, כהונה 2010–2019). שני ציטוטים קרובים נדחו: אחד עוסק ביהודה ושומרון ולא בעזה, השני בעקרון ולא בשאלה כפי שנוסחה. לשאלת פתיחת שוק המזון ליבוא נקרא המצע במלואו: הוא מונה \"פירוק מונופולים\" בין הרפורמות ליוקר המחיה, אך אינו מזכיר יבוא, מכסים או חקלאות ולו פעם אחת.",
-        "issue_note": null
-      }
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "benefits-for-service",
-      "issue_label": "התניית הטבות בשירות צבאי או אזרחי",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "שירותי המדינה למשרתי המדינה | מפלגת עוז",
-        "url": "https://www.ozparty.co.il/state-services",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "food-imports",
-      "issue_label": "פתיחת שוק המזון ליבוא",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "המצע המלא באתר (\"מגלות לריבונות\") וכל עמוד סריק בו, כ-40 חיפושי חדשות, וכל 120 הצעות החוק שענת וילף יזמה בכנסת (PersonID 14470, כהונה 2010–2019). שני ציטוטים קרובים נדחו: אחד עוסק ביהודה ושומרון ולא בעזה, השני בעקרון ולא בשאלה כפי שנוסחה. לשאלת פתיחת שוק המזון ליבוא נקרא המצע במלואו: הוא מונה \"פירוק מונופולים\" בין הרפורמות ליוקר המחיה, אך אינו מזכיר יבוא, מכסים או חקלאות ולו פעם אחת.",
-        "issue_note": null
-      }
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "lgbt-equality",
-      "issue_label": "שוויון זכויות לקהילה הלהט\"בית",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "המצע המלא באתר (\"מגלות לריבונות\") וכל עמוד סריק בו, כ-40 חיפושי חדשות, וכל 120 הצעות החוק שענת וילף יזמה בכנסת (PersonID 14470, כהונה 2010–2019). שני ציטוטים קרובים נדחו: אחד עוסק ביהודה ושומרון ולא בעזה, השני בעקרון ולא בשאלה כפי שנוסחה. לשאלת פתיחת שוק המזון ליבוא נקרא המצע במלואו: הוא מונה \"פירוק מונופולים\" בין הרפורמות ליוקר המחיה, אך אינו מזכיר יבוא, מכסים או חקלאות ולו פעם אחת.",
-        "issue_note": null
-      }
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "saudi-normalization",
-      "issue_label": "ויתורים לפלסטינים תמורת שלום עם סעודיה",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2025-12-13",
-        "title": "הח\"כית לשעבר חוזרת לפרונט - ומפוצצת מיתוסים: \"שיקרנו לעצמנו על הפלסטינים\"",
-        "url": "https://www.maariv.co.il/news/opinions/article-1261155",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "universal-service",
-      "issue_label": "חובת שירות לכלל האזרחים",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "שירותי המדינה למשרתי המדינה | מפלגת עוז",
-        "url": "https://www.ozparty.co.il/state-services",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "haredi-coalition",
-      "issue_label": "חרדים בקואליציה ללא חוק גיוס",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2024-10-15",
-        "title": "איך יוצאים מהמלכוד הלאומי?",
-        "url": "https://www.israelhayom.co.il/magazine/hashavua/article/16616700",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "wilf",
-      "party_name": "עוז",
-      "issue": "arab-coalition",
-      "issue_label": "מפלגות ערביות בקואליציה",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "המצע המלא באתר (\"מגלות לריבונות\") וכל עמוד סריק בו, כ-40 חיפושי חדשות, וכל 120 הצעות החוק שענת וילף יזמה בכנסת (PersonID 14470, כהונה 2010–2019). שני ציטוטים קרובים נדחו: אחד עוסק ביהודה ושומרון ולא בעזה, השני בעקרון ולא בשאלה כפי שנוסחה. לשאלת פתיחת שוק המזון ליבוא נקרא המצע במלואו: הוא מונה \"פירוק מונופולים\" בין הרפורמות ליוקר המחיה, אך אינו מזכיר יבוא, מכסים או חקלאות ולו פעם אחת.",
-        "issue_note": null
-      }
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "palestinian-state",
-      "issue_label": "מדינה פלסטינית",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 4,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "מצע הבחירות של מקום לכולנו — שלום מבוסס שותפות",
-        "url": "https://www.place4all.org.il/platform",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "death-penalty",
-      "issue_label": "עונש מוות למחבלים",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "מצע הבחירות של מקום לכולנו — שיפור מערכת הצדק",
-        "url": "https://www.place4all.org.il/platform",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "haredi-draft",
-      "issue_label": "גיוס חרדים",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2026-08-13",
-        "title": "\"אנחנו הרוב\": בחיפה השיקה מפלגת מקום לכולנו את קמפיין הבחירות שלה",
-        "url": "https://1075.fm/item/222830",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "judicial-reform",
-      "issue_label": "הרפורמה המשפטית והגבלת בג\"ץ",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2024-11-25",
-        "title": "פוסט בערוץ הטלגרם של אלון-לי גרין: אסור להתרגל להפיכה המשטרית בחסות המלחמה",
-        "url": "https://t.me/s/AlonLeeGreen/130",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "oct7-inquiry",
-      "issue_label": "ועדת חקירה ממלכתית ל-7 באוקטובר",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-07",
-        "how": "ששת פרקי המצע באתר, עמוד השאלות והתשובות ועמוד הדרישות, ערוצי הטלגרם של שני היושבים בראש (סריקת ארכיון מלאה) וכתבות ההשקה. שתי ריצות עצמאיות הגיעו לאותה רשימה.",
-        "issue_note": null
-      }
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "religion-state",
-      "issue_label": "תחבורה ציבורית בשבת ונישואים אזרחיים",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "מצע הבחירות של מקום לכולנו — שוויון בזכות לחיי משפחה",
-        "url": "https://www.place4all.org.il/platform",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "gaza-control",
-      "issue_label": "שליטה ביטחונית בעזה",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 4,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "שאלות ותשובות של מקום לכולנו — אילו מאבקים נקדם בכנסת?",
-        "url": "https://www.place4all.org.il/qa",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "lower-taxes",
-      "issue_label": "הורדת מסים מול שירותים לאזרח",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "מצע הבחירות של מקום לכולנו — מדינה שעובדת בשביל כולנו",
-        "url": "https://www.place4all.org.il/platform",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "yeshiva-budgets",
-      "issue_label": "תקציבי הישיבות והחינוך החרדי",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-07",
-        "how": "ששת פרקי המצע באתר, עמוד השאלות והתשובות ועמוד הדרישות, ערוצי הטלגרם של שני היושבים בראש (סריקת ארכיון מלאה) וכתבות ההשקה. שתי ריצות עצמאיות הגיעו לאותה רשימה.",
-        "issue_note": null
-      }
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "nation-state-law",
-      "issue_label": "סעיף שוויון בחוק הלאום",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 3,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "מצע הבחירות של מקום לכולנו — ביטול חוק הלאום והכרה בזכויות קולקטיביות",
-        "url": "https://www.place4all.org.il/platform",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "temple-mount",
-      "issue_label": "תפילת יהודים בהר הבית",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2023-04-06",
-        "title": "פוסט בערוץ הטלגרם של אלון-לי גרין: במקום עוד מלחמה — הרגעת הרוחות בהר הבית",
-        "url": "https://t.me/s/AlonLeeGreen/20",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "settlements",
-      "issue_label": "הרחבת ההתנחלויות",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 4,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "מצע הבחירות של מקום לכולנו — סוף למפעל ההתנחלויות",
-        "url": "https://www.place4all.org.il/platform",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-07",
-        "how": "ששת פרקי המצע באתר, עמוד השאלות והתשובות ועמוד הדרישות, ערוצי הטלגרם של שני היושבים בראש (סריקת ארכיון מלאה) וכתבות ההשקה. שתי ריצות עצמאיות הגיעו לאותה רשימה.",
-        "issue_note": null
-      }
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "benefits-for-service",
-      "issue_label": "התניית הטבות בשירות צבאי או אזרחי",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-07",
-        "how": "ששת פרקי המצע באתר, עמוד השאלות והתשובות ועמוד הדרישות, ערוצי הטלגרם של שני היושבים בראש (סריקת ארכיון מלאה) וכתבות ההשקה. שתי ריצות עצמאיות הגיעו לאותה רשימה.",
-        "issue_note": null
-      }
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "food-imports",
-      "issue_label": "פתיחת שוק המזון ליבוא",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 1,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-08",
-        "title": "מקום לכולנו — המצע",
-        "url": "https://www.place4all.org.il/platform",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "lgbt-equality",
-      "issue_label": "שוויון זכויות לקהילה הלהט\"בית",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "מצע הבחירות של מקום לכולנו — שוויון זכויות מלא לקהילה הלהטב\"קית",
-        "url": "https://www.place4all.org.il/platform",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "saudi-normalization",
-      "issue_label": "ויתורים לפלסטינים תמורת שלום עם סעודיה",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "מצע הבחירות של מקום לכולנו — שלום אזורי",
-        "url": "https://www.place4all.org.il/platform",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "universal-service",
-      "issue_label": "חובת שירות לכלל האזרחים",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-07",
-        "title": "הדרישות של מקום לכולנו — ביטחון אישי לכולנו",
-        "url": "https://www.place4all.org.il/demands",
-        "verified": "2026-09-08"
-      },
-      "searched": null
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "haredi-coalition",
-      "issue_label": "חרדים בקואליציה ללא חוק גיוס",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-07",
-        "how": "ששת פרקי המצע באתר, עמוד השאלות והתשובות ועמוד הדרישות, ערוצי הטלגרם של שני היושבים בראש (סריקת ארכיון מלאה) וכתבות ההשקה. שתי ריצות עצמאיות הגיעו לאותה רשימה.",
-        "issue_note": null
-      }
-    },
-    {
-      "party": "standing",
-      "party_name": "מקום לכולנו",
-      "issue": "arab-coalition",
-      "issue_label": "מפלגות ערביות בקואליציה",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2026-07-06",
-        "title": "פוסט בערוץ הטלגרם של רולא דאוד: אלטרנטיבה פוליטית של שותפות ערבית-יהודית גם בכנסת",
-        "url": "https://t.me/s/RulaDaood/109",
         "verified": "2026-09-08"
       },
       "searched": null
