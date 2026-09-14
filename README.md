@@ -8,7 +8,7 @@
 ולקישור לעמוד שממנו נלקח.
 
 > [!IMPORTANT]
-> **הנתונים אינם סופיים עדיין.** הרשימות הוגשו ב-7–8.9.2026. האותיות והכינויים שביקשו המפלגות עדיין בבדיקת ועדת הבחירות המרכזית, ועד 14.9.2026 אפשר לעתור לפסילת רשימה או מועמד — הנתונים כאן יהיו סופיים אחרי התאריך הזה.
+> **הנתונים אינם סופיים עדיין.** הרשימות הוגשו לוועדת הבחירות המרכזית ב-7–8.9.2026, ותקופת הבקשות לפסילת רשימה או מועמד הסתיימה ב-14.9.2026. הוועדה עדיין בודקת את הרשימות, הכינויים והאותיות המבוקשים, והאישור הסופי צפוי עד 27.9.2026. עד אז האותיות של רשימות שאינן סיעות בכנסת היוצאת מוצגות כאותיות מבוקשות, וסדר המועמדים הוא כפי שהוגש.
 
 ## המספרים
 
@@ -22,7 +22,7 @@
 | תאים שנבדקו ולא נמצאה בהם אמירה פומבית | 39 (11%) |
 | תאים שטרם נחקרו | 0 |
 | רשומות מקור מאומתות | 835 |
-| גרסת הנתונים | 2026-09-12 |
+| גרסת הנתונים | 2026-09-14 |
 
 ## הקבצים
 
@@ -52,7 +52,7 @@
 
 הנתונים משתנים עד סגירת הרשימות, ולכן ציטוט בלי גרסה אינו ניתן לבדיקה:
 
-> מצפן הבחירות 2026, גרסת נתונים 2026-09-12. https://bhirot26.online · https://github.com/dangelm/bhirot26-election-data
+> מצפן הבחירות 2026, גרסת נתונים 2026-09-14. https://bhirot26.online · https://github.com/dangelm/bhirot26-election-data
 
 ## מה המאגר הזה אינו
 
@@ -78,10 +78,11 @@
 Open data behind **[מצפן הבחירות 2026](https://bhirot26.online)**, a voting-advice application for
 Israel's 26th Knesset election (2026-10-27).
 
-**Not final yet:** lists were filed on 7–8 September 2026, and the ballot letters and list
-names the parties requested are still under review by the Central Elections Committee.
-Petitions to disqualify a list or candidate may be filed until 14.9.2026; the data
-becomes final after that date.
+**Not final yet:** lists were filed on 7–8 September 2026 and the window for petitions to
+disqualify a list or candidate closed on 14.9.2026. The Central Elections Committee is
+still reviewing the lists, their names and the ballot letters they requested; final approval is
+expected by 27.9.2026. Until then `ballot_letter_requested` holds what a new list asked for
+(not an assigned letter), and `roster` is the list order as filed, up to the place published.
 
 18 parties × 20 issues = 360 coded positions. 321 carry a
 published primary source with a verbatim quote, a date and a link; 39 are cells where we

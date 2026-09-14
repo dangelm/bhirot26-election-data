@@ -1,8 +1,8 @@
 {
   "$comment": "נוצר אוטומטית על ידי scripts/gen-repo.mjs במאגר האתר. אין לערוך ידנית — הקובץ ייכתב מחדש.",
   "name": "מצפן הבחירות 2026",
-  "version": "2026-09-12",
-  "generated": "2026-09-12",
+  "version": "2026-09-14",
+  "generated": "2026-09-14",
   "election_date": "2026-10-27",
   "site": "https://bhirot26.online",
   "repository": "https://github.com/dangelm/bhirot26-election-data",
@@ -6324,7 +6324,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "palestinian-state",
       "issue_label": "מדינה פלסטינית",
       "stance": 0,
@@ -6344,7 +6344,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "death-penalty",
       "issue_label": "עונש מוות למחבלים",
       "stance": 1,
@@ -6364,7 +6364,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "haredi-draft",
       "issue_label": "גיוס חרדים",
       "stance": 0.5,
@@ -6384,7 +6384,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "judicial-reform",
       "issue_label": "הרפורמה המשפטית והגבלת בג\"ץ",
       "stance": 1,
@@ -6404,7 +6404,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "oct7-inquiry",
       "issue_label": "ועדת חקירה ממלכתית ל-7 באוקטובר",
       "stance": 1,
@@ -6424,7 +6424,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "religion-state",
       "issue_label": "תחבורה ציבורית בשבת ונישואים אזרחיים",
       "stance": 0,
@@ -6444,7 +6444,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "gaza-control",
       "issue_label": "שליטה ביטחונית בעזה",
       "stance": 1,
@@ -6464,7 +6464,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "lower-taxes",
       "issue_label": "הורדת מסים מול שירותים לאזרח",
       "stance": 0.5,
@@ -6484,7 +6484,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "yeshiva-budgets",
       "issue_label": "תקציבי הישיבות והחינוך החרדי",
       "stance": 0.5,
@@ -6500,7 +6500,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "nation-state-law",
       "issue_label": "סעיף שוויון בחוק הלאום",
       "stance": 0.5,
@@ -6516,7 +6516,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "temple-mount",
       "issue_label": "תפילת יהודים בהר הבית",
       "stance": 0.5,
@@ -6532,7 +6532,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "settlements",
       "issue_label": "הרחבת ההתנחלויות",
       "stance": 1,
@@ -6552,7 +6552,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "term-limits",
       "issue_label": "הגבלת כהונת ראש הממשלה",
       "stance": 1,
@@ -6572,7 +6572,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "benefits-for-service",
       "issue_label": "התניית הטבות בשירות צבאי או אזרחי",
       "stance": 1,
@@ -6592,7 +6592,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "food-imports",
       "issue_label": "פתיחת שוק המזון ליבוא",
       "stance": 0.5,
@@ -6608,7 +6608,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "lgbt-equality",
       "issue_label": "שוויון זכויות לקהילה הלהט\"בית",
       "stance": 0,
@@ -6628,7 +6628,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "saudi-normalization",
       "issue_label": "ויתורים לפלסטינים תמורת שלום עם סעודיה",
       "stance": 0.5,
@@ -6644,7 +6644,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "universal-service",
       "issue_label": "חובת שירות לכלל האזרחים",
       "stance": 1,
@@ -6664,7 +6664,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "haredi-coalition",
       "issue_label": "חרדים בקואליציה ללא חוק גיוס",
       "stance": 0.5,
@@ -6680,7 +6680,7 @@
     },
     {
       "party": "orot",
-      "party_name": "אורות השחר",
+      "party_name": "אחדות לישראל ואורות השחר",
       "issue": "arab-coalition",
       "issue_label": "מפלגות ערביות בקואליציה",
       "stance": 0,
