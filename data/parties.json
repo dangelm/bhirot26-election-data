@@ -9,13 +9,14 @@
   "license": "CC BY 4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "counts": {
-    "total": 36,
+    "total": 50,
     "scored": 18
   },
   "parties": [
     {
       "id": "likud",
       "name": "הליכוד",
+      "filed_name": "הליכוד עם בנימין נתניהו לראשות הממשלה",
       "ballot_letter": "מחל",
       "ballot_letter_requested": null,
       "roster": [
@@ -74,6 +75,7 @@
     {
       "id": "beyachad",
       "name": "ביחד",
+      "filed_name": "ביחד בראשות נפתלי בנט",
       "ballot_letter": null,
       "ballot_letter_requested": [
         "ב",
@@ -122,12 +124,13 @@
       "major": true,
       "debut": false,
       "status": null,
-      "note": "הרשימה המאוחדת מוצגת 6.9",
+      "note": null,
       "page": "https://bhirot26.online/party/beyachad"
     },
     {
       "id": "yashar",
       "name": "ישר!",
+      "filed_name": "ישר! עם איזנקוט - מאחדים את ישראל",
       "ballot_letter": null,
       "ballot_letter_requested": [
         "דרך"
@@ -172,12 +175,13 @@
       "major": true,
       "debut": true,
       "status": null,
-      "note": "הרשימה הוגשה 7.9.2026",
+      "note": null,
       "page": "https://bhirot26.online/party/yashar"
     },
     {
       "id": "democrats",
       "name": "הדמוקרטים",
+      "filed_name": "הדמוקרטים בראשות יאיר גולן",
       "ballot_letter": "אמת",
       "ballot_letter_requested": null,
       "roster": [
@@ -216,6 +220,7 @@
     {
       "id": "shas",
       "name": "ש\"ס",
+      "filed_name": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף",
       "ballot_letter": "שס",
       "ballot_letter_requested": null,
       "roster": [
@@ -229,7 +234,7 @@
         "אוריאל בוסו",
         "יוסף טייב",
         "יונתן מישרקי",
-        "יוסי אילנתנוב",
+        "יוסף אלנתנוב",
         "ארז מלול",
         "סימיון מושיאשוילי"
       ],
@@ -256,6 +261,7 @@
     {
       "id": "utj",
       "name": "יהדות התורה",
+      "filed_name": "יהדות התורה-אגודת ישראל-דגל התורה",
       "ballot_letter": "ג",
       "ballot_letter_requested": null,
       "roster": [
@@ -285,12 +291,13 @@
       "major": true,
       "debut": false,
       "status": null,
-      "note": "הרשימה הוגשה 8.9.2026 · גפני ומקלב הודחו מדגל התורה 5.9",
+      "note": null,
       "page": "https://bhirot26.online/party/utj"
     },
     {
       "id": "rz",
       "name": "הציונות הדתית",
+      "filed_name": "הציונות הדתית וזהות",
       "ballot_letter": "ט",
       "ballot_letter_requested": null,
       "roster": [
@@ -318,12 +325,13 @@
       "major": true,
       "debut": false,
       "status": null,
-      "note": "ריצה משותפת עם זהות · הסכם 1.9.2026",
+      "note": null,
       "page": "https://bhirot26.online/party/rz"
     },
     {
       "id": "otzma",
       "name": "עוצמה יהודית",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": [
         "ב"
@@ -355,12 +363,13 @@
       "major": true,
       "debut": false,
       "status": null,
-      "note": null,
+      "note": "הוגשה בקשה לפסילת הרשימה וארבעה ממועמדיה (14.9.2026); ועדת הבחירות טרם דנה",
       "page": "https://bhirot26.online/party/otzma"
     },
     {
       "id": "amcha",
       "name": "עמך ישראל",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": [
         "ך"
@@ -385,12 +394,13 @@
       "major": true,
       "debut": true,
       "status": null,
-      "note": "הוגשה 7.9.2026 בריצה עצמאית, ללא איחודים",
+      "note": null,
       "page": "https://bhirot26.online/party/amcha"
     },
     {
       "id": "beytenu",
       "name": "ישראל ביתנו",
+      "filed_name": "ישראל ביתנו - בראשות אביגדור ליברמן",
       "ballot_letter": "ל",
       "ballot_letter_requested": null,
       "roster": [
@@ -434,6 +444,7 @@
     {
       "id": "joint",
       "name": "הרשימה המשותפת",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": [
         "ודם"
@@ -463,12 +474,13 @@
       "major": true,
       "debut": false,
       "status": null,
-      "note": "ג'עפר פרח פרש 4.9",
+      "note": "הוגשה בקשה לפסילת הרשימה (הליכוד) ובקשה נגד עופר כסיף; ועדת הבחירות טרם דנה",
       "page": "https://bhirot26.online/party/joint"
     },
     {
       "id": "raam",
       "name": "רע\"ם",
+      "filed_name": "רע\"ם - הרשימה הערבית המאוחדת",
       "ballot_letter": "עם",
       "ballot_letter_requested": null,
       "roster": [
@@ -487,12 +499,13 @@
       "major": true,
       "debut": false,
       "status": null,
-      "note": null,
+      "note": "הוגשו בקשות לפסילת הרשימה (עוצמה יהודית, הליכוד); ועדת הבחירות טרם דנה",
       "page": "https://bhirot26.online/party/raam"
     },
     {
       "id": "noam",
       "name": "נעם לישראל",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": [
         "ני"
@@ -517,12 +530,13 @@
       "major": false,
       "debut": false,
       "status": null,
-      "note": "רצה לבד, לא במסגרת הציונות הדתית",
+      "note": null,
       "page": "https://bhirot26.online/party/noam"
     },
     {
       "id": "kachol",
       "name": "כחול לבן",
+      "filed_name": null,
       "ballot_letter": "כן",
       "ballot_letter_requested": null,
       "roster": [
@@ -545,20 +559,32 @@
       "major": false,
       "debut": false,
       "status": null,
-      "note": "הרשימה הוגשה 8.9.2026 · המגעים לאיחוד עם האחדות קרסו 4.9",
+      "note": null,
       "page": "https://bhirot26.online/party/kachol"
     },
     {
       "id": "miluim",
       "name": "המילואימניקים והכלכלית",
+      "filed_name": "המילואימניקים והכלכלית בראשות יועז הנדל וירון זליכה",
       "ballot_letter": null,
       "ballot_letter_requested": [
         "די",
         "צ",
         "י"
       ],
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "יועז הנדל",
+        "ירון זליכה",
+        "עינת וילף",
+        "חביב ווליבוביץ",
+        "יואב אדומי",
+        "אופיר שי לנגמן",
+        "שלומי דמרי",
+        "ליאור גלבוע",
+        "תהילה פרץ",
+        "שלום ביטון"
+      ],
+      "roster_source": "https://www.davar1.co.il/696351/",
       "former_candidates": [],
       "leader": "יועז הנדל · ירון זליכה",
       "tag": "מרכז-ימין · כלכלית",
@@ -566,12 +592,13 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "האות תיקבע באישור ועדת הבחירות; סדר הרשימה שהוגשה טרם פורסם",
+      "note": "האות תיקבע באישור ועדת הבחירות",
       "page": "https://bhirot26.online/party/miluim"
     },
     {
       "id": "edelstein",
       "name": "האחדות",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": null,
       "roster": null,
@@ -589,6 +616,7 @@
     {
       "id": "haskel",
       "name": "ישראל תחילה",
+      "filed_name": "ישראל תחילה - בראשות שרן השכל",
       "ballot_letter": null,
       "ballot_letter_requested": [
         "י",
@@ -603,12 +631,13 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": null,
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
       "page": "https://bhirot26.online/party/haskel"
     },
     {
       "id": "q4",
       "name": "הרבעון הרביעי",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": null,
       "roster": null,
@@ -626,6 +655,7 @@
     {
       "id": "hakahal",
       "name": "הקהל",
+      "filed_name": "מפלגת הקהל מפלגה כלל חרדית",
       "ballot_letter": null,
       "ballot_letter_requested": [
         "רץ"
@@ -639,12 +669,13 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרשימה נבחרה בפריימריז 19.8",
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
       "page": "https://bhirot26.online/party/hakahal"
     },
     {
       "id": "tzibur",
       "name": "הציבור החרדי",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": [
         "זך"
@@ -658,12 +689,13 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הכריזה על ריצה ב-23.8",
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
       "page": "https://bhirot26.online/party/tzibur"
     },
     {
       "id": "degel",
       "name": "אל הדגל",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": null,
       "roster": null,
@@ -681,6 +713,7 @@
     {
       "id": "tzomet",
       "name": "צומת – בית ישראל",
+      "filed_name": "צומת בית ישראל",
       "ballot_letter": null,
       "ballot_letter_requested": [
         "בי"
@@ -698,12 +731,13 @@
       "major": false,
       "debut": false,
       "status": null,
-      "note": "רשימה משותפת של צומת ובית ישראל; לא מדורגת",
+      "note": null,
       "page": "https://bhirot26.online/party/tzomet"
     },
     {
       "id": "lover",
       "name": "מפלגת חגי לובר",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": null,
       "roster": null,
@@ -721,6 +755,7 @@
     {
       "id": "zahav",
       "name": "זהב – שחר כוח חברתי",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": null,
       "roster": null,
@@ -738,6 +773,7 @@
     {
       "id": "batach",
       "name": "בט\"ח – ביטחון חברתי",
+      "filed_name": "בטחון חברתי",
       "ballot_letter": null,
       "ballot_letter_requested": [
         "ז"
@@ -751,12 +787,13 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הוכרזה ב-30.8",
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
       "page": "https://bhirot26.online/party/batach"
     },
     {
       "id": "mitpakachat",
       "name": "ישראל מתפכחת",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": null,
       "roster": null,
@@ -774,6 +811,7 @@
     {
       "id": "ahi",
       "name": "אח\"י",
+      "filed_name": "תנועת אח\"י",
       "ballot_letter": null,
       "ballot_letter_requested": [
         "צ"
@@ -787,12 +825,13 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "מתמודדת לראשונה",
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
       "page": "https://bhirot26.online/party/ahi"
     },
     {
       "id": "shutafut",
       "name": "השותפות לכולם",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": [
         "ד",
@@ -809,12 +848,13 @@
       "major": false,
       "debut": false,
       "status": null,
-      "note": null,
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
       "page": "https://bhirot26.online/party/shutafut"
     },
     {
       "id": "atzmaim",
       "name": "העצמאים החדשים",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": null,
       "roster": null,
@@ -832,6 +872,7 @@
     {
       "id": "zehut",
       "name": "זהות",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": null,
       "roster": null,
@@ -848,7 +889,8 @@
     },
     {
       "id": "orot",
-      "name": "אחדות לישראל ואורות השחר",
+      "name": "אורות השחר",
+      "filed_name": "אורות השחר מפלגה של כולם",
       "ballot_letter": null,
       "ballot_letter_requested": [
         "בקר"
@@ -860,7 +902,7 @@
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
       "former_candidates": [],
-      "leader": "בניהו הר שמש",
+      "leader": "ניסים לוק · בניהו הר שמש",
       "tag": "ימין · חדשה",
       "scored": true,
       "major": false,
@@ -872,6 +914,7 @@
     {
       "id": "wilf",
       "name": "עוז",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": null,
       "roster": null,
@@ -889,6 +932,7 @@
     {
       "id": "brit",
       "name": "ברית אחים",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": null,
       "roster": null,
@@ -906,6 +950,7 @@
     {
       "id": "zelicha",
       "name": "הכלכלית החדשה",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": null,
       "roster": null,
@@ -923,6 +968,7 @@
     {
       "id": "standing",
       "name": "מקום לכולנו",
+      "filed_name": null,
       "ballot_letter": null,
       "ballot_letter_requested": null,
       "roster": null,
@@ -940,6 +986,7 @@
     {
       "id": "byn",
       "name": "ביחד נצליח",
+      "filed_name": "ביחד נצליח רשימה משותפת ערבית יהודית",
       "ballot_letter": null,
       "ballot_letter_requested": [
         "בד",
@@ -947,17 +994,355 @@
         "בנ",
         "רץ"
       ],
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "אבי שקד",
+        "נעים אל-עטאונה",
+        "חאתם עאטללה",
+        "האלה סולימאן",
+        "דראר אמריח",
+        "נדא והבי",
+        "מונא עזאם",
+        "בונאנה סוידאן",
+        "עומר ערוק"
+      ],
+      "roster_source": "https://www.yahaad.com/",
       "former_candidates": [],
-      "leader": "אבי שקד · דראר אמריח",
+      "leader": "אבי שקד",
       "tag": "יהודית-ערבית · חדשה",
       "scored": true,
       "major": false,
       "debut": true,
       "status": null,
-      "note": "אינה נמדדת בסקרים",
+      "note": null,
       "page": "https://bhirot26.online/party/byn"
+    },
+    {
+      "id": "sharshar",
+      "name": "שרשר – לאהבה ואחדות העם",
+      "filed_name": "שרשר - לאהבה ואחדות העם",
+      "ballot_letter": null,
+      "ballot_letter_requested": [
+        "צדק"
+      ],
+      "roster": null,
+      "roster_source": null,
+      "former_candidates": [],
+      "leader": "איתן שווילי",
+      "tag": "חברתית · חדשה",
+      "scored": false,
+      "major": false,
+      "debut": true,
+      "status": null,
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "page": "https://bhirot26.online/party/sharshar"
+    },
+    {
+      "id": "mishpat",
+      "name": "משפט צדק",
+      "filed_name": null,
+      "ballot_letter": null,
+      "ballot_letter_requested": [
+        "קץ"
+      ],
+      "roster": [
+        "לריסה טרימבובלר-עמיר",
+        "גאולה עמיר"
+      ],
+      "roster_source": "https://www.ynet.co.il/news/elections2026/article/rj2wniaomg",
+      "former_candidates": [],
+      "leader": "לריסה טרימבובלר-עמיר",
+      "tag": "חד-נושאית · ותיקה",
+      "scored": false,
+      "major": false,
+      "debut": true,
+      "status": null,
+      "note": null,
+      "page": "https://bhirot26.online/party/mishpat"
+    },
+    {
+      "id": "shema",
+      "name": "שמע",
+      "filed_name": "שמע בראשות נפתלי גולדמן",
+      "ballot_letter": null,
+      "ballot_letter_requested": [
+        "נף"
+      ],
+      "roster": null,
+      "roster_source": null,
+      "former_candidates": [],
+      "leader": "נפתלי גולדמן",
+      "tag": "דתית-שמרנית · ותיקה",
+      "scored": false,
+      "major": false,
+      "debut": true,
+      "status": null,
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "page": "https://bhirot26.online/party/shema"
+    },
+    {
+      "id": "seder",
+      "name": "סדר חדש",
+      "filed_name": null,
+      "ballot_letter": null,
+      "ballot_letter_requested": [
+        "קך"
+      ],
+      "roster": null,
+      "roster_source": null,
+      "former_candidates": [],
+      "leader": "אביטל אופק",
+      "tag": "שינוי שיטת הממשל · ותיקה",
+      "scored": false,
+      "major": false,
+      "debut": true,
+      "status": null,
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "page": "https://bhirot26.online/party/seder"
+    },
+    {
+      "id": "britolam",
+      "name": "ברית עולם",
+      "filed_name": "ברית עולם לגאולת ישראל",
+      "ballot_letter": null,
+      "ballot_letter_requested": [
+        "זץ"
+      ],
+      "roster": null,
+      "roster_source": null,
+      "former_candidates": [],
+      "leader": "עופר ליפשיץ",
+      "tag": "אמונית · ותיקה",
+      "scored": false,
+      "major": false,
+      "debut": true,
+      "status": null,
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "page": "https://bhirot26.online/party/britolam"
+    },
+    {
+      "id": "hatikun",
+      "name": "התיקון",
+      "filed_name": "התיקון לשיטת הבחירות והממשל",
+      "ballot_letter": null,
+      "ballot_letter_requested": [
+        "יד"
+      ],
+      "roster": null,
+      "roster_source": null,
+      "former_candidates": [],
+      "leader": "משה סלומוביץ",
+      "tag": "שינוי שיטת הממשל · חדשה",
+      "scored": false,
+      "major": false,
+      "debut": true,
+      "status": null,
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "page": "https://bhirot26.online/party/hatikun"
+    },
+    {
+      "id": "gush",
+      "name": "גה\"ת – גוש התנ\"כי",
+      "filed_name": "גה\"ת גוש התנ\"כי",
+      "ballot_letter": null,
+      "ballot_letter_requested": [
+        "יק"
+      ],
+      "roster": null,
+      "roster_source": null,
+      "former_candidates": [],
+      "leader": "משה ליפקין",
+      "tag": "יהודית-נוצרית · ותיקה",
+      "scored": false,
+      "major": false,
+      "debut": true,
+      "status": null,
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "page": "https://bhirot26.online/party/gush"
+    },
+    {
+      "id": "bitachon",
+      "name": "בטחון אישי",
+      "filed_name": null,
+      "ballot_letter": null,
+      "ballot_letter_requested": [
+        "נץ"
+      ],
+      "roster": null,
+      "roster_source": null,
+      "former_candidates": [],
+      "leader": "מיכאל טופצ'יאשוילי",
+      "tag": "ותיקה · קטנה",
+      "scored": false,
+      "major": false,
+      "debut": true,
+      "status": null,
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "page": "https://bhirot26.online/party/bitachon"
+    },
+    {
+      "id": "tzeva",
+      "name": "צבע שחור – מגן עולם התורה",
+      "filed_name": "צבע שחור מגן עולם התורה",
+      "ballot_letter": null,
+      "ballot_letter_requested": [
+        "נר"
+      ],
+      "roster": [
+        "הרב אליהו בוימרינד",
+        "הרב דרור דגני",
+        "הרב יונתן יששכר",
+        "הרב יצחק רבין הכהן"
+      ],
+      "roster_source": "https://www.kikar.co.il/political-news/tl29ml",
+      "former_candidates": [],
+      "leader": "הרב אליהו בוימרינד",
+      "tag": "חרדית · חד-נושאית · חדשה",
+      "scored": false,
+      "major": false,
+      "debut": true,
+      "status": null,
+      "note": null,
+      "page": "https://bhirot26.online/party/tzeva"
+    },
+    {
+      "id": "tkuma",
+      "name": "דרך חזון ותקומה",
+      "filed_name": "דרך חזון ותקומה",
+      "ballot_letter": null,
+      "ballot_letter_requested": [
+        "ק"
+      ],
+      "roster": [
+        "אלקנא פדרמן",
+        "לוטם נגר",
+        "שירה כהן",
+        "מרים אברהם"
+      ],
+      "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
+      "former_candidates": [],
+      "leader": "אלקנא פדרמן",
+      "tag": "ימין · חדשה",
+      "scored": false,
+      "major": false,
+      "debut": true,
+      "status": null,
+      "note": null,
+      "page": "https://bhirot26.online/party/tkuma"
+    },
+    {
+      "id": "pirates",
+      "name": "הפיראטים",
+      "filed_name": "הפיראטים צפים לטוב",
+      "ballot_letter": null,
+      "ballot_letter_requested": [
+        "צף",
+        "ף",
+        "ר",
+        "ףז"
+      ],
+      "roster": [
+        "אוהד שם טוב",
+        "נועם כוזר",
+        "דן אריאלי",
+        "מיטל רום",
+        "רועי קלייטמן",
+        "לידיה מלטין",
+        "לילך רובין",
+        "דניאל פלבר",
+        "דוד אילון",
+        "קיט גולדשטיין",
+        "תהילה רון הופמן",
+        "אביטל ורטהימר",
+        "רעי הללה סולברג",
+        "ריינהרד סטו",
+        "ניר שגב",
+        "רמי זיו מרון",
+        "נתנאל כהן",
+        "חיים אלמקיאס",
+        "אהוד חלמיש",
+        "יואב ויינשטיין",
+        "דור-שמשון נהיר",
+        "יהודה פוויץ",
+        "אורי גור",
+        "נתנאל רומנו",
+        "אור אורן"
+      ],
+      "roster_source": "https://piratim.org/elections/",
+      "former_candidates": [],
+      "leader": "אוהד שם טוב",
+      "tag": "דמוקרטיה דיגיטלית · ותיקה",
+      "scored": false,
+      "major": false,
+      "debut": true,
+      "status": null,
+      "note": null,
+      "page": "https://bhirot26.online/party/pirates"
+    },
+    {
+      "id": "ganeden",
+      "name": "גן עדן",
+      "filed_name": "גן עדן בראשות ישוע בן דוד",
+      "ballot_letter": null,
+      "ballot_letter_requested": [
+        "יה",
+        "ה"
+      ],
+      "roster": null,
+      "roster_source": null,
+      "former_candidates": [],
+      "leader": "ישוע ישראל בן דוד",
+      "tag": "אמונית-חברתית · חדשה",
+      "scored": false,
+      "major": false,
+      "debut": true,
+      "status": null,
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "page": "https://bhirot26.online/party/ganeden"
+    },
+    {
+      "id": "kolhanashim",
+      "name": "קול הנשים",
+      "filed_name": null,
+      "ballot_letter": null,
+      "ballot_letter_requested": [
+        "קה",
+        "צח",
+        "נא"
+      ],
+      "roster": null,
+      "roster_source": null,
+      "former_candidates": [],
+      "leader": "עמיר ישראל שדמי",
+      "tag": "ותיקה · קטנה",
+      "scored": false,
+      "major": false,
+      "debut": true,
+      "status": null,
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "page": "https://bhirot26.online/party/kolhanashim"
+    },
+    {
+      "id": "aniveata",
+      "name": "אני ואתה",
+      "filed_name": "אני ואתה מפלגת העם הישראלית",
+      "ballot_letter": null,
+      "ballot_letter_requested": [
+        "פה",
+        "כן",
+        "יד",
+        "ה"
+      ],
+      "roster": null,
+      "roster_source": null,
+      "former_candidates": [],
+      "leader": "אלון גלעדי",
+      "tag": "שמאל חברתי · ותיקה",
+      "scored": false,
+      "major": false,
+      "debut": true,
+      "status": null,
+      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "page": "https://bhirot26.online/party/aniveata"
     }
   ]
 }

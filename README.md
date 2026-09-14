@@ -8,13 +8,13 @@
 ולקישור לעמוד שממנו נלקח.
 
 > [!IMPORTANT]
-> **הנתונים אינם סופיים עדיין.** הרשימות הוגשו לוועדת הבחירות המרכזית ב-7–8.9.2026, ותקופת הבקשות לפסילת רשימה או מועמד הסתיימה ב-14.9.2026. הוועדה עדיין בודקת את הרשימות, הכינויים והאותיות המבוקשים, והאישור הסופי צפוי עד 27.9.2026. עד אז האותיות של רשימות שאינן סיעות בכנסת היוצאת מוצגות כאותיות מבוקשות, וסדר המועמדים הוא כפי שהוגש.
+> **הנתונים אינם סופיים עדיין.** הרשימות הוגשו לוועדת הבחירות המרכזית ב-7–8.9.2026. בקשות לפסילת רשימה או מועמד אפשר להגיש עד 14–15.9.2026 (לפי יום ההגשה), וארבע כבר הוגשו. הוועדה טרם אישרה את הרשימות, הכינויים והאותיות; לפי הודעתה ההכרעה תתקבל בהמשך ספטמבר (לפי דיווח JDN עד 27.9.2026), ולכל המאוחר עד פרסום הרשימות המאושרות ברשומות ב-18.10.2026. עד אז האותיות של רשימות שאינן סיעות בכנסת היוצאת מוצגות כאותיות מבוקשות, וסדר המועמדים הוא כפי שהוגש.
 
 ## המספרים
 
 | | |
 |---|---|
-| רשימות שהוגשו ומוצגות | 36 |
+| רשימות שהוגשו ומוצגות | 50 |
 | רשימות מנוקדות במחשבון | 18 |
 | סוגיות | 20 |
 | תאים (רשימה × סוגיה) | 360 |
@@ -28,7 +28,7 @@
 
 | קובץ | מה יש בו |
 |---|---|
-| `data/parties.json` | כל 36 הרשימות: שם, אות, יו"ר, שיוך, והאם היא מנוקדת במחשבון |
+| `data/parties.json` | כל 50 הרשימות: שם, אות, יו"ר, שיוך, והאם היא מנוקדת במחשבון |
 | `data/issues.json` | 20 השאלות כלשונן, עם הנוסח המלא וההסבר שמוצג למשתמש |
 | `data/positions.json` | 360 התאים: העמדה, סוג הראיה, המקור החזק ביותר ותאריכו |
 | `data/sources.json` | 835 רשומות המקור עם הציטוט המילולי, וכן התאים שנבדקו ונמצאו ריקים |
@@ -78,11 +78,13 @@
 Open data behind **[מצפן הבחירות 2026](https://bhirot26.online)**, a voting-advice application for
 Israel's 26th Knesset election (2026-10-27).
 
-**Not final yet:** lists were filed on 7–8 September 2026 and the window for petitions to
-disqualify a list or candidate closed on 14.9.2026. The Central Elections Committee is
-still reviewing the lists, their names and the ballot letters they requested; final approval is
-expected by 27.9.2026. Until then `ballot_letter_requested` holds what a new list asked for
-(not an assigned letter), and `roster` is the list order as filed, up to the place published.
+**Not final yet:** lists were filed on 7–8 September 2026. Petitions to disqualify a list or a
+candidate may be filed until 14–15 September (depending on the filing day) and four have been filed.
+The Central Elections Committee has not yet approved the lists, their names or the ballot letters
+they requested; it said a decision will come later in September (JDN reported 27.9.2026),
+and the legal deadline for gazetting the approved lists is 18.10.2026. Until then
+`ballot_letter_requested` holds what a new list asked for (not an assigned letter), `roster` is the
+list order as filed, up to the place published, and `filed_name` is the list name as filed.
 
 18 parties × 20 issues = 360 coded positions. 321 carry a
 published primary source with a verbatim quote, a date and a link; 39 are cells where we
