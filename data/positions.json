@@ -1,8 +1,8 @@
 {
   "$comment": "נוצר אוטומטית על ידי scripts/gen-repo.mjs במאגר האתר. אין לערוך ידנית — הקובץ ייכתב מחדש.",
   "name": "מצפן הבחירות 2026",
-  "version": "2026-09-14",
-  "generated": "2026-09-14",
+  "version": "2026-09-15",
+  "generated": "2026-09-15",
   "election_date": "2026-10-27",
   "site": "https://bhirot26.online",
   "repository": "https://github.com/dangelm/bhirot26-election-data",
@@ -12,8 +12,8 @@
     "parties": 18,
     "issues": 20,
     "cells": 360,
-    "sourced": 321,
-    "documented_silence": 39,
+    "sourced": 320,
+    "documented_silence": 40,
     "unresearched": 0
   },
   "stance_values": {
@@ -265,20 +265,20 @@
     {
       "party": "likud",
       "party_name": "הליכוד",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 0,
-      "stance_he": "נגד",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 0.5,
+      "stance_he": "עמדה חלקית",
       "evidence": "sourced",
-      "source_count": 4,
+      "source_count": 3,
       "strongest_source": {
-        "type": "vote",
-        "type_he": "הצבעה בכנסת",
-        "tier": "doc",
-        "date": "2026-01-14",
-        "title": "הצעת חוק-יסוד: הממשלה (תיקון - הגבלת כהונת ראש הממשלה לשתי תקופות כהונה רצופות) — קריאה טרומית",
-        "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2203407",
-        "verified": "2026-09-14"
+        "type": "leader",
+        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
+        "tier": "said",
+        "date": "2024-01-28",
+        "title": "בכירים בממשלה ובקואליציה משתתפים בכנס ה\"התיישבות בעזה\" | N12",
+        "url": "https://www.mako.co.il/news-politics/2024_q1/Article-7ce65d03aa05d81027.htm",
+        "verified": null
       },
       "searched": null
     },
@@ -665,20 +665,20 @@
     {
       "party": "beyachad",
       "party_name": "ביחד",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 1,
-      "stance_he": "בעד",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 0,
+      "stance_he": "נגד",
       "evidence": "sourced",
-      "source_count": 4,
+      "source_count": 2,
       "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-03-30",
-        "title": "ביחד נתקן את ישראל – עמוד הבית של מפלגת ביחד",
-        "url": "https://be-yahad.org.il/plans/",
-        "verified": "2026-09-14"
+        "type": "leader",
+        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
+        "tier": "said",
+        "date": "2026-07-03",
+        "title": "בנט: \"אני עם לפיד עד הסוף, לא אשב עם נתניהו. לשבת תחת איזנקוט? מה שצריך להצלת המדינה\"",
+        "url": "https://www.ynet.co.il/news/120andone/article/s100tqclqmg",
+        "verified": null
       },
       "searched": null
     },
@@ -1053,20 +1053,20 @@
     {
       "party": "yashar",
       "party_name": "ישר!",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 1,
-      "stance_he": "בעד",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 0,
+      "stance_he": "נגד",
       "evidence": "sourced",
-      "source_count": 2,
+      "source_count": 1,
       "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2025-12-17",
-        "title": "מטרות המפלגה",
-        "url": "https://yasharwitheisenkot.com/topic/missions/",
-        "verified": "2026-09-14"
+        "type": "leader",
+        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
+        "tier": "said",
+        "date": "2025-05-17",
+        "title": "איזנקוט: מדינה פלסטינית? \"לא רלוונטי אחרי 7.10\" | N12",
+        "url": "https://www.mako.co.il/news-politics/2025_q2/Article-907040be4bed691026.htm",
+        "verified": null
       },
       "searched": null
     },
@@ -1449,20 +1449,20 @@
     {
       "party": "democrats",
       "party_name": "הדמוקרטים",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 1,
-      "stance_he": "בעד",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 0,
+      "stance_he": "נגד",
       "evidence": "sourced",
       "source_count": 3,
       "strongest_source": {
-        "type": "platform",
-        "type_he": "מצע רשמי",
-        "tier": "doc",
-        "date": "2026-09-06",
-        "title": "מצע הדמוקרטים – תוכניות העבודה לבחירות 2026 (PDF)",
-        "url": "https://democrats.org.il/wp-content/uploads/2026/08/plan-8-26-he.pdf",
-        "verified": "2026-09-14"
+        "type": "leader",
+        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
+        "tier": "said",
+        "date": "2024-11-11",
+        "title": "גולן קורא להסדרה בעזה: \"הפרדות אזרחית וגבולות מוסכמים\" - וואלה חדשות",
+        "url": "https://news.walla.co.il/item/3703637",
+        "verified": null
       },
       "searched": null
     },
@@ -1849,22 +1849,18 @@
     {
       "party": "shas",
       "party_name": "ש\"ס",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 0,
-      "stance_he": "נגד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "vote",
-        "type_he": "הצבעה בכנסת",
-        "tier": "doc",
-        "date": "2026-01-14",
-        "title": "הצעת חוק-יסוד: הממשלה (תיקון - הגבלת כהונת ראש הממשלה לשתי תקופות כהונה רצופות) — קריאה טרומית",
-        "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2203407",
-        "verified": "2026-09-14"
-      },
-      "searched": null
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 0.5,
+      "stance_he": "עמדה חלקית",
+      "evidence": "documented_silence",
+      "source_count": 0,
+      "strongest_source": null,
+      "searched": {
+        "checked": "2026-09-08",
+        "how": "חיפושי חדשות בשם אריה דרעי ובשם המפלגה, בשלושה ניסוחים, נערכו שוב. סיקור מערכת הבחירות 2026 נשלט על ידי חוק הגיוס, ולא נמצאה אמירה על ויתורים תמורת הסכם עם סעודיה. הסיקור שכן עוסק בסעודיה מדווח על עמדת ריאד ועל דברי שרים אחרים, לא על עמדת ש\"ס. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: No Deri/Shas statement for or against renewing Jewish settlement in Gaza found. Scanned: shas.org.il (connection timeout, site unreachable); news-search (Bing news RSS) queries: דרעי התיישבות בעזה, ש'ס גוש קטיף, דרעי יישוב עזה, ש'ס התיישבות ברצועה, מלכיאלי התיישבות בעזה, ארבל התיישבות בעזה, דרעי ריבונות בעזה, דרעי גוש קטיף, דרעי להתנחל בעזה, ש'ס כנס ההתיישבות, דרעי יישובים יהודיים בעזה, דרעי התיישבות אזרחית בעזה, ש'ס מתנגדת להתיישבות בעזה, בן צור התיישבות בעזה, דרעי עזה יישובים, דרעי סמוטריץ' התיישבות בעזה, דרעי מוזיאון גוש קטיף, ש'ס יום גוש קטיף, דרעי יהודים בעזה, ש'ס נחלה וייס, אריה דרעי גוש קטיף עזה 2025 (all 2019-2026); WebSearch: דרעי 'התיישבות בעזה' OR 'גוש קטיף' ש'ס עמדה. Only tangential items: N12 (mako.co.il, 28.1.2024) reports that no Shas representative attended the 'Return to Gaza' settlement conference; MSN-only (blocked) items on Deri saying Israel will 'stay in Gaza for years' (11.1.2024) and backing the Aug-2025 Gaza City operation concern security control, not civilian settlement. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: No Deri/Shas statement for or against renewing Jewish settlement in Gaza found. Scanned: shas.org.il (connection timeout, site unreachable); news-search (Bing news RSS) queries: דרעי התיישבות בעזה, ש'ס גוש קטיף, דרעי יישוב עזה, ש'ס התיישבות ברצועה, מלכיאלי התיישבות בעזה, ארבל התיישבות בעזה, דרעי ריבונות בעזה, דרעי גוש קטיף, דרעי להתנחל בעזה, ש'ס כנס ההתיישבות, דרעי יישובים יהודיים בעזה, דרעי התיישבות אזרחית בעזה, ש'ס מתנגדת להתיישבות בעזה, בן צור התיישבות בעזה, דרעי עזה יישובים, דרעי סמוטריץ' התיישבות בעזה, דרעי מוזיאון גוש קטיף, ש'ס יום גוש קטיף, דרעי יהודים בעזה, ש'ס נחלה וייס, אריה דרעי גוש קטיף עזה 2025 (all 2019-2026); WebSearch: דרעי 'התיישבות בעזה' OR 'גוש קטיף' ש'ס עמדה. Only tangential items: N12 (mako.co.il, 28.1.2024) reports that no Shas representative attended the 'Return to Gaza' settlement conference; MSN-only (blocked) items on Deri saying Israel will 'stay in Gaza for years' (11.1.2024) and backing the Aug-2025 Gaza City operation concern security control, not civilian settlement.",
+        "issue_note": null
+      }
     },
     {
       "party": "shas",
@@ -1938,7 +1934,7 @@
       "strongest_source": null,
       "searched": {
         "checked": "2026-09-08",
-        "how": "חיפושי חדשות בשם אריה דרעי ובשם המפלגה, בשלושה ניסוחים, נערכו שוב. סיקור מערכת הבחירות 2026 נשלט על ידי חוק הגיוס, ולא נמצאה אמירה על ויתורים תמורת הסכם עם סעודיה. הסיקור שכן עוסק בסעודיה מדווח על עמדת ריאד ועל דברי שרים אחרים, לא על עמדת ש\"ס.",
+        "how": "חיפושי חדשות בשם אריה דרעי ובשם המפלגה, בשלושה ניסוחים, נערכו שוב. סיקור מערכת הבחירות 2026 נשלט על ידי חוק הגיוס, ולא נמצאה אמירה על ויתורים תמורת הסכם עם סעודיה. הסיקור שכן עוסק בסעודיה מדווח על עמדת ריאד ועל דברי שרים אחרים, לא על עמדת ש\"ס. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: No Deri/Shas statement for or against renewing Jewish settlement in Gaza found. Scanned: shas.org.il (connection timeout, site unreachable); news-search (Bing news RSS) queries: דרעי התיישבות בעזה, ש'ס גוש קטיף, דרעי יישוב עזה, ש'ס התיישבות ברצועה, מלכיאלי התיישבות בעזה, ארבל התיישבות בעזה, דרעי ריבונות בעזה, דרעי גוש קטיף, דרעי להתנחל בעזה, ש'ס כנס ההתיישבות, דרעי יישובים יהודיים בעזה, דרעי התיישבות אזרחית בעזה, ש'ס מתנגדת להתיישבות בעזה, בן צור התיישבות בעזה, דרעי עזה יישובים, דרעי סמוטריץ' התיישבות בעזה, דרעי מוזיאון גוש קטיף, ש'ס יום גוש קטיף, דרעי יהודים בעזה, ש'ס נחלה וייס, אריה דרעי גוש קטיף עזה 2025 (all 2019-2026); WebSearch: דרעי 'התיישבות בעזה' OR 'גוש קטיף' ש'ס עמדה. Only tangential items: N12 (mako.co.il, 28.1.2024) reports that no Shas representative attended the 'Return to Gaza' settlement conference; MSN-only (blocked) items on Deri saying Israel will 'stay in Gaza for years' (11.1.2024) and backing the Aug-2025 Gaza City operation concern security control, not civilian settlement. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: No Deri/Shas statement for or against renewing Jewish settlement in Gaza found. Scanned: shas.org.il (connection timeout, site unreachable); news-search (Bing news RSS) queries: דרעי התיישבות בעזה, ש'ס גוש קטיף, דרעי יישוב עזה, ש'ס התיישבות ברצועה, מלכיאלי התיישבות בעזה, ארבל התיישבות בעזה, דרעי ריבונות בעזה, דרעי גוש קטיף, דרעי להתנחל בעזה, ש'ס כנס ההתיישבות, דרעי יישובים יהודיים בעזה, דרעי התיישבות אזרחית בעזה, ש'ס מתנגדת להתיישבות בעזה, בן צור התיישבות בעזה, דרעי עזה יישובים, דרעי סמוטריץ' התיישבות בעזה, דרעי מוזיאון גוש קטיף, ש'ס יום גוש קטיף, דרעי יהודים בעזה, ש'ס נחלה וייס, אריה דרעי גוש קטיף עזה 2025 (all 2019-2026); WebSearch: דרעי 'התיישבות בעזה' OR 'גוש קטיף' ש'ס עמדה. Only tangential items: N12 (mako.co.il, 28.1.2024) reports that no Shas representative attended the 'Return to Gaza' settlement conference; MSN-only (blocked) items on Deri saying Israel will 'stay in Gaza for years' (11.1.2024) and backing the Aug-2025 Gaza City operation concern security control, not civilian settlement.",
         "issue_note": "נבדק גם מאגר ההצבעות של הכנסת (KNS_PlenumVote, 8.9.2026): אין הצבעה במליאה שכותרתה מזכירה את סעודיה או נורמליזציה. לכן אין מסלול של הצבעה בסוגיה הזו גם לרשימות שיש להן סיעה בכנסת."
       }
     },
@@ -2245,20 +2241,20 @@
     {
       "party": "utj",
       "party_name": "יהדות התורה",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 0,
-      "stance_he": "נגד",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 0.5,
+      "stance_he": "עמדה חלקית",
       "evidence": "sourced",
-      "source_count": 2,
+      "source_count": 3,
       "strongest_source": {
-        "type": "vote",
-        "type_he": "הצבעה בכנסת",
-        "tier": "doc",
-        "date": "2026-01-14",
-        "title": "הצעת חוק-יסוד: הממשלה (תיקון - הגבלת כהונת ראש הממשלה לשתי תקופות כהונה רצופות) — קריאה טרומית",
-        "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2203407",
-        "verified": "2026-09-14"
+        "type": "leader",
+        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
+        "tier": "said",
+        "date": "2024-11-28",
+        "title": "גולדקנופף תועד עם מפת \"גרעיני התיישבות בעזה\"; סער: \"לא נשלוט שם אזרחית\"",
+        "url": "https://www.ynet.co.il/news/article/syaio0rq1g",
+        "verified": null
       },
       "searched": null
     },
@@ -2641,20 +2637,20 @@
     {
       "party": "rz",
       "party_name": "הציונות הדתית",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 0,
-      "stance_he": "נגד",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 1,
+      "stance_he": "בעד",
       "evidence": "sourced",
-      "source_count": 2,
+      "source_count": 3,
       "strongest_source": {
-        "type": "vote",
-        "type_he": "הצבעה בכנסת",
+        "type": "platform",
+        "type_he": "מצע רשמי",
         "tier": "doc",
-        "date": "2026-01-14",
-        "title": "הצעת חוק-יסוד: הממשלה (תיקון - הגבלת כהונת ראש הממשלה לשתי תקופות כהונה רצופות) — קריאה טרומית",
-        "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2203407",
-        "verified": "2026-09-14"
+        "date": "2026-05-01",
+        "title": "מצפן זהות — איפה אתם עומדים? · זהות",
+        "url": "https://zehut.org.il/compass",
+        "verified": null
       },
       "searched": null
     },
@@ -3037,20 +3033,20 @@
     {
       "party": "otzma",
       "party_name": "עוצמה יהודית",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 0,
-      "stance_he": "נגד",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 1,
+      "stance_he": "בעד",
       "evidence": "sourced",
       "source_count": 2,
       "strongest_source": {
-        "type": "vote",
-        "type_he": "הצבעה בכנסת",
-        "tier": "doc",
-        "date": "2026-01-14",
-        "title": "הצעת חוק-יסוד: הממשלה (תיקון - הגבלת כהונת ראש הממשלה לשתי תקופות כהונה רצופות) — קריאה טרומית",
-        "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2203407",
-        "verified": "2026-09-14"
+        "type": "leader",
+        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
+        "tier": "said",
+        "date": "2024-10-21",
+        "title": "בן גביר בכנס התיישבות בעזה: \"עידוד הגירה - הכי מוסרי\". אב לחטוף תועד מוחה - ונבלם",
+        "url": "https://www.ynet.co.il/news/article/bywmjoxeyx",
+        "verified": null
       },
       "searched": null
     },
@@ -3231,8 +3227,8 @@
       "party_name": "עמך ישראל",
       "issue": "haredi-draft",
       "issue_label": "גיוס חרדים",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
+      "stance": 1,
+      "stance_he": "בעד",
       "evidence": "sourced",
       "source_count": 2,
       "strongest_source": {
@@ -3413,18 +3409,22 @@
     {
       "party": "amcha",
       "party_name": "עמך ישראל",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
       "stance": 0.5,
       "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-08",
-        "how": "האתר הרשמי (amchaisrael.co.il) והסייטמאפ שלו נבדקו שוב לאחר הגשת הרשימה: 12 עמודים בלבד — נבחרת, אירועים, התנדבות וצור קשר — ועדיין אין עמוד מצע. בנוסף חיפוש חדשות בשם המפלגה ובשם עופר וינטר, וה-REST API של ערוץ 14 (470 כתבות). הדיווחים על השקת המצע (25.8.2026) מתארים הגירה מעזה והתנגדות למדינה פלסטינית בלבד — שתי סוגיות שכבר מקודדות. לשאלת פתיחת שוק המזון ליבוא נבדקו גם 12 עמודי האתר הרשמי וחיפושי חדשות בשם המפלגה ובשם וינטר בצירוף יוקר מחיה, חקלאות ויבוא; וינטר לא כיהן בכנסת ולכן אין מסלול של הצבעה או הצעת חוק.",
-        "issue_note": null
-      }
+      "evidence": "sourced",
+      "source_count": 3,
+      "strongest_source": {
+        "type": "leader",
+        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
+        "tier": "said",
+        "date": "2026-09-10",
+        "title": "עופר וינטר בראיון: \"הליכוד רוצה להקריס אותי? קודם שיקריסו את חמאס\" | היום",
+        "url": "https://www.israelhayom.co.il/news/politics/article/21397752",
+        "verified": null
+      },
+      "searched": null
     },
     {
       "party": "amcha",
@@ -3793,20 +3793,20 @@
     {
       "party": "beytenu",
       "party_name": "ישראל ביתנו",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 1,
-      "stance_he": "בעד",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 0,
+      "stance_he": "נגד",
       "evidence": "sourced",
-      "source_count": 4,
+      "source_count": 2,
       "strongest_source": {
         "type": "platform",
         "type_he": "מצע רשמי",
         "tier": "doc",
-        "date": "2024-08-14",
-        "title": "המצע שלנו – מפלגת ישראל ביתנו",
+        "date": "2026-09-15",
+        "title": "המצע שלנו - מפלגת ישראל ביתנו",
         "url": "https://beytenu.org.il/party-platform/",
-        "verified": "2026-09-14"
+        "verified": null
       },
       "searched": null
     },
@@ -4193,22 +4193,18 @@
     {
       "party": "joint",
       "party_name": "הרשימה המשותפת",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "vote",
-        "type_he": "הצבעה בכנסת",
-        "tier": "doc",
-        "date": "2024-07-03",
-        "title": "הצעת חוק-יסוד: הממשלה (תיקון - הגבלת כהונת ראש הממשלה לשתי תקופות כהונה רצופות) — קריאה טרומית",
-        "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2205476",
-        "verified": "2026-09-14"
-      },
-      "searched": null
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 0.5,
+      "stance_he": "עמדה חלקית",
+      "evidence": "documented_silence",
+      "source_count": 0,
+      "strongest_source": null,
+      "searched": {
+        "checked": "2026-09-15",
+        "how": "gaza-resettlement: אתר חד'ש hadash.org.il (אתר Framer — עמוד עקרונות ורשימת מועמדים בלבד, ללא טקסט על עזה; חיפוש ?s= לא פעיל); חיפוש באתרי המפלגה zoha.org.il ו-maki.org.il במילים 'גוש קטיף', 'התנחלויות בעזה', 'התיישבות בעזה', 'כנס הניצחון' — נמצאו רק דיווחי מחאה של פעילי שלום ומאמרי מערכת (19.5.2024, 29.11.2024, 27.12.2024, 16.4.2025), ללא ציטוט של ח'כ מהרשימה על התיישבות יהודית בעזה; כתבות 2026 על הרשימה המשותפת (ישראל היום 14.9.2026, מקור ראשון 9.9.2026) ללא אזכור; 14 שאילתות חדשות (news-search bing): 'הרשימה המשותפת התיישבות בעזה', 'טיבי גוש קטיף', 'אבו שחאדה התנחלויות בעזה', 'כסיף התיישבות בעזה', 'עודה גוש קטיף', 'טיבי התיישבות בעזה', 'עודה כנס ההתיישבות בעזה', 'כסיף גוש קטיף', 'טיבי ליישב את עזה', 'ג'בארין עזה התיישבות', 'עודה כנס הניצחון עזה', 'כסיף התנחלויות עזה', 'עודה טרנספר עזה כנס', 'טיבי כנס הניצחון', 'כסיף גירוש עזה התנחלויות סמוטריץ', 'עודה סמוטריץ התיישבות בעזה' — אף תוצאה עם התבטאות של ג'בארין/טיבי/אבו שחאדה/כסיף/עודה בנושא; WebSearch אחד ממוקד — ללא תוצאה רלוונטית. ההתנגדות של הרשימה ודאית אידאולוגית אך לא נמצא ציטוט מילולי — לא הוסק. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: אתר חד'ש hadash.org.il (אתר Framer — עמוד עקרונות ורשימת מועמדים בלבד, ללא טקסט על עזה; חיפוש ?s= לא פעיל); חיפוש באתרי המפלגה zoha.org.il ו-maki.org.il במילים 'גוש קטיף', 'התנחלויות בעזה', 'התיישבות בעזה', 'כנס הניצחון' — נמצאו רק דיווחי מחאה של פעילי שלום ומאמרי מערכת (19.5.2024, 29.11.2024, 27.12.2024, 16.4.2025), ללא ציטוט של ח'כ מהרשימה על התיישבות יהודית בעזה; כתבות 2026 על הרשימה המשותפת (ישראל היום 14.9.2026, מקור ראשון 9.9.2026) ללא אזכור; 14 שאילתות חדשות (news-search bing): 'הרשימה המשותפת התיישבות בעזה', 'טיבי גוש קטיף', 'אבו שחאדה התנחלויות בעזה', 'כסיף התיישבות בעזה', 'עודה גוש קטיף', 'טיבי התיישבות בעזה', 'עודה כנס ההתיישבות בעזה', 'כסיף גוש קטיף', 'טיבי ליישב את עזה', 'ג'בארין עזה התיישבות', 'עודה כנס הניצחון עזה', 'כסיף התנחלויות עזה', 'עודה טרנספר עזה כנס', 'טיבי כנס הניצחון', 'כסיף גירוש עזה התנחלויות סמוטריץ', 'עודה סמוטריץ התיישבות בעזה' — אף תוצאה עם התבטאות של ג'בארין/טיבי/אבו שחאדה/כסיף/עודה בנושא; WebSearch אחד ממוקד — ללא תוצאה רלוונטית. ההתנגדות של הרשימה ודאית אידאולוגית אך לא נמצא ציטוט מילולי — לא הוסק.",
+        "issue_note": null
+      }
     },
     {
       "party": "joint",
@@ -4502,7 +4498,7 @@
       "strongest_source": null,
       "searched": {
         "checked": "2026-09-08",
-        "how": "חיפושי חדשות בעברית ובערבית בשם מנסור עבאס ובשם הרשימה. עמדתה של רע\"ם על מסים מול שירותים אינה מופיעה בשום מקור פומבי שנמצא. לשאלת פתיחת שוק המזון ליבוא נסרקו גם כל 359 מתוך 360 הצעות החוק שיזם מנסור עבאס: שתיים נוגעות למזון — הצלת מזון ומע\"מ מופחת על מוצרי יסוד — ואף אחת אינה עוסקת ביבוא, במכסים או בהגנה על החקלאות.",
+        "how": "חיפושי חדשות בעברית ובערבית בשם מנסור עבאס ובשם הרשימה. עמדתה של רע\"ם על מסים מול שירותים אינה מופיעה בשום מקור פומבי שנמצא. לשאלת פתיחת שוק המזון ליבוא נסרקו גם כל 359 מתוך 360 הצעות החוק שיזם מנסור עבאס: שתיים נוגעות למזון — הצלת מזון ומע\"מ מופחת על מוצרי יסוד — ואף אחת אינה עוסקת ביבוא, במכסים או בהגנה על החקלאות. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: לא נמצא אתר רשמי/מצע 2026 לרע'ם (raam.org.il, raam.co.il — לא קיימים; WebSearch לאתר/מצע — ללא תוצאה); ראיונות עבאס 2026 שנבדקו במלואם: mako 22.8.2026 ('מדינת פלסטין קיימת'), וואלה/103FM 23.8.2026, mako 5.9.2026 (עבאס-סגלוביץ), מעריב 5.1.2026 — עזה מוזכרת רק בהקשר חמאס/מדינה פלסטינית/הרוגים, ללא מילה על התיישבות יהודית ברצועה; 17 שאילתות חדשות (news-search bing): 'מנסור עבאס התיישבות בעזה', 'מנסור עבאס גוש קטיף', 'רעם התנחלויות בעזה', 'מנסור עבאס יישוב הרצועה', 'מנסור עבאס עזה התנחלות', 'עבאס חזרה לגוש קטיף', 'מנסור עבאס היום שאחרי בעזה', 'מנסור עבאס גירוש עזה סמוטריץ', 'מנסור עבאס עזה סיפוח', 'רעם עזה התיישבות יהודית', 'מנסור עבאס עזה חלק ממדינה פלסטינית', 'עבאס יוזמת גשרים עזה', 'מנסור עבאס תוכנית טראמפ עזה', 'מנסור עבאס ממשל צבאי עזה', 'מנסור עבאס הגירה מרצון עזה', 'מנסור עבאס נחלה עזה', 'מנסור עבאס טרנספר עזה', 'מנסור עבאס בן גביר עזה הגירה', 'עבאס עזה ריבונות ישראלית'; 2 WebSearch ממוקדים — ללא התבטאות של עבאס או ח'כ רע'ם על התיישבות יהודית בעזה. לא הוסק מאידאולוגיה. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: לא נמצא אתר רשמי/מצע 2026 לרע'ם (raam.org.il, raam.co.il — לא קיימים; WebSearch לאתר/מצע — ללא תוצאה); ראיונות עבאס 2026 שנבדקו במלואם: mako 22.8.2026 ('מדינת פלסטין קיימת'), וואלה/103FM 23.8.2026, mako 5.9.2026 (עבאס-סגלוביץ), מעריב 5.1.2026 — עזה מוזכרת רק בהקשר חמאס/מדינה פלסטינית/הרוגים, ללא מילה על התיישבות יהודית ברצועה; 17 שאילתות חדשות (news-search bing): 'מנסור עבאס התיישבות בעזה', 'מנסור עבאס גוש קטיף', 'רעם התנחלויות בעזה', 'מנסור עבאס יישוב הרצועה', 'מנסור עבאס עזה התנחלות', 'עבאס חזרה לגוש קטיף', 'מנסור עבאס היום שאחרי בעזה', 'מנסור עבאס גירוש עזה סמוטריץ', 'מנסור עבאס עזה סיפוח', 'רעם עזה התיישבות יהודית', 'מנסור עבאס עזה חלק ממדינה פלסטינית', 'עבאס יוזמת גשרים עזה', 'מנסור עבאס תוכנית טראמפ עזה', 'מנסור עבאס ממשל צבאי עזה', 'מנסור עבאס הגירה מרצון עזה', 'מנסור עבאס נחלה עזה', 'מנסור עבאס טרנספר עזה', 'מנסור עבאס בן גביר עזה הגירה', 'עבאס עזה ריבונות ישראלית'; 2 WebSearch ממוקדים — ללא התבטאות של עבאס או ח'כ רע'ם על התיישבות יהודית בעזה. לא הוסק מאידאולוגיה.",
         "issue_note": null
       }
     },
@@ -4589,22 +4585,18 @@
     {
       "party": "raam",
       "party_name": "רע\"ם",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 1,
-      "stance_he": "בעד",
-      "evidence": "sourced",
-      "source_count": 2,
-      "strongest_source": {
-        "type": "vote",
-        "type_he": "הצבעה בכנסת",
-        "tier": "doc",
-        "date": "2026-01-14",
-        "title": "הצעת חוק-יסוד: הממשלה (תיקון - הגבלת כהונת ראש הממשלה לשתי תקופות כהונה רצופות) — קריאה טרומית",
-        "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2203407",
-        "verified": "2026-09-14"
-      },
-      "searched": null
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 0.5,
+      "stance_he": "עמדה חלקית",
+      "evidence": "documented_silence",
+      "source_count": 0,
+      "strongest_source": null,
+      "searched": {
+        "checked": "2026-09-08",
+        "how": "חיפושי חדשות בעברית ובערבית בשם מנסור עבאס ובשם הרשימה. עמדתה של רע\"ם על מסים מול שירותים אינה מופיעה בשום מקור פומבי שנמצא. לשאלת פתיחת שוק המזון ליבוא נסרקו גם כל 359 מתוך 360 הצעות החוק שיזם מנסור עבאס: שתיים נוגעות למזון — הצלת מזון ומע\"מ מופחת על מוצרי יסוד — ואף אחת אינה עוסקת ביבוא, במכסים או בהגנה על החקלאות. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: לא נמצא אתר רשמי/מצע 2026 לרע'ם (raam.org.il, raam.co.il — לא קיימים; WebSearch לאתר/מצע — ללא תוצאה); ראיונות עבאס 2026 שנבדקו במלואם: mako 22.8.2026 ('מדינת פלסטין קיימת'), וואלה/103FM 23.8.2026, mako 5.9.2026 (עבאס-סגלוביץ), מעריב 5.1.2026 — עזה מוזכרת רק בהקשר חמאס/מדינה פלסטינית/הרוגים, ללא מילה על התיישבות יהודית ברצועה; 17 שאילתות חדשות (news-search bing): 'מנסור עבאס התיישבות בעזה', 'מנסור עבאס גוש קטיף', 'רעם התנחלויות בעזה', 'מנסור עבאס יישוב הרצועה', 'מנסור עבאס עזה התנחלות', 'עבאס חזרה לגוש קטיף', 'מנסור עבאס היום שאחרי בעזה', 'מנסור עבאס גירוש עזה סמוטריץ', 'מנסור עבאס עזה סיפוח', 'רעם עזה התיישבות יהודית', 'מנסור עבאס עזה חלק ממדינה פלסטינית', 'עבאס יוזמת גשרים עזה', 'מנסור עבאס תוכנית טראמפ עזה', 'מנסור עבאס ממשל צבאי עזה', 'מנסור עבאס הגירה מרצון עזה', 'מנסור עבאס נחלה עזה', 'מנסור עבאס טרנספר עזה', 'מנסור עבאס בן גביר עזה הגירה', 'עבאס עזה ריבונות ישראלית'; 2 WebSearch ממוקדים — ללא התבטאות של עבאס או ח'כ רע'ם על התיישבות יהודית בעזה. לא הוסק מאידאולוגיה. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: לא נמצא אתר רשמי/מצע 2026 לרע'ם (raam.org.il, raam.co.il — לא קיימים; WebSearch לאתר/מצע — ללא תוצאה); ראיונות עבאס 2026 שנבדקו במלואם: mako 22.8.2026 ('מדינת פלסטין קיימת'), וואלה/103FM 23.8.2026, mako 5.9.2026 (עבאס-סגלוביץ), מעריב 5.1.2026 — עזה מוזכרת רק בהקשר חמאס/מדינה פלסטינית/הרוגים, ללא מילה על התיישבות יהודית ברצועה; 17 שאילתות חדשות (news-search bing): 'מנסור עבאס התיישבות בעזה', 'מנסור עבאס גוש קטיף', 'רעם התנחלויות בעזה', 'מנסור עבאס יישוב הרצועה', 'מנסור עבאס עזה התנחלות', 'עבאס חזרה לגוש קטיף', 'מנסור עבאס היום שאחרי בעזה', 'מנסור עבאס גירוש עזה סמוטריץ', 'מנסור עבאס עזה סיפוח', 'רעם עזה התיישבות יהודית', 'מנסור עבאס עזה חלק ממדינה פלסטינית', 'עבאס יוזמת גשרים עזה', 'מנסור עבאס תוכנית טראמפ עזה', 'מנסור עבאס ממשל צבאי עזה', 'מנסור עבאס הגירה מרצון עזה', 'מנסור עבאס נחלה עזה', 'מנסור עבאס טרנספר עזה', 'מנסור עבאס בן גביר עזה הגירה', 'עבאס עזה ריבונות ישראלית'; 2 WebSearch ממוקדים — ללא התבטאות של עבאס או ח'כ רע'ם על התיישבות יהודית בעזה. לא הוסק מאידאולוגיה.",
+        "issue_note": null
+      }
     },
     {
       "party": "raam",
@@ -4638,7 +4630,7 @@
       "strongest_source": null,
       "searched": {
         "checked": "2026-09-08",
-        "how": "חיפושי חדשות בעברית ובערבית בשם מנסור עבאס ובשם הרשימה. עמדתה של רע\"ם על מסים מול שירותים אינה מופיעה בשום מקור פומבי שנמצא. לשאלת פתיחת שוק המזון ליבוא נסרקו גם כל 359 מתוך 360 הצעות החוק שיזם מנסור עבאס: שתיים נוגעות למזון — הצלת מזון ומע\"מ מופחת על מוצרי יסוד — ואף אחת אינה עוסקת ביבוא, במכסים או בהגנה על החקלאות.",
+        "how": "חיפושי חדשות בעברית ובערבית בשם מנסור עבאס ובשם הרשימה. עמדתה של רע\"ם על מסים מול שירותים אינה מופיעה בשום מקור פומבי שנמצא. לשאלת פתיחת שוק המזון ליבוא נסרקו גם כל 359 מתוך 360 הצעות החוק שיזם מנסור עבאס: שתיים נוגעות למזון — הצלת מזון ומע\"מ מופחת על מוצרי יסוד — ואף אחת אינה עוסקת ביבוא, במכסים או בהגנה על החקלאות. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: לא נמצא אתר רשמי/מצע 2026 לרע'ם (raam.org.il, raam.co.il — לא קיימים; WebSearch לאתר/מצע — ללא תוצאה); ראיונות עבאס 2026 שנבדקו במלואם: mako 22.8.2026 ('מדינת פלסטין קיימת'), וואלה/103FM 23.8.2026, mako 5.9.2026 (עבאס-סגלוביץ), מעריב 5.1.2026 — עזה מוזכרת רק בהקשר חמאס/מדינה פלסטינית/הרוגים, ללא מילה על התיישבות יהודית ברצועה; 17 שאילתות חדשות (news-search bing): 'מנסור עבאס התיישבות בעזה', 'מנסור עבאס גוש קטיף', 'רעם התנחלויות בעזה', 'מנסור עבאס יישוב הרצועה', 'מנסור עבאס עזה התנחלות', 'עבאס חזרה לגוש קטיף', 'מנסור עבאס היום שאחרי בעזה', 'מנסור עבאס גירוש עזה סמוטריץ', 'מנסור עבאס עזה סיפוח', 'רעם עזה התיישבות יהודית', 'מנסור עבאס עזה חלק ממדינה פלסטינית', 'עבאס יוזמת גשרים עזה', 'מנסור עבאס תוכנית טראמפ עזה', 'מנסור עבאס ממשל צבאי עזה', 'מנסור עבאס הגירה מרצון עזה', 'מנסור עבאס נחלה עזה', 'מנסור עבאס טרנספר עזה', 'מנסור עבאס בן גביר עזה הגירה', 'עבאס עזה ריבונות ישראלית'; 2 WebSearch ממוקדים — ללא התבטאות של עבאס או ח'כ רע'ם על התיישבות יהודית בעזה. לא הוסק מאידאולוגיה. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: לא נמצא אתר רשמי/מצע 2026 לרע'ם (raam.org.il, raam.co.il — לא קיימים; WebSearch לאתר/מצע — ללא תוצאה); ראיונות עבאס 2026 שנבדקו במלואם: mako 22.8.2026 ('מדינת פלסטין קיימת'), וואלה/103FM 23.8.2026, mako 5.9.2026 (עבאס-סגלוביץ), מעריב 5.1.2026 — עזה מוזכרת רק בהקשר חמאס/מדינה פלסטינית/הרוגים, ללא מילה על התיישבות יהודית ברצועה; 17 שאילתות חדשות (news-search bing): 'מנסור עבאס התיישבות בעזה', 'מנסור עבאס גוש קטיף', 'רעם התנחלויות בעזה', 'מנסור עבאס יישוב הרצועה', 'מנסור עבאס עזה התנחלות', 'עבאס חזרה לגוש קטיף', 'מנסור עבאס היום שאחרי בעזה', 'מנסור עבאס גירוש עזה סמוטריץ', 'מנסור עבאס עזה סיפוח', 'רעם עזה התיישבות יהודית', 'מנסור עבאס עזה חלק ממדינה פלסטינית', 'עבאס יוזמת גשרים עזה', 'מנסור עבאס תוכנית טראמפ עזה', 'מנסור עבאס ממשל צבאי עזה', 'מנסור עבאס הגירה מרצון עזה', 'מנסור עבאס נחלה עזה', 'מנסור עבאס טרנספר עזה', 'מנסור עבאס בן גביר עזה הגירה', 'עבאס עזה ריבונות ישראלית'; 2 WebSearch ממוקדים — ללא התבטאות של עבאס או ח'כ רע'ם על התיישבות יהודית בעזה. לא הוסק מאידאולוגיה.",
         "issue_note": null
       }
     },
@@ -4981,20 +4973,20 @@
     {
       "party": "noam",
       "party_name": "נעם לישראל",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 0,
-      "stance_he": "נגד",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 1,
+      "stance_he": "בעד",
       "evidence": "sourced",
-      "source_count": 1,
+      "source_count": 2,
       "strongest_source": {
-        "type": "vote",
-        "type_he": "הצבעה בכנסת",
-        "tier": "doc",
-        "date": "2026-01-14",
-        "title": "הצעת חוק-יסוד: הממשלה (תיקון - הגבלת כהונת ראש הממשלה לשתי תקופות כהונה רצופות) — קריאה טרומית",
-        "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2203407",
-        "verified": "2026-09-14"
+        "type": "leader",
+        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
+        "tier": "said",
+        "date": "2026-01-21",
+        "title": "אבי מעוז מזהיר: ״מועצת השלום היא מלכודת מדינית״ - JDN",
+        "url": "https://www.jdn.co.il/news/2562887/",
+        "verified": null
       },
       "searched": null
     },
@@ -5377,20 +5369,20 @@
     {
       "party": "kachol",
       "party_name": "כחול לבן",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 1,
-      "stance_he": "בעד",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 0,
+      "stance_he": "נגד",
       "evidence": "sourced",
-      "source_count": 4,
+      "source_count": 2,
       "strongest_source": {
-        "type": "vote",
-        "type_he": "הצבעה בכנסת",
-        "tier": "doc",
-        "date": "2026-01-14",
-        "title": "הצעת חוק-יסוד: הממשלה (תיקון - הגבלת כהונת ראש הממשלה לשתי תקופות כהונה רצופות) — קריאה טרומית",
-        "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2203407",
-        "verified": "2026-09-14"
+        "type": "leader",
+        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
+        "tier": "said",
+        "date": "2025-05-06",
+        "title": "גנץ בוועידת ההתיישבות: \"ממשלת השינוי נכשלה, ההתנתקות הייתה טעות\"",
+        "url": "https://www.makorrishon.co.il/news/settlement/article/162748",
+        "verified": null
       },
       "searched": null
     },
@@ -5544,12 +5536,12 @@
       "evidence": "sourced",
       "source_count": 6,
       "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2026-08-20",
-        "title": "יועז הנדל הטיל פצצה והאולפן נדם: \"חילי לא ילך עם גדי איזנקוט\" | פודקאסט מעריב",
-        "url": "https://www.maariv.co.il/news/politics/article-1355353",
+        "type": "platform",
+        "type_he": "מצע רשמי",
+        "tier": "doc",
+        "date": "2026-09-06",
+        "title": "מצע המפלגה הכלכלית — ביטחון",
+        "url": "https://www.hakalkalit.org/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F",
         "verified": "2026-09-14"
       },
       "searched": null
@@ -5584,12 +5576,12 @@
       "evidence": "sourced",
       "source_count": 5,
       "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2026-08-20",
-        "title": "יועז הנדל הטיל פצצה והאולפן נדם: \"חילי לא ילך עם גדי איזנקוט\" | פודקאסט מעריב",
-        "url": "https://www.maariv.co.il/news/politics/article-1355353",
+        "type": "platform",
+        "type_he": "מצע רשמי",
+        "tier": "doc",
+        "date": "2026-09-06",
+        "title": "מצע המפלגה הכלכלית — ביטחון",
+        "url": "https://www.hakalkalit.org/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F",
         "verified": "2026-09-14"
       },
       "searched": null
@@ -5604,12 +5596,12 @@
       "evidence": "sourced",
       "source_count": 5,
       "strongest_source": {
-        "type": "media",
-        "type_he": "מקור תקשורתי",
-        "tier": "reported",
-        "date": "2026-08-05",
-        "title": "\"אין זכויות בלי חובות\": הנדל וטרופר השיקו את מפלגתם החדשה",
-        "url": "https://www.israelhayom.co.il/news/politics/article/21135719",
+        "type": "platform",
+        "type_he": "מצע רשמי",
+        "tier": "doc",
+        "date": "2026-09-06",
+        "title": "מגלות לריבונות | מפלגת עוז",
+        "url": "https://www.ozparty.co.il/exile-to-sovereignty",
         "verified": "2026-09-14"
       },
       "searched": null
@@ -5644,12 +5636,12 @@
       "evidence": "sourced",
       "source_count": 4,
       "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2021-09-12",
-        "title": "השר יועז הנדל: \"אחרי התקציב נפעל למען נישואים אזרחיים\"",
-        "url": "https://www.inn.co.il/news/504642",
+        "type": "platform",
+        "type_he": "מצע רשמי",
+        "tier": "doc",
+        "date": "2026-09-07",
+        "title": "מגלות לריבונות | מפלגת עוז",
+        "url": "https://www.ozparty.co.il/exile-to-sovereignty",
         "verified": "2026-09-14"
       },
       "searched": null
@@ -5664,12 +5656,12 @@
       "evidence": "sourced",
       "source_count": 3,
       "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2026-08-17",
-        "title": "יועז הנדל חושף את התיק שהוא מכוון אליו | פודקאסט מעריב",
-        "url": "https://www.maariv.co.il/news/politics/article-1355354",
+        "type": "platform",
+        "type_he": "מצע רשמי",
+        "tier": "doc",
+        "date": "2026-09-06",
+        "title": "מצע המפלגה הכלכלית — ביטחון",
+        "url": "https://www.hakalkalit.org/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F",
         "verified": "2026-09-14"
       },
       "searched": null
@@ -5704,12 +5696,12 @@
       "evidence": "sourced",
       "source_count": 5,
       "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2026-09-03",
-        "title": "ביטחון הפנים זה החזית השמינית, ובה אנחנו מפסידים",
-        "url": "https://www.israelhayom.co.il/magazine/special/israelelections/article/21330970",
+        "type": "platform",
+        "type_he": "מצע רשמי",
+        "tier": "doc",
+        "date": "2026-09-06",
+        "title": "מצע המפלגה הכלכלית — ביטחון",
+        "url": "https://www.hakalkalit.org/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F",
         "verified": "2026-09-14"
       },
       "searched": null
@@ -5760,12 +5752,12 @@
       "evidence": "sourced",
       "source_count": 5,
       "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2026-08-20",
-        "title": "יועז הנדל הטיל פצצה והאולפן נדם: \"חילי לא ילך עם גדי איזנקוט\" | פודקאסט מעריב",
-        "url": "https://www.maariv.co.il/news/politics/article-1355353",
+        "type": "platform",
+        "type_he": "מצע רשמי",
+        "tier": "doc",
+        "date": "2026-09-06",
+        "title": "מצע המפלגה הכלכלית — ביטחון",
+        "url": "https://www.hakalkalit.org/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F",
         "verified": "2026-09-14"
       },
       "searched": null
@@ -5773,20 +5765,20 @@
     {
       "party": "miluim",
       "party_name": "המילואימניקים והכלכלית",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 1,
-      "stance_he": "בעד",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 0.5,
+      "stance_he": "עמדה חלקית",
       "evidence": "sourced",
-      "source_count": 3,
+      "source_count": 2,
       "strongest_source": {
-        "type": "media",
-        "type_he": "מקור תקשורתי",
-        "tier": "reported",
-        "date": "2026-08-05",
-        "title": "טרופר והנדל מציבים תנאים: זה התיק שנדרוש בממשלה הבאה",
-        "url": "https://www.srugim.co.il/101007807-%D7%98%D7%A8%D7%95%D7%A4%D7%A8-%D7%95%D7%94%D7%A0%D7%93%D7%9C-%D7%9E%D7%A6%D7%99%D7%91%D7%99%D7%9D-%D7%AA%D7%A0%D7%90%D7%99%D7%9D-%D7%96%D7%94-%D7%94%D7%AA%D7%99%D7%A7-%D7%A9%D7%A0%D7%93%D7%A8%D7%95%D7%A9",
-        "verified": "2026-09-14"
+        "type": "platform",
+        "type_he": "מצע רשמי",
+        "tier": "doc",
+        "date": "2026-09-15",
+        "title": "עקרונות - המילואימניקים",
+        "url": "https://www.themiluimnikim.org.il/platform/",
+        "verified": null
       },
       "searched": null
     },
@@ -5800,12 +5792,12 @@
       "evidence": "sourced",
       "source_count": 5,
       "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2026-09-03",
-        "title": "ביטחון הפנים זה החזית השמינית, ובה אנחנו מפסידים",
-        "url": "https://www.israelhayom.co.il/magazine/special/israelelections/article/21330970",
+        "type": "platform",
+        "type_he": "מצע רשמי",
+        "tier": "doc",
+        "date": "2026-09-06",
+        "title": "מצע המפלגה הכלכלית — ביטחון",
+        "url": "https://www.hakalkalit.org/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F",
         "verified": "2026-09-14"
       },
       "searched": null
@@ -5840,12 +5832,12 @@
       "evidence": "sourced",
       "source_count": 2,
       "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2021-01-26",
-        "title": "הנדל לפעילי להט\"ב: \"מחויבים לזכויותיהם כתפיסת עולם\"",
-        "url": "https://www.makorrishon.co.il/news/article/269386",
+        "type": "platform",
+        "type_he": "מצע רשמי",
+        "tier": "doc",
+        "date": "2026-09-07",
+        "title": "נושאים ותחומים נוספים | המפלגה הכלכלית",
+        "url": "https://web.archive.org/web/20251116163323/https://www.hakalkalit.org/%D7%A0%D7%95%D7%A9%D7%90%D7%99%D7%9D-%D7%95%D7%AA%D7%97%D7%95%D7%9E%D7%99%D7%9D-%D7%A0%D7%95%D7%A1%D7%A4%D7%99%D7%9D",
         "verified": "2026-09-14"
       },
       "searched": null
@@ -5880,12 +5872,12 @@
       "evidence": "sourced",
       "source_count": 5,
       "strongest_source": {
-        "type": "leader",
-        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
-        "tier": "said",
-        "date": "2026-08-05",
-        "title": "טרופר והנדל מציבים תנאים: זה התיק שנדרוש בממשלה הבאה",
-        "url": "https://www.srugim.co.il/101007807-%D7%98%D7%A8%D7%95%D7%A4%D7%A8-%D7%95%D7%94%D7%A0%D7%93%D7%9C-%D7%9E%D7%A6%D7%99%D7%91%D7%99%D7%9D-%D7%AA%D7%A0%D7%90%D7%99%D7%9D-%D7%96%D7%94-%D7%94%D7%AA%D7%99%D7%A7-%D7%A9%D7%A0%D7%93%D7%A8%D7%95%D7%A9",
+        "type": "platform",
+        "type_he": "מצע רשמי",
+        "tier": "doc",
+        "date": "2026-09-07",
+        "title": "מצע המפלגה הכלכלית — ביטחון",
+        "url": "https://www.hakalkalit.org/%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F",
         "verified": "2026-09-14"
       },
       "searched": null
@@ -5895,18 +5887,18 @@
       "party_name": "המילואימניקים והכלכלית",
       "issue": "haredi-coalition",
       "issue_label": "חרדים בקואליציה ללא חוק גיוס",
-      "stance": 0.5,
-      "stance_he": "עמדה חלקית",
+      "stance": 0,
+      "stance_he": "נגד",
       "evidence": "sourced",
-      "source_count": 3,
+      "source_count": 4,
       "strongest_source": {
         "type": "leader",
         "type_he": "הצהרה רשמית של יו\"ר המפלגה",
         "tier": "said",
-        "date": "2026-08-20",
-        "title": "יועז הנדל הטיל פצצה והאולפן נדם: \"חילי לא ילך עם גדי איזנקוט\" | פודקאסט מעריב",
-        "url": "https://www.maariv.co.il/news/politics/article-1355353",
-        "verified": "2026-09-14"
+        "date": "2026-09-06",
+        "title": "הנדל וזליכה מתאחדים: ממשלה ציונית, לא עם המפלגות החרדיות",
+        "url": "https://www.israelhayom.co.il/news/politics/article/21364513",
+        "verified": null
       },
       "searched": null
     },
@@ -6169,18 +6161,22 @@
     {
       "party": "haskel",
       "party_name": "ישראל תחילה",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
       "stance": 0.5,
       "stance_he": "עמדה חלקית",
-      "evidence": "documented_silence",
-      "source_count": 0,
-      "strongest_source": null,
-      "searched": {
-        "checked": "2026-09-07",
-        "how": "האתר הרשמי (ארבעה עמודי תוכן בלבד) וכל 508 הצעות החוק ששרן השכל יזמה (PersonID 30118). הצעת חוק להגבלת כהונה שנמצאה עוסקת בראשי ערים ולא בראש הממשלה, ולכן אינה עונה על השאלה.",
-        "issue_note": null
-      }
+      "evidence": "sourced",
+      "source_count": 2,
+      "strongest_source": {
+        "type": "leader",
+        "type_he": "הצהרה רשמית של יו\"ר המפלגה",
+        "tier": "said",
+        "date": "2025-02-06",
+        "title": "Israeli Deputy Foreign Minister Sharren Haskel Talks Gaza Cease-Fire and Trump's Proposal",
+        "url": "https://foreignpolicy.com/2025/02/06/israel-gaza-trump-deputy-foreign-minister-interview/",
+        "verified": null
+      },
+      "searched": null
     },
     {
       "party": "haskel",
@@ -6553,10 +6549,10 @@
     {
       "party": "orot",
       "party_name": "אורות השחר",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
-      "stance": 1,
-      "stance_he": "בעד",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
+      "stance": 0.5,
+      "stance_he": "עמדה חלקית",
       "evidence": "sourced",
       "source_count": 1,
       "strongest_source": {
@@ -6564,9 +6560,9 @@
         "type_he": "מצע רשמי",
         "tier": "doc",
         "date": "2025-10-27",
-        "title": "מצע אורות השחר — ממשל חכם ורזה",
+        "title": "מצע - מפלגת אורות השחר",
         "url": "https://orothashachar.org.il/platform/",
-        "verified": "2026-09-14"
+        "verified": null
       },
       "searched": null
     },
@@ -6730,7 +6726,7 @@
       "strongest_source": null,
       "searched": {
         "checked": "2026-09-08",
-        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה.",
+        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society). השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society).",
         "issue_note": null
       }
     },
@@ -6786,7 +6782,7 @@
       "strongest_source": null,
       "searched": {
         "checked": "2026-09-08",
-        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה.",
+        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society). השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society).",
         "issue_note": null
       }
     },
@@ -6862,7 +6858,7 @@
       "strongest_source": null,
       "searched": {
         "checked": "2026-09-08",
-        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה.",
+        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society). השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society).",
         "issue_note": null
       }
     },
@@ -6898,7 +6894,7 @@
       "strongest_source": null,
       "searched": {
         "checked": "2026-09-08",
-        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה.",
+        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society). השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society).",
         "issue_note": "נבדק גם מאגר ההצבעות של הכנסת (KNS_PlenumVote, 8.9.2026): אין ולו הצבעה אחת במליאה על תפילת יהודים בהר הבית. שתי ההצבעות היחידות שכותרתן מזכירה את הר הבית הן הצעת חוק פרטית מ-2022 על שמירה על המקומות הקדושים, שאינה עוסקת בזכות התפילה, והצעת אי-אמון מ-2023 — הצבעה על אמון בממשלה ולא על השאלה. לכן אין לאף רשימה מסלול של הצבעה בסוגיה הזו."
       }
     },
@@ -6925,8 +6921,8 @@
     {
       "party": "byn",
       "party_name": "ביחד נצליח",
-      "issue": "term-limits",
-      "issue_label": "הגבלת כהונת ראש הממשלה",
+      "issue": "gaza-resettlement",
+      "issue_label": "התיישבות יהודית ברצועת עזה",
       "stance": 0.5,
       "stance_he": "עמדה חלקית",
       "evidence": "documented_silence",
@@ -6934,7 +6930,7 @@
       "strongest_source": null,
       "searched": {
         "checked": "2026-09-08",
-        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה.",
+        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society). השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society).",
         "issue_note": null
       }
     },
@@ -6950,7 +6946,7 @@
       "strongest_source": null,
       "searched": {
         "checked": "2026-09-08",
-        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה.",
+        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society). השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society).",
         "issue_note": null
       }
     },
@@ -6966,7 +6962,7 @@
       "strongest_source": null,
       "searched": {
         "checked": "2026-09-08",
-        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה.",
+        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society). השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society).",
         "issue_note": null
       }
     },
@@ -6982,7 +6978,7 @@
       "strongest_source": null,
       "searched": {
         "checked": "2026-09-08",
-        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה.",
+        "how": "אין אתר ואין מצע רשמי; חיפוש חדשות בשמות אבי שקד ודראר אמריח, וה-REST API של ערוץ 14 (100 כתבות). לשאלת פתיחת שוק המזון ליבוא נבדקו גם חיפושי חדשות בשמות אבי שקד ודראר אמריח בצירוף יוקר מחיה, יבוא וחקלאות, וראיון ההשקה מ-7.9.2026 שאינו נוגע בסוגיה. השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society). השאלות שנוספו ב-15.9.2026 — gaza-resettlement: Site yahaad.com: home (תוכנית 5 הנקודות — item 'סיום הסכסוך עם שכנינו: נפעל באומץ ובאחריות להשגת שלום צודק עם העם הפלסטיני ועם מדינות ערב'), /aviporfile ('חתירה לשלום צודק ובר־קיימא בין ישראל לפלסטינים, המבוסס על פתרון שתי המדינות'), /general-5-1 (אודותינו), /about-1-1, /copy-of-aviporfile, /en, blog posts 'עולמות שונים של שלום בישראל' (2025-11-20), 'המאבק לשוויון', 'אבי שקד מתמודד בבחירות ב 2026', 'יחד נצליח', 'טמרה ביחד נצליח' — none mentions Gaza, Gush Katif or Jewish settlement in the Strip; the two-state line is the closest text but is not a statement on Gaza settlement (not inferred, per brief). News RSS (Bing, 2019–2026): 'אבי שקד ביחד נצליח עזה', 'אבי שקד גוש קטיף', 'ביחד נצליח התיישבות בעזה', 'אבי שקד עזה יישובים', 'אבי שקד עזה', 'אבי שקד מדינה פלסטינית', 'אבי שקד שתי מדינות שלום', 'ביחד נצליח רצועת עזה', 'ביחד נצליח שקד שלום פלסטינים', 'ביחד נצליח דראר אמריח' — nothing from the list on Gaza settlement (the Nov-2025 launch coverage exists only on MSN, which is blocked, and its headline is about crime in Arab society).",
         "issue_note": null
       }
     },
