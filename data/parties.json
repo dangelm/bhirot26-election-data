@@ -1,8 +1,8 @@
 {
   "$comment": "נוצר אוטומטית על ידי scripts/gen-repo.mjs במאגר האתר. אין לערוך ידנית — הקובץ ייכתב מחדש.",
   "name": "מצפן הבחירות 2026",
-  "version": "2026-09-17",
-  "generated": "2026-09-17",
+  "version": "2026-09-20",
+  "generated": "2026-09-20",
   "election_date": "2026-10-27",
   "site": "https://bhirot26.online",
   "repository": "https://github.com/dangelm/bhirot26-election-data",
@@ -64,7 +64,7 @@
         }
       ],
       "surplus_agreement_with": "rz",
-      "surplus_agreement_note": "סוכם בסוף אוגוסט; סרוגים דיווח ב-8.9.2026 על חתימה",
+      "surplus_agreement_note": "סוכם עקרונית בסוף אוגוסט; לפי כיכר השבת (18.9.2026) טרם נחתם, ובליכוד יש הקוראים לחתום דווקא עם עמך ישראל",
       "leader": "בנימין נתניהו",
       "tag": "ימין",
       "scored": true,
@@ -258,7 +258,7 @@
         }
       ],
       "surplus_agreement_with": "utj",
-      "surplus_agreement_note": "סרוגים דיווח ב-8.9.2026 על חתימה; כיכר השבת ב-10.9 עדיין תיאר אותו כצפוי",
+      "surplus_agreement_note": "סרוגים דיווח ב-8.9.2026 על חתימה, אך כיכר השבת (10.9 ו-18.9) אינו מונה אותו בין ההסכמים שנחתמו",
       "leader": "אריה דרעי",
       "tag": "חרדי-ספרדי",
       "scored": true,
@@ -296,7 +296,7 @@
         }
       ],
       "surplus_agreement_with": "shas",
-      "surplus_agreement_note": "סרוגים דיווח ב-8.9.2026 על חתימה; כיכר השבת ב-10.9 עדיין תיאר אותו כצפוי",
+      "surplus_agreement_note": "סרוגים דיווח ב-8.9.2026 על חתימה, אך כיכר השבת (10.9 ו-18.9) אינו מונה אותו בין ההסכמים שנחתמו",
       "leader": "יעקב אשר · יצחק גולדקנופף",
       "tag": "חרדי-אשכנזי",
       "scored": true,
@@ -332,14 +332,14 @@
       "roster_source": "https://www.inn.co.il/news/705946",
       "former_candidates": [],
       "surplus_agreement_with": "likud",
-      "surplus_agreement_note": "סוכם בסוף אוגוסט; סרוגים דיווח ב-8.9.2026 על חתימה",
+      "surplus_agreement_note": "סוכם עקרונית בסוף אוגוסט; לפי כיכר השבת (18.9.2026) טרם נחתם, ובליכוד יש הקוראים לחתום דווקא עם עמך ישראל",
       "leader": "בצלאל סמוטריץ'",
       "tag": "ימין דתי",
       "scored": true,
       "major": true,
       "debut": false,
       "status": null,
-      "note": "בקשת זולת לפסילת הרשימה; הדיון במליאת ועדת הבחירות בשבוע של 20.9",
+      "note": "בקשת זולת לפסילת הרשימה ולפסילת סמוטריץ', פייגלין וסוכות כמועמדים (הטיעונים על המועמדים נשמרים לבג\"ץ, לפי החלטת סולברג); הדיון במליאת ועדת הבחירות בשבוע של 20.9",
       "page": "https://bhirot26.online/party/rz"
     },
     {
