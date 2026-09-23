@@ -1,0 +1,341 @@
+{
+  "$comment": "נוצר אוטומטית על ידי scripts/gen-repo.mjs במאגר האתר. אין לערוך ידנית — הקובץ ייכתב מחדש.",
+  "name": "מצפן הבחירות 2026",
+  "version": "2026-09-23",
+  "generated": "2026-09-23",
+  "election_date": "2026-10-27",
+  "site": "https://bhirot26.online",
+  "repository": "https://github.com/dangelm/bhirot26-election-data",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "statuses": {
+    "pending": "ממתינה לדיון במליאת הוועדה",
+    "dismissed": "נדחתה על הסף",
+    "reserved": "הטיעונים נשמרים לבג\"ץ",
+    "chair": "ממתינה להחלטת היו\"ר על תנאי הסף",
+    "decided": "הוכרעה"
+  },
+  "hearings_week": "20.9.2026",
+  "petitions": [
+    {
+      "id": "raam-otzma",
+      "target_party": "raam",
+      "target_kind": "list",
+      "target_name": null,
+      "petitioner": "עוצמה יהודית",
+      "filed": "2026-09-09",
+      "status": "pending",
+      "grounds_as_claimed": "תמיכה במאבק מזוין של ארגון טרור; שלילת ישראל כמדינה יהודית",
+      "note": null,
+      "sources": [
+        {
+          "outlet": "סרוגים",
+          "date": "2026-09-09",
+          "url": "https://www.srugim.co.il/101010808-גילויים-חדשים-בן-גביר-דורש-לפסול-את"
+        },
+        {
+          "outlet": "ישראל היום",
+          "date": "2026-09-15",
+          "url": "https://www.israelhayom.co.il/news/law/article/21430915"
+        }
+      ]
+    },
+    {
+      "id": "raam-likud",
+      "target_party": "raam",
+      "target_kind": "list",
+      "target_name": null,
+      "petitioner": "הליכוד",
+      "filed": "2026-09-14",
+      "status": "pending",
+      "grounds_as_claimed": "שלילת ישראל כמדינה יהודית ודמוקרטית; תמיכה במאבק מזוין (זיקות לחמאס ולאחים המוסלמים, עמותת \"סיוע 48\")",
+      "note": null,
+      "sources": [
+        {
+          "outlet": "ישראל היום",
+          "date": "2026-09-14",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21419414"
+        },
+        {
+          "outlet": "ישראל היום",
+          "date": "2026-09-15",
+          "url": "https://www.israelhayom.co.il/news/law/article/21430915"
+        }
+      ]
+    },
+    {
+      "id": "raam-families",
+      "target_party": "raam",
+      "target_kind": "list",
+      "target_name": null,
+      "petitioner": "פורום \"בוחרים בחיים\" (משפחות שכולות ונפגעי טרור)",
+      "filed": "2026-09-14",
+      "status": "pending",
+      "grounds_as_claimed": "תמיכה חומרית בגופים המזוהים עם חמאס (לפי המבקשים)",
+      "note": "יו\"ר הוועדה לא אישר לבני המשפחות להיות נוכחים בדיון (18.9): \"חשש מהתלהטות יצרים\"; הדיון באודיטוריום הכנסת",
+      "sources": [
+        {
+          "outlet": "ישראל היום",
+          "date": "2026-09-15",
+          "url": "https://www.israelhayom.co.il/news/law/article/21430915"
+        },
+        {
+          "outlet": "כיכר השבת",
+          "date": "2026-09-18",
+          "url": "https://www.kikar.co.il/political-news/solberg-rejects-bereaved-families-raam-hearing"
+        }
+      ]
+    },
+    {
+      "id": "joint-likud",
+      "target_party": "joint",
+      "target_kind": "list",
+      "target_name": null,
+      "petitioner": "הליכוד",
+      "filed": "2026-09-14",
+      "status": "pending",
+      "grounds_as_claimed": "\"פוגעים בחיילי צה\"ל ואינם מוכנים להגדיר את חמאס וחיזבאללה ארגוני טרור\"",
+      "note": null,
+      "sources": [
+        {
+          "outlet": "N12",
+          "date": "2026-09-14",
+          "url": "https://www.mako.co.il/news-israel-elections/2026/Article-b5f5db723af90a1027.htm"
+        },
+        {
+          "outlet": "ישראל היום",
+          "date": "2026-09-15",
+          "url": "https://www.israelhayom.co.il/news/law/article/21430915"
+        }
+      ]
+    },
+    {
+      "id": "cassif-likud",
+      "target_party": "joint",
+      "target_kind": "candidate",
+      "target_name": "עופר כסיף",
+      "petitioner": "הליכוד",
+      "filed": "2026-09-14",
+      "status": "pending",
+      "grounds_as_claimed": "תמיכה במאבק מזוין נגד ישראל",
+      "note": null,
+      "sources": [
+        {
+          "outlet": "ישראל היום",
+          "date": "2026-09-15",
+          "url": "https://www.israelhayom.co.il/news/law/article/21430915"
+        }
+      ]
+    },
+    {
+      "id": "cassif-forer",
+      "target_party": "joint",
+      "target_kind": "candidate",
+      "target_name": "עופר כסיף",
+      "petitioner": "ח\"כ עודד פורר (ישראל ביתנו)",
+      "filed": "2026-09-13",
+      "status": "pending",
+      "grounds_as_claimed": "\"אין דבר כזה טרור נגד חיילים\", קריאה לסרבנות, חתימה על העצומה בעד תביעת דרום אפריקה בהאג (לפי הבקשה)",
+      "note": null,
+      "sources": [
+        {
+          "outlet": "N12",
+          "date": "2026-09-14",
+          "url": "https://www.mako.co.il/news-israel-elections/2026/Article-b5f5db723af90a1027.htm"
+        }
+      ]
+    },
+    {
+      "id": "cassif-bezalmo",
+      "target_party": "joint",
+      "target_kind": "candidate",
+      "target_name": "עופר כסיף",
+      "petitioner": "ארגון \"בצלמו\" ובני משפחות שכולות",
+      "filed": "2026-09-14",
+      "status": "dismissed",
+      "grounds_as_claimed": null,
+      "note": "צורפו 11 חתימות של חברי ועדה במקום 12 הנדרשות — לא התקיים תנאי הסף",
+      "sources": [
+        {
+          "outlet": "ישראל היום",
+          "date": "2026-09-15",
+          "url": "https://www.israelhayom.co.il/news/law/article/21430915"
+        }
+      ]
+    },
+    {
+      "id": "abushehadeh-otzma",
+      "target_party": "joint",
+      "target_kind": "candidate",
+      "target_name": "סאמי אבו שחאדה",
+      "petitioner": "עוצמה יהודית",
+      "filed": "2026-09-14",
+      "status": "pending",
+      "grounds_as_claimed": "תמיכה בטרור ושלילת אופייה היהודי של ישראל (לפי הבקשה; בין היתר מאמר מ-8.10.2023)",
+      "note": null,
+      "sources": [
+        {
+          "outlet": "ישראל היום",
+          "date": "2026-09-15",
+          "url": "https://www.israelhayom.co.il/news/law/article/21430915"
+        }
+      ]
+    },
+    {
+      "id": "balad-orot",
+      "target_party": "joint",
+      "target_kind": "component",
+      "target_name": "בל\"ד",
+      "petitioner": "אורות השחר – המפלגה של כולם",
+      "filed": "2026-09-15",
+      "status": "chair",
+      "grounds_as_claimed": null,
+      "note": "בל\"ד רצה כמרכיב ברשימה המשותפת; החלטת יו\"ר הוועדה על תנאי הסף טרם פורסמה",
+      "sources": [
+        {
+          "outlet": "ישראל היום",
+          "date": "2026-09-15",
+          "url": "https://www.israelhayom.co.il/news/law/article/21430915"
+        },
+        {
+          "outlet": "אמ\"ס",
+          "date": "2026-09-16",
+          "url": "https://www.emess.co.il/radio/1929785"
+        }
+      ]
+    },
+    {
+      "id": "otzma-democrats",
+      "target_party": "otzma",
+      "target_kind": "list",
+      "target_name": null,
+      "petitioner": "הדמוקרטים",
+      "filed": "2026-09-14",
+      "status": "pending",
+      "grounds_as_claimed": "שלילת ישראל כמדינה דמוקרטית והסתה לגזענות; הבקשה נגד שמונת המועמדים כיחידים נדחתה על הסף",
+      "note": null,
+      "sources": [
+        {
+          "outlet": "כיכר השבת",
+          "date": "2026-09-14",
+          "url": "https://www.kikar.co.il/political-news/democrats-petition-disqualify-otzma-yehudit"
+        },
+        {
+          "outlet": "כיכר השבת",
+          "date": "2026-09-15",
+          "url": "https://www.kikar.co.il/political-news/tlfb3m"
+        }
+      ]
+    },
+    {
+      "id": "otzma-zulat",
+      "target_party": "otzma",
+      "target_kind": "list",
+      "target_name": null,
+      "petitioner": "מכון זולת עם משה יעלון, עמר בר-לב, יעל גרמן, זהבה גלאון ואחרים",
+      "filed": "2026-09-14",
+      "status": "pending",
+      "grounds_as_claimed": "הסתה לגזענות ופעולה נגד יסודות הדמוקרטיה (\"ממשיכי דרכה של כך\"); הבקשות נגד בן גביר, גוטליב, סון הר-מלך ודורפמן כיחידים נדחו על הסף",
+      "note": null,
+      "sources": [
+        {
+          "outlet": "N12",
+          "date": "2026-09-14",
+          "url": "https://www.mako.co.il/news-israel-elections/2026/Article-b5f5db723af90a1027.htm"
+        },
+        {
+          "outlet": "כיכר השבת",
+          "date": "2026-09-15",
+          "url": "https://www.kikar.co.il/political-news/tlfb3m"
+        }
+      ]
+    },
+    {
+      "id": "democrats-otzma",
+      "target_party": "democrats",
+      "target_kind": "list",
+      "target_name": null,
+      "petitioner": "עוצמה יהודית",
+      "filed": "2026-09-14",
+      "status": "pending",
+      "grounds_as_claimed": "הסתה לגזענות ושלילת ישראל כמדינה יהודית ודמוקרטית (התבטאויות נגד ערוץ 14, קריאות לאי-ציות ולאי-התייצבות למילואים, לפי הבקשה); הבקשה נגד גולן כיחיד נדחתה על הסף",
+      "note": null,
+      "sources": [
+        {
+          "outlet": "ישראל היום",
+          "date": "2026-09-15",
+          "url": "https://www.israelhayom.co.il/news/law/article/21430915"
+        },
+        {
+          "outlet": "כיכר השבת",
+          "date": "2026-09-15",
+          "url": "https://www.kikar.co.il/political-news/tlfb3m"
+        }
+      ]
+    },
+    {
+      "id": "rz-zulat",
+      "target_party": "rz",
+      "target_kind": "list",
+      "target_name": null,
+      "petitioner": "מכון זולת עם פרופ' פרנסס רדאי, משה יעלון, יעל גרמן, עמר בר-לב ויורם בן זאב",
+      "filed": "2026-09-15",
+      "status": "pending",
+      "grounds_as_claimed": "שלילת אופייה הדמוקרטי של המדינה והסתה לגזענות (\"תוכנית ההכרעה\", התבטאויות של סמוטריץ', פייגלין וסוכות)",
+      "note": "הבקשה מכוונת גם נגד סמוטריץ', פייגלין וסוכות כמועמדים; לפי החלטת היו\"ר הטיעונים על המועמדים נשמרים לבג\"ץ",
+      "sources": [
+        {
+          "outlet": "ערוץ 7",
+          "date": "2026-09-17",
+          "url": "https://www.inn.co.il/news/706593"
+        },
+        {
+          "outlet": "סרוגים",
+          "date": "2026-09-15",
+          "url": "https://www.srugim.co.il/101011210-%D7%93%D7%A8%D7%99%D7%A9%D7%94-%D7%9E%D7%94%D7%A9%D7%95%D7%A4%D7%98-%D7%A1%D7%95%D7%9C%D7%91%D7%A8%D7%92-%D7%A4%D7%A1%D7%95%D7%9C-%D7%90%D7%AA-%D7%A4%D7%99%D7%99%D7%92%D7%9C%D7%99%D7%9F"
+        }
+      ]
+    },
+    {
+      "id": "dror-itim",
+      "target_party": "shas",
+      "target_kind": "candidate",
+      "target_name": "עמוס דרור (מס' 6)",
+      "petitioner": "ארגון עתים",
+      "filed": "2026-09-15",
+      "status": "pending",
+      "grounds_as_claimed": "לא התפטר במועד הקבוע בחוק מתפקידו כממונה על המועצה הדתית בחיפה",
+      "note": null,
+      "sources": [
+        {
+          "outlet": "כיכר השבת",
+          "date": "2026-09-15",
+          "url": "https://www.kikar.co.il/political-news/amos-dror-shas-disqualification-petition"
+        },
+        {
+          "outlet": "ערוץ 7",
+          "date": "2026-09-15",
+          "url": "https://www.inn.co.il/news/706372"
+        }
+      ]
+    },
+    {
+      "id": "haskel-x",
+      "target_party": "haskel",
+      "target_kind": "list",
+      "target_name": null,
+      "petitioner": "לא פורסם",
+      "filed": "2026-09-14",
+      "status": "dismissed",
+      "grounds_as_claimed": null,
+      "note": "נדחתה על הסף (14.9)",
+      "sources": [
+        {
+          "outlet": "כיכר השבת",
+          "date": "2026-09-15",
+          "url": "https://www.kikar.co.il/political-news/tlfb3m"
+        }
+      ]
+    }
+  ]
+}
