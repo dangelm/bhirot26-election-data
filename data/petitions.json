@@ -1,19 +1,21 @@
 {
   "$comment": "נוצר אוטומטית על ידי scripts/gen-repo.mjs במאגר האתר. אין לערוך ידנית — הקובץ ייכתב מחדש.",
   "name": "מצפן הבחירה 2026",
-  "version": "2026-09-23",
-  "generated": "2026-09-23",
+  "version": "2026-09-27",
+  "generated": "2026-09-27",
   "election_date": "2026-10-27",
   "site": "https://bhirot26.online",
   "repository": "https://github.com/dangelm/bhirot26-election-data",
   "license": "CC BY 4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "statuses": {
+    "granted": "התקבלה: נפסל/ה בוועדה, ההכרעה בבג\"ץ",
+    "rejected": "נדחתה במליאת הוועדה",
+    "closed": "לא הובילה לפסילה",
     "pending": "ממתינה לדיון במליאת הוועדה",
     "dismissed": "נדחתה על הסף",
     "reserved": "הטיעונים נשמרים לבג\"ץ",
-    "chair": "ממתינה להחלטת היו\"ר על תנאי הסף",
-    "decided": "הוכרעה"
+    "chair": "ממתינה להחלטת היו\"ר על תנאי הסף"
   },
   "hearings_week": "20.9.2026",
   "petitions": [
@@ -24,9 +26,9 @@
       "target_name": null,
       "petitioner": "עוצמה יהודית",
       "filed": "2026-09-09",
-      "status": "pending",
+      "status": "granted",
       "grounds_as_claimed": "תמיכה במאבק מזוין של ארגון טרור; שלילת ישראל כמדינה יהודית",
-      "note": null,
+      "note": "נדונה יחד עם בקשת הליכוד. המליאה קיבלה את הבקשות ב-23.9.2026 (18 בעד, 5 נגד, נמנע אחד), בניגוד לעמדת היועצת המשפטית לממשלה; הרשימה אושרה על תנאי וההכרעה בבג\"ץ",
       "sources": [
         {
           "outlet": "סרוגים",
@@ -34,9 +36,14 @@
           "url": "https://www.srugim.co.il/101010808-גילויים-חדשים-בן-גביר-דורש-לפסול-את"
         },
         {
-          "outlet": "ישראל היום",
-          "date": "2026-09-15",
-          "url": "https://www.israelhayom.co.il/news/law/article/21430915"
+          "outlet": "וואלה",
+          "date": "2026-09-23",
+          "url": "https://www.walla.co.il/news/politics/383955089"
+        },
+        {
+          "outlet": "וואלה",
+          "date": "2026-09-24",
+          "url": "https://www.walla.co.il/news/politics/383955236"
         }
       ]
     },
@@ -47,9 +54,9 @@
       "target_name": null,
       "petitioner": "הליכוד",
       "filed": "2026-09-14",
-      "status": "pending",
+      "status": "granted",
       "grounds_as_claimed": "שלילת ישראל כמדינה יהודית ודמוקרטית; תמיכה במאבק מזוין (זיקות לחמאס ולאחים המוסלמים, עמותת \"סיוע 48\")",
-      "note": null,
+      "note": "התקבלה ב-23.9.2026 (18–5–1) בניגוד לעמדת היועצת המשפטית לממשלה; רע\"ם: \"החלטה פוליטית, נפריך את הטענות בבג\"ץ\"",
       "sources": [
         {
           "outlet": "ישראל היום",
@@ -57,9 +64,14 @@
           "url": "https://www.israelhayom.co.il/news/politics/article/21419414"
         },
         {
-          "outlet": "ישראל היום",
-          "date": "2026-09-15",
-          "url": "https://www.israelhayom.co.il/news/law/article/21430915"
+          "outlet": "וואלה",
+          "date": "2026-09-24",
+          "url": "https://www.walla.co.il/news/politics/383955236"
+        },
+        {
+          "outlet": "מעריב",
+          "date": "2026-09-24",
+          "url": "https://www.maariv.co.il/news/elections-2026/article-1370212"
         }
       ]
     },
@@ -70,9 +82,9 @@
       "target_name": null,
       "petitioner": "פורום \"בוחרים בחיים\" (משפחות שכולות ונפגעי טרור)",
       "filed": "2026-09-14",
-      "status": "pending",
+      "status": "granted",
       "grounds_as_claimed": "תמיכה חומרית בגופים המזוהים עם חמאס (לפי המבקשים)",
-      "note": "יו\"ר הוועדה לא אישר לבני המשפחות להיות נוכחים בדיון (18.9): \"חשש מהתלהטות יצרים\"; הדיון באודיטוריום הכנסת",
+      "note": "התקבלה ב-23.9.2026 (18–5–1). בני המשפחות לא הורשו להיות נוכחים בדיון (\"חשש מהתלהטות יצרים\")",
       "sources": [
         {
           "outlet": "ישראל היום",
@@ -83,6 +95,11 @@
           "outlet": "כיכר השבת",
           "date": "2026-09-18",
           "url": "https://www.kikar.co.il/political-news/solberg-rejects-bereaved-families-raam-hearing"
+        },
+        {
+          "outlet": "וואלה",
+          "date": "2026-09-24",
+          "url": "https://www.walla.co.il/news/politics/383955236"
         }
       ]
     },
@@ -93,9 +110,9 @@
       "target_name": null,
       "petitioner": "הליכוד",
       "filed": "2026-09-14",
-      "status": "pending",
+      "status": "granted",
       "grounds_as_claimed": "\"פוגעים בחיילי צה\"ל ואינם מוכנים להגדיר את חמאס וחיזבאללה ארגוני טרור\"",
-      "note": null,
+      "note": "התקבלה ב-23.9.2026 בשתי העילות (18 בעד, 5 נגד, נמנע אחד); הרשימה אושרה על תנאי, דיון בבג\"ץ ב-1.10.2026",
       "sources": [
         {
           "outlet": "N12",
@@ -103,9 +120,14 @@
           "url": "https://www.mako.co.il/news-israel-elections/2026/Article-b5f5db723af90a1027.htm"
         },
         {
-          "outlet": "ישראל היום",
-          "date": "2026-09-15",
-          "url": "https://www.israelhayom.co.il/news/law/article/21430915"
+          "outlet": "סרוגים",
+          "date": "2026-09-23",
+          "url": "https://www.srugim.co.il/101011778-%D7%93%D7%A8%D7%9E%D7%94-%D7%91%D7%95%D7%95%D7%A2%D7%93%D7%AA-%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA-%D7%90%D7%97%D7%A8%D7%99-%D7%A8%D7%A2%D7%9D-%D7%92%D7%9D-%D7%94%D7%9E%D7%A9%D7%95%D7%AA%D7%A4%D7%AA-%D7%A0%D7%A4%D7%A1%D7%9C%D7%94"
+        },
+        {
+          "outlet": "מקור ראשון",
+          "date": "2026-09-26",
+          "url": "https://www.makorrishon.co.il/news/politcal/article/374293"
         }
       ]
     },
@@ -116,14 +138,24 @@
       "target_name": "עופר כסיף",
       "petitioner": "הליכוד",
       "filed": "2026-09-14",
-      "status": "pending",
-      "grounds_as_claimed": "תמיכה במאבק מזוין נגד ישראל",
-      "note": null,
+      "status": "granted",
+      "grounds_as_claimed": "תמיכה במאבק מזוין נגד ישראל; שלילת קיומה של המדינה",
+      "note": "התקבלה ב-23.9.2026 (19 בעד, 5 נגד, 2 נמנעים); היועצת המשפטית לממשלה התנגדה. פסילת מועמד טעונה אישור בג\"ץ — דיון ב-1.10.2026",
       "sources": [
         {
           "outlet": "ישראל היום",
           "date": "2026-09-15",
           "url": "https://www.israelhayom.co.il/news/law/article/21430915"
+        },
+        {
+          "outlet": "כיכר השבת",
+          "date": "2026-09-23",
+          "url": "https://www.kikar.co.il/political-news/kasif-disqualification-election-committee-vote"
+        },
+        {
+          "outlet": "מקור ראשון",
+          "date": "2026-09-26",
+          "url": "https://www.makorrishon.co.il/news/politcal/article/374293"
         }
       ]
     },
@@ -134,14 +166,19 @@
       "target_name": "עופר כסיף",
       "petitioner": "ח\"כ עודד פורר (ישראל ביתנו)",
       "filed": "2026-09-13",
-      "status": "pending",
+      "status": "granted",
       "grounds_as_claimed": "\"אין דבר כזה טרור נגד חיילים\", קריאה לסרבנות, חתימה על העצומה בעד תביעת דרום אפריקה בהאג (לפי הבקשה)",
-      "note": null,
+      "note": "נדונה יחד עם בקשת הליכוד",
       "sources": [
         {
           "outlet": "N12",
           "date": "2026-09-14",
           "url": "https://www.mako.co.il/news-israel-elections/2026/Article-b5f5db723af90a1027.htm"
+        },
+        {
+          "outlet": "וואלה",
+          "date": "2026-09-23",
+          "url": "https://www.walla.co.il/news/politics/383955089"
         }
       ]
     },
@@ -170,14 +207,24 @@
       "target_name": "סאמי אבו שחאדה",
       "petitioner": "עוצמה יהודית",
       "filed": "2026-09-14",
-      "status": "pending",
-      "grounds_as_claimed": "תמיכה בטרור ושלילת אופייה היהודי של ישראל (לפי הבקשה; בין היתר מאמר מ-8.10.2023)",
-      "note": null,
+      "status": "granted",
+      "grounds_as_claimed": "תמיכה במאבק מזוין (המאמר מ-8.10.2023 שתיאר את הטבח כ\"אירוע היסטורי בעל חשיבות\")",
+      "note": "התקבלה ב-31 קולות, ובהם, באופן חריג, יו\"ר הוועדה השופט סולברג; נציג היועצת המשפטית לממשלה תמך בבחינה מחמירה. פסילת מועמד טעונה אישור בג\"ץ — הדיון הראשון ב-1.10.2026, בהרכב תשעה",
       "sources": [
         {
           "outlet": "ישראל היום",
           "date": "2026-09-15",
           "url": "https://www.israelhayom.co.il/news/law/article/21430915"
+        },
+        {
+          "outlet": "וואלה",
+          "date": "2026-09-23",
+          "url": "https://www.walla.co.il/news/politics/383955089"
+        },
+        {
+          "outlet": "מקור ראשון",
+          "date": "2026-09-26",
+          "url": "https://www.makorrishon.co.il/news/politcal/article/374293"
         }
       ]
     },
@@ -188,9 +235,9 @@
       "target_name": "בל\"ד",
       "petitioner": "אורות השחר – המפלגה של כולם",
       "filed": "2026-09-15",
-      "status": "chair",
+      "status": "rejected",
       "grounds_as_claimed": null,
-      "note": "בל\"ד רצה כמרכיב ברשימה המשותפת; החלטת יו\"ר הוועדה על תנאי הסף טרם פורסמה",
+      "note": "נדחתה פה אחד: לא צורף תצהיר, והחוק מאפשר לפסול רשימת מועמדים ולא מפלגה (בל\"ד רצה כמרכיב במשותפת)",
       "sources": [
         {
           "outlet": "ישראל היום",
@@ -198,9 +245,9 @@
           "url": "https://www.israelhayom.co.il/news/law/article/21430915"
         },
         {
-          "outlet": "אמ\"ס",
-          "date": "2026-09-16",
-          "url": "https://www.emess.co.il/radio/1929785"
+          "outlet": "סרוגים",
+          "date": "2026-09-23",
+          "url": "https://www.srugim.co.il/101011778-%D7%93%D7%A8%D7%9E%D7%94-%D7%91%D7%95%D7%95%D7%A2%D7%93%D7%AA-%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA-%D7%90%D7%97%D7%A8%D7%99-%D7%A8%D7%A2%D7%9D-%D7%92%D7%9D-%D7%94%D7%9E%D7%A9%D7%95%D7%AA%D7%A4%D7%AA-%D7%A0%D7%A4%D7%A1%D7%9C%D7%94"
         }
       ]
     },
@@ -211,9 +258,9 @@
       "target_name": null,
       "petitioner": "הדמוקרטים",
       "filed": "2026-09-14",
-      "status": "pending",
+      "status": "rejected",
       "grounds_as_claimed": "שלילת ישראל כמדינה דמוקרטית והסתה לגזענות; הבקשה נגד שמונת המועמדים כיחידים נדחתה על הסף",
-      "note": null,
+      "note": "נדחתה ב-24.9.2026: 10 בעד הפסילה, 19 נגד, נמנע אחד. נציגת היועצת המשפטית: הרשימה \"מתקרבת לרף האסור\" של הסתה לגזענות אך אינה חוצה אותו",
       "sources": [
         {
           "outlet": "כיכר השבת",
@@ -221,9 +268,14 @@
           "url": "https://www.kikar.co.il/political-news/democrats-petition-disqualify-otzma-yehudit"
         },
         {
-          "outlet": "כיכר השבת",
-          "date": "2026-09-15",
-          "url": "https://www.kikar.co.il/political-news/tlfb3m"
+          "outlet": "וואלה",
+          "date": "2026-09-24",
+          "url": "https://www.walla.co.il/news/politics/383955236"
+        },
+        {
+          "outlet": "ynet",
+          "date": "2026-09-24",
+          "url": "https://www.ynet.co.il/news/article/hkynbwfqfl"
         }
       ]
     },
@@ -234,9 +286,9 @@
       "target_name": null,
       "petitioner": "מכון זולת עם משה יעלון, עמר בר-לב, יעל גרמן, זהבה גלאון ואחרים",
       "filed": "2026-09-14",
-      "status": "pending",
+      "status": "rejected",
       "grounds_as_claimed": "הסתה לגזענות ופעולה נגד יסודות הדמוקרטיה (\"ממשיכי דרכה של כך\"); הבקשות נגד בן גביר, גוטליב, סון הר-מלך ודורפמן כיחידים נדחו על הסף",
-      "note": null,
+      "note": "נדחתה ב-24.9.2026 יחד עם בקשת הדמוקרטים",
       "sources": [
         {
           "outlet": "N12",
@@ -247,6 +299,11 @@
           "outlet": "כיכר השבת",
           "date": "2026-09-15",
           "url": "https://www.kikar.co.il/political-news/tlfb3m"
+        },
+        {
+          "outlet": "ynet",
+          "date": "2026-09-24",
+          "url": "https://www.ynet.co.il/news/article/hkynbwfqfl"
         }
       ]
     },
@@ -257,9 +314,9 @@
       "target_name": null,
       "petitioner": "עוצמה יהודית",
       "filed": "2026-09-14",
-      "status": "pending",
+      "status": "rejected",
       "grounds_as_claimed": "הסתה לגזענות ושלילת ישראל כמדינה יהודית ודמוקרטית (התבטאויות נגד ערוץ 14, קריאות לאי-ציות ולאי-התייצבות למילואים, לפי הבקשה); הבקשה נגד גולן כיחיד נדחתה על הסף",
-      "note": null,
+      "note": "נדחתה ב-24.9.2026: 2 בעד, 14 נגד",
       "sources": [
         {
           "outlet": "ישראל היום",
@@ -270,6 +327,11 @@
           "outlet": "כיכר השבת",
           "date": "2026-09-15",
           "url": "https://www.kikar.co.il/political-news/tlfb3m"
+        },
+        {
+          "outlet": "מעריב",
+          "date": "2026-09-24",
+          "url": "https://www.maariv.co.il/news/elections-2026/article-1370212"
         }
       ]
     },
@@ -280,9 +342,9 @@
       "target_name": null,
       "petitioner": "מכון זולת עם פרופ' פרנסס רדאי, משה יעלון, יעל גרמן, עמר בר-לב ויורם בן זאב",
       "filed": "2026-09-15",
-      "status": "pending",
+      "status": "rejected",
       "grounds_as_claimed": "שלילת אופייה הדמוקרטי של המדינה והסתה לגזענות (\"תוכנית ההכרעה\", התבטאויות של סמוטריץ', פייגלין וסוכות)",
-      "note": "הבקשה מכוונת גם נגד סמוטריץ', פייגלין וסוכות כמועמדים; לפי החלטת היו\"ר הטיעונים על המועמדים נשמרים לבג\"ץ",
+      "note": "נדחתה ב-24.9.2026 בשתי העילות: 3 בעד, 21 נגד. הבקשה כוונה גם נגד סמוטריץ', פייגלין וסוכות כמועמדים; לפי החלטת היו\"ר הטיעונים על המועמדים נשמרים לבג\"ץ",
       "sources": [
         {
           "outlet": "ערוץ 7",
@@ -290,9 +352,14 @@
           "url": "https://www.inn.co.il/news/706593"
         },
         {
-          "outlet": "סרוגים",
-          "date": "2026-09-15",
-          "url": "https://www.srugim.co.il/101011210-%D7%93%D7%A8%D7%99%D7%A9%D7%94-%D7%9E%D7%94%D7%A9%D7%95%D7%A4%D7%98-%D7%A1%D7%95%D7%9C%D7%91%D7%A8%D7%92-%D7%A4%D7%A1%D7%95%D7%9C-%D7%90%D7%AA-%D7%A4%D7%99%D7%99%D7%92%D7%9C%D7%99%D7%9F"
+          "outlet": "וואלה",
+          "date": "2026-09-24",
+          "url": "https://www.walla.co.il/news/politics/383955236"
+        },
+        {
+          "outlet": "מעריב",
+          "date": "2026-09-24",
+          "url": "https://www.maariv.co.il/news/elections-2026/article-1370212"
         }
       ]
     },
@@ -303,9 +370,9 @@
       "target_name": "עמוס דרור (מס' 6)",
       "petitioner": "ארגון עתים",
       "filed": "2026-09-15",
-      "status": "pending",
+      "status": "closed",
       "grounds_as_claimed": "לא התפטר במועד הקבוע בחוק מתפקידו כממונה על המועצה הדתית בחיפה",
-      "note": null,
+      "note": "רשימת ש\"ס אושרה ב-27.9.2026 על מועמדיה; הוועדה פסלה שני מועמדים בלבד (כסיף ואבו שחאדה), ולא מצאנו פרסום של החלטה נפרדת בבקשה זו",
       "sources": [
         {
           "outlet": "כיכר השבת",
@@ -316,6 +383,11 @@
           "outlet": "ערוץ 7",
           "date": "2026-09-15",
           "url": "https://www.inn.co.il/news/706372"
+        },
+        {
+          "outlet": "כיפה",
+          "date": "2026-09-27",
+          "url": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1232376-0/"
         }
       ]
     },
