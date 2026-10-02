@@ -8,13 +8,13 @@
 ולקישור לעמוד שממנו נלקח.
 
 > [!IMPORTANT]
-> **הנתונים אינם סופיים עדיין.** ועדת הבחירות המרכזית אישרה ב-27.9.2026 את 38 הרשימות ואת אותיות הפתק. רע"ם והרשימה המשותפת אושרו על תנאי: המליאה קבעה ב-23.9.2026 שהן מנועות מלהתמודד ופסלה גם את המועמדים עופר כסיף וסאמי אבו שחאדה, וההכרעה בבג"ץ (דיון ב-1.10.2026). שאר בקשות הפסילה נדחו.
+> **מצב הרשימות.** ועדת הבחירות המרכזית אישרה ב-27.9.2026 את 38 הרשימות ואת אותיות הפתק. בקשות הפסילה הוכרעו: הוועדה פסלה את רע"ם, את הרשימה המשותפת ואת המועמדים עופר כסיף וסאמי אבו שחאדה, ובית המשפט העליון ביטל ב-2.10.2026 את פסילת שתי הרשימות ואת פסילת כסיף; אבו שחאדה הסיר את מועמדותו. כל 38 הרשימות מתמודדות, והן יפורסמו ברשומות עד 18.10.2026. מה שעדיין לא סופי: סדר הרשימה המאושרת, ברשימות שלא פרסמו את סדרן; פרופילים למועמדים ברשימות שהוגשו שעדיין מופיעים בשם בלבד; ניקוד במחשבון לרשימות שלא פרסמו עמדות ברוב הסוגיות.
 
 ## המספרים
 
 | | |
 |---|---|
-| רשימות שהוגשו ומוצגות | 50 |
+| רשימות מוצגות | 50 (38 מתמודדות, 12 שפרשו או התאחדו) |
 | רשימות מנוקדות במחשבון | 18 |
 | סוגיות | 20 |
 | תאים (רשימה × סוגיה) | 360 |
@@ -22,7 +22,7 @@
 | תאים שנבדקו ולא נמצאה בהם אמירה פומבית | 38 (11%) |
 | תאים שטרם נחקרו | 0 |
 | רשומות מקור מאומתות | 827 |
-| גרסת הנתונים | 2026-09-30 |
+| גרסת הנתונים | 2026-10-02 |
 
 ## הקבצים
 
@@ -51,9 +51,9 @@
 
 ## איך לצטט
 
-הנתונים משתנים עד סגירת הרשימות, ולכן ציטוט בלי גרסה אינו ניתן לבדיקה:
+הנתונים משתנים עד יום הבחירות, ולכן ציטוט בלי גרסה אינו ניתן לבדיקה:
 
-> מצפן הבחירה 2026, גרסת נתונים 2026-09-30. https://bhirot26.online · https://github.com/dangelm/bhirot26-election-data
+> מצפן הבחירה 2026, גרסת נתונים 2026-10-02. https://bhirot26.online · https://github.com/dangelm/bhirot26-election-data
 
 ## מה המאגר הזה אינו
 
@@ -79,13 +79,16 @@
 Open data behind **[מצפן הבחירה 2026](https://bhirot26.online)**, a voting-advice application for
 Israel's 26th Knesset election (2026-10-27).
 
-**Not final yet:** lists were filed on 7–8 September 2026. Petitions to disqualify a list or a
-candidate may be filed until 14–15 September (depending on the filing day) and four have been filed.
-The Central Elections Committee has not yet approved the lists, their names or the ballot letters
-they requested; it said a decision will come later in September (JDN reported 27.9.2026),
-and the legal deadline for gazetting the approved lists is 18.10.2026. Until then
-`ballot_letter_requested` holds what a new list asked for (not an assigned letter), `roster` is the
-list order as filed, up to the place published, and `filed_name` is the list name as filed.
+**Status (2026-10-02):** all 38 lists filed on 7–8 September 2026 were approved by the Central
+Elections Committee on 27.9.2026, with their ballot letters. The committee disqualified Ra'am, the
+Joint List and the candidates Ofer Cassif and Sami Abu Shehadeh; on 2.10.2026 the Supreme Court
+overturned the disqualification of both lists (unanimously) and of Cassif (7–2), and Abu Shehadeh withdrew
+his candidacy before a ruling was given. Two High Court petitions against the committee's refusal to
+disqualify Otzma Yehudit were dismissed. All 38 lists are running, and the approved lists are to be
+gazetted by 18.10.2026. `roster` is the list order as filed, up to the place published, without
+candidates who withdrew after filing (they are in `former_candidates` with `removed_after_filing`);
+`filed_name` is the list name as filed, and `data/petitions.json` records each petition's committee
+decision and, in `court`, what the court did with it.
 
 18 parties × 20 issues = 360 coded positions. 322 carry a
 published primary source with a verbatim quote, a date and a link; 38 are cells where we

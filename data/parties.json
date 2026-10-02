@@ -1,8 +1,8 @@
 {
   "$comment": "נוצר אוטומטית על ידי scripts/gen-repo.mjs במאגר האתר. אין לערוך ידנית — הקובץ ייכתב מחדש.",
   "name": "מצפן הבחירה 2026",
-  "version": "2026-09-30",
-  "generated": "2026-09-30",
+  "version": "2026-10-02",
+  "generated": "2026-10-02",
   "election_date": "2026-10-27",
   "site": "https://bhirot26.online",
   "repository": "https://github.com/dangelm/bhirot26-election-data",
@@ -60,7 +60,8 @@
       "former_candidates": [
         {
           "name": "אורן דוברונסקי",
-          "note": "לא שובץ ברשימה שהוגשה (8.9.2026): לא היה מוכן לוותר על אזרחותו האמריקנית"
+          "note": "לא שובץ ברשימה שהוגשה (8.9.2026): לא היה מוכן לוותר על אזרחותו האמריקנית",
+          "removed_after_filing": null
         }
       ],
       "surplus_agreement_with": "rz",
@@ -110,11 +111,13 @@
       "former_candidates": [
         {
           "name": "קארין אלהרר",
-          "note": "הודיעה ב-2.9.2026 שלא תתמודד לכנסת הבאה"
+          "note": "הודיעה ב-2.9.2026 שלא תתמודד לכנסת הבאה",
+          "removed_after_filing": null
         },
         {
           "name": "מיקי לוי",
-          "note": "הודיע ב-31.8.2026 שלא יתמודד ברשימה"
+          "note": "הודיע ב-31.8.2026 שלא יתמודד ברשימה",
+          "removed_after_filing": null
         }
       ],
       "surplus_agreement_with": "beytenu",
@@ -245,11 +248,13 @@
       "former_candidates": [
         {
           "name": "יעקב מרגי",
-          "note": "ביקש שלא לשבצו מחדש (מאי 2026), אחרי יותר משני עשורים בכנסת"
+          "note": "ביקש שלא לשבצו מחדש (מאי 2026), אחרי יותר משני עשורים בכנסת",
+          "removed_after_filing": null
         },
         {
           "name": "משה ארבל",
-          "note": "פרש מהכנסת במאי 2026 והודיע שלא יתמודד"
+          "note": "פרש מהכנסת במאי 2026 והודיע שלא יתמודד",
+          "removed_after_filing": null
         }
       ],
       "surplus_agreement_with": "utj",
@@ -287,7 +292,8 @@
       "former_candidates": [
         {
           "name": "ישראל אייכלר",
-          "note": "האדמו\"ר מבעלז קבע שלא יתמודד; במקומו שובץ אליקים שטארק"
+          "note": "האדמו\"ר מבעלז קבע שלא יתמודד; במקומו שובץ אליקים שטארק",
+          "removed_after_filing": null
         }
       ],
       "surplus_agreement_with": "shas",
@@ -361,7 +367,8 @@
       "former_candidates": [
         {
           "name": "צביקה פוגל",
-          "note": "פרש מעוצמה יהודית ומהמרוץ לכנסת (6.9.2026)"
+          "note": "פרש מעוצמה יהודית ומהמרוץ לכנסת (6.9.2026)",
+          "removed_after_filing": null
         }
       ],
       "surplus_agreement_with": null,
@@ -438,7 +445,8 @@
       "former_candidates": [
         {
           "name": "שרון ניר",
-          "note": "הודיעה שלא תתמודד ברשימה לכנסת הקרובה (5.9.2026)"
+          "note": "הודיעה שלא תתמודד ברשימה לכנסת הקרובה (5.9.2026)",
+          "removed_after_filing": null
         }
       ],
       "surplus_agreement_with": "beyachad",
@@ -461,7 +469,6 @@
       "roster": [
         "יוסף ג'בארין",
         "אחמד טיבי",
-        "סאמי אבו שחאדה",
         "פאתן ג'טאס",
         "בכר עוואודה",
         "עופר כסיף",
@@ -476,16 +483,22 @@
         "אורלי נוי"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
-      "former_candidates": [],
+      "former_candidates": [
+        {
+          "name": "סאמי אבו שחאדה",
+          "note": "היה במקום 3 ברשימה שהוגשה. ועדת הבחירות פסלה את מועמדותו ב-22.9.2026 (31 בעד, ובהם יו\"ר הוועדה השופט סולברג) בבקשת עוצמה יהודית, בעיקר בשל מאמר מ-8.10.2023. בדיון בבית המשפט העליון ב-1.10.2026 אמר לו הנשיא עמית שהתוצאה המסתמנת היא אישור הפסילה והציע לו לשקול להסיר את מועמדותו; ב-2.10.2026 הודיע על הסרתה, וההליך נמחק בלי פסק דין. נשאר יו\"ר בל\"ד",
+          "removed_after_filing": "2026-10-02"
+        }
+      ],
       "surplus_agreement_with": "raam",
       "surplus_agreement_note": "נחתם ב-11.9.2026",
-      "leader": "יוסף ג'בארין · אחמד טיבי · סאמי אבו שחאדה",
+      "leader": "יוסף ג'בארין · אחמד טיבי",
       "tag": "ערבית · רשימה משותפת",
       "scored": true,
       "major": true,
       "debut": false,
       "status": null,
-      "note": "הרשימה נפסלה במליאת ועדת הבחירות (23.9.2026, 18–5–1) יחד עם המועמדים עופר כסיף וסאמי אבו שחאדה, ואושרה על תנאי; דיון בבג\"ץ ב-1.10.2026",
+      "note": null,
       "page": "https://bhirot26.online/party/joint"
     },
     {
@@ -512,7 +525,7 @@
       "major": true,
       "debut": false,
       "status": null,
-      "note": "הרשימה נפסלה במליאת ועדת הבחירות (23.9.2026, 18 בעד, 5 נגד, נמנע אחד) ואושרה על תנאי; ההכרעה בבג\"ץ. היועצת המשפטית לממשלה התנגדה לפסילה",
+      "note": null,
       "page": "https://bhirot26.online/party/raam"
     },
     {
@@ -645,7 +658,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/haskel"
     },
     {
@@ -685,7 +698,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/hakahal"
     },
     {
@@ -705,7 +718,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/tzibur"
     },
     {
@@ -809,7 +822,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/batach"
     },
     {
@@ -849,7 +862,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/ahi"
     },
     {
@@ -871,7 +884,7 @@
       "major": false,
       "debut": false,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/shutafut"
     },
     {
@@ -956,7 +969,7 @@
       "debut": true,
       "status": "merged",
       "note": "רצה במסגרת \"המילואימניקים והכלכלית\" (7.9.2026)",
-      "page": "https://bhirot26.online/party/wilf"
+      "page": "https://bhirot26.online/party/miluim"
     },
     {
       "id": "brit",
@@ -996,7 +1009,7 @@
       "debut": false,
       "status": "merged",
       "note": "רצה במסגרת \"המילואימניקים והכלכלית\" (הוגשה 7.9.2026)",
-      "page": "https://bhirot26.online/party/zelicha"
+      "page": "https://bhirot26.online/party/miluim"
     },
     {
       "id": "standing",
@@ -1065,7 +1078,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/sharshar"
     },
     {
@@ -1108,7 +1121,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/shema"
     },
     {
@@ -1128,7 +1141,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/seder"
     },
     {
@@ -1148,7 +1161,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/britolam"
     },
     {
@@ -1168,7 +1181,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/hatikun"
     },
     {
@@ -1188,7 +1201,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/gush"
     },
     {
@@ -1208,7 +1221,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/bitachon"
     },
     {
@@ -1324,7 +1337,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/ganeden"
     },
     {
@@ -1344,7 +1357,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/kolhanashim"
     },
     {
@@ -1364,7 +1377,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "הרכב הרשימה שהוגשה טרם פורסם",
+      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
       "page": "https://bhirot26.online/party/aniveata"
     }
   ]
