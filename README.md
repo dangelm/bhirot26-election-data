@@ -18,10 +18,10 @@
 | רשימות מנוקדות במחשבון | 18 |
 | סוגיות | 20 |
 | תאים (רשימה × סוגיה) | 360 |
-| תאים עם מקור מוצג | 322 (89%) |
-| תאים שנבדקו ולא נמצאה בהם אמירה פומבית | 38 (11%) |
+| תאים עם מקור מוצג | 326 (91%) |
+| תאים שנבדקו ולא נמצאה בהם אמירה פומבית | 34 (9%) |
 | תאים שטרם נחקרו | 0 |
-| רשומות מקור מאומתות | 827 |
+| רשומות מקור מאומתות | 831 |
 | גרסת הנתונים | 2026-10-04 |
 
 ## הקבצים
@@ -32,7 +32,7 @@
 | `data/petitions.json` | 16 בקשות הפסילה לכנסת ה-26: נגד מי, מי הגיש, סטטוס, עילה כפי שנטענה ומקורות |
 | `data/issues.json` | 20 השאלות כלשונן, עם הנוסח המלא וההסבר שמוצג למשתמש |
 | `data/positions.json` | 360 התאים: העמדה, סוג הראיה, המקור החזק ביותר ותאריכו |
-| `data/sources.json` | 827 רשומות המקור עם הציטוט המילולי, וכן התאים שנבדקו ונמצאו ריקים |
+| `data/sources.json` | 831 רשומות המקור עם הציטוט המילולי, וכן התאים שנבדקו ונמצאו ריקים |
 | `data/positions.csv` | אותם 360 תאים כטבלה שטוחה, לניתוח בגיליון או ב-pandas |
 | `methodology.md` | היררכיית המקורות, קידוד העמדות, תיקון הסיכוי, ומה שהכלי אינו עושה |
 | `CHANGELOG.md` | כל שינוי בנתונים לפי תאריך |
@@ -59,7 +59,7 @@
 
 - **אינו סקר ואינו תחזית.** הוא אומר מה מפלגות אמרו, לא מה בוחרים יחשבו או כיצד יצביעו.
 - **אינו ממצה את השדה הפוליטי.** 20 שאלות אינן כל מה שמפריד בין רשימות.
-- **אינו שלם.** ב-38 תאים חיפשנו ולא מצאנו אמירה פומבית. הם מסומנים ככאלה ולא
+- **אינו שלם.** ב-34 תאים חיפשנו ולא מצאנו אמירה פומבית. הם מסומנים ככאלה ולא
   מוצגים כעמדה — ההבחנה בין "המפלגה מסויגת" ל"המפלגה שתקה" נשמרת בכל הקבצים.
 - **אינו קפוא.** רשימות מתמזגות ופורשות עד סגירתן; ראו `CHANGELOG.md`.
 
@@ -90,8 +90,8 @@ candidates who withdrew after filing (they are in `former_candidates` with `remo
 `filed_name` is the list name as filed, and `data/petitions.json` records each petition's committee
 decision and, in `court`, what the court did with it.
 
-18 parties × 20 issues = 360 coded positions. 322 carry a
-published primary source with a verbatim quote, a date and a link; 38 are cells where we
+18 parties × 20 issues = 360 coded positions. 326 carry a
+published primary source with a verbatim quote, a date and a link; 34 are cells where we
 searched the party's platform, the news, and — for leaders who sat in the Knesset — the voting
 and bill record, and found no public statement. Those are marked as documented silence rather
 than treated as a hedged position. 0 cells remain unresearched.
