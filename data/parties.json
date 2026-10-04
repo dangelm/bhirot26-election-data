@@ -57,6 +57,9 @@
         "אביחי בוארון"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [
         {
           "name": "אורן דוברונסקי",
@@ -108,6 +111,18 @@
         "משה טור-פז"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": [
+        [
+          26,
+          "אולסיה קנטור"
+        ],
+        [
+          28,
+          "מתי גיל"
+        ]
+      ],
       "former_candidates": [
         {
           "name": "קארין אלהרר",
@@ -170,7 +185,36 @@
         "טלי מולנר"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
-      "former_candidates": [],
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": [
+        [
+          115,
+          "מנואל טרכטנברג"
+        ]
+      ],
+      "former_candidates": [
+        {
+          "name": "טל רוסו",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
+          "removed_after_filing": null
+        },
+        {
+          "name": "יואב הורוביץ",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
+          "removed_after_filing": null
+        },
+        {
+          "name": "שיר סיגל",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
+          "removed_after_filing": null
+        },
+        {
+          "name": "שיראל חוגג",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
+          "removed_after_filing": null
+        }
+      ],
       "surplus_agreement_with": "democrats",
       "surplus_agreement_note": "נחתם ב-10.9.2026",
       "leader": "גדי איזנקוט",
@@ -211,6 +255,9 @@
         "ערן עציון"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": "yashar",
       "surplus_agreement_note": "נחתם ב-10.9.2026",
@@ -245,10 +292,18 @@
         "סימיון מושיאשוילי"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": [
+        [
+          120,
+          "יעקב מרגי"
+        ]
+      ],
       "former_candidates": [
         {
-          "name": "יעקב מרגי",
-          "note": "ביקש שלא לשבצו מחדש (מאי 2026), אחרי יותר משני עשורים בכנסת",
+          "name": "אברהם בצלאל",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
           "removed_after_filing": null
         },
         {
@@ -289,6 +344,9 @@
         "אליהו ברוכי"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [
         {
           "name": "ישראל אייכלר",
@@ -331,6 +389,30 @@
         "סימה חסון"
       ],
       "roster_source": "https://www.inn.co.il/news/705946",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": [
+        [
+          16,
+          "שמואל ששון"
+        ],
+        [
+          18,
+          "צביקה וישינגרד"
+        ],
+        [
+          20,
+          "איתן תם"
+        ],
+        [
+          26,
+          "נתן זאובמן"
+        ],
+        [
+          30,
+          "מיכל וולדיגר"
+        ]
+      ],
       "former_candidates": [],
       "surplus_agreement_with": "likud",
       "surplus_agreement_note": "סוכם עקרונית בסוף אוגוסט; לפי סרוגים (4.10.2026) הליכוד והציונות הדתית \"עדיין לא נעלו את ההסכם\", וההכרעה צפויה סמוך למועד האחרון, 16.10.2026",
@@ -364,6 +446,9 @@
         "ישי פליישר"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [
         {
           "name": "צביקה פוגל",
@@ -401,6 +486,14 @@
         "אלי ג'ינו"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": [
+        [
+          11,
+          "סיגל קראוניק-עטיה"
+        ]
+      ],
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -442,7 +535,25 @@
         "ינקי מוזס"
       ],
       "roster_source": "https://www.ynet.co.il/news/elections2026/article/bki6ywjdge",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [
+        {
+          "name": "אלכס קושניר",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
+          "removed_after_filing": null
+        },
+        {
+          "name": "בתיה כהנא דרור",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
+          "removed_after_filing": null
+        },
+        {
+          "name": "דביר קריב",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
+          "removed_after_filing": null
+        },
         {
           "name": "שרון ניר",
           "note": "הודיעה שלא תתמודד ברשימה לכנסת הקרובה (5.9.2026)",
@@ -483,6 +594,18 @@
         "אורלי נוי"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": [
+        [
+          110,
+          "עאידה תומא-סלימאן"
+        ],
+        [
+          116,
+          "אוסאמה סעדי"
+        ]
+      ],
       "former_candidates": [
         {
           "name": "סאמי אבו שחאדה",
@@ -516,6 +639,9 @@
         "יאסר חוג'יראת"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": "joint",
       "surplus_agreement_note": "נחתם ב-11.9.2026",
@@ -547,6 +673,9 @@
         "איתן וינברג"
       ],
       "roster_source": "https://www.idi.org.il/media/32330/נעם.pdf",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -578,6 +707,9 @@
         "מוריה רודל-סילפן"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -609,7 +741,16 @@
         "שלום ביטון"
       ],
       "roster_source": "https://www.davar1.co.il/696351/",
-      "former_candidates": [],
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
+      "former_candidates": [
+        {
+          "name": "רועי פרנק",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
+          "removed_after_filing": null
+        }
+      ],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
       "leader": "יועז הנדל · ירון זליכה",
@@ -629,6 +770,9 @@
       "ballot_letter_requested": null,
       "roster": null,
       "roster_source": null,
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -647,9 +791,33 @@
       "filed_name": "ישראל תחילה - בראשות שרן השכל",
       "ballot_letter": "י",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
-      "former_candidates": [],
+      "roster": [
+        "השכל שרן מרים",
+        "דנינו רועי חיים",
+        "יופטרו ניר",
+        "מוגרבי ואיל",
+        "פדר עמית עדי",
+        "ברוק תומר יצחק",
+        "רוזענבערג הארי ג'ק",
+        "בינו פנחס",
+        "לוי כפיר",
+        "מנגסטו אלון",
+        "פרקס דניאל אלחנדרו",
+        "פהלבני אדיר"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32326/ישראל-תחילה.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": {
+        "השכל שרן מרים": "שרן השכל"
+      },
+      "roster_more": null,
+      "former_candidates": [
+        {
+          "name": "יהונתן פולארד",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
+          "removed_after_filing": null
+        }
+      ],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
       "leader": "שרן השכל",
@@ -658,7 +826,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/haskel"
     },
     {
@@ -669,6 +837,9 @@
       "ballot_letter_requested": null,
       "roster": null,
       "roster_source": null,
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -687,9 +858,41 @@
       "filed_name": "הקהל - מפלגה כלל חרדית שנציגיה נבחרים על ידי הציבור בראשות הרב שלמה אלבוים",
       "ballot_letter": "רץ",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
-      "former_candidates": [],
+      "roster": [
+        "אלבוים שלמה",
+        "אדלר ברוך מנדל",
+        "גבאי דוד",
+        "קובן ידידיה צבי אמיתי",
+        "פרידמן משה",
+        "בר לב אליסף",
+        "צמח אלחנן יוסף",
+        "הוד יצחק"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32319/הקהל.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": {
+        "אלבוים שלמה": "שלמה אלבוים",
+        "אדלר ברוך מנדל": "ברוך אדלר",
+        "גבאי דוד": "דוד גבאי"
+      },
+      "roster_more": null,
+      "former_candidates": [
+        {
+          "name": "דב בקשט",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
+          "removed_after_filing": null
+        },
+        {
+          "name": "יצחק חלה",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
+          "removed_after_filing": null
+        },
+        {
+          "name": "אליהו בן מויאל",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
+          "removed_after_filing": null
+        }
+      ],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
       "leader": "שלמה אלבוים",
@@ -698,7 +901,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/hakahal"
     },
     {
@@ -707,8 +910,26 @@
       "filed_name": "הציבור החרדי בראשות מוטי ליטנר",
       "ballot_letter": "זך",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "ליטנר פנחס מרדכי",
+        "פרדי אשר",
+        "יפה מרים נחמה",
+        "גלאנץ זיוה רנית",
+        "רובינשטיין מרדכי",
+        "אדלרשטיין יצחק",
+        "אונגאר אהרן",
+        "אופנהיימר יהודה",
+        "גוטליב חיים יהודה לייב",
+        "קאופמן יונה שלמה",
+        "גולדברג אליהו",
+        "אוחנה ראובן"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32317/הציבור-החרדי.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": {
+        "ליטנר פנחס מרדכי": "מוטי לייטנר"
+      },
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -718,7 +939,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/tzibur"
     },
     {
@@ -729,6 +950,9 @@
       "ballot_letter_requested": null,
       "roster": null,
       "roster_source": null,
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -753,6 +977,9 @@
         "יניב אשטמקר"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -773,6 +1000,9 @@
       "ballot_letter_requested": null,
       "roster": null,
       "roster_source": null,
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -793,6 +1023,9 @@
       "ballot_letter_requested": null,
       "roster": null,
       "roster_source": null,
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -811,8 +1044,17 @@
       "filed_name": "בטחון חברתי",
       "ballot_letter": "ז",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "גרפמן סמיון",
+        "חניס לובוב",
+        "זלטקין דמיטרי"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32306/בטח.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": {
+        "גרפמן סמיון": "סמיון גרפמן"
+      },
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -822,7 +1064,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/batach"
     },
     {
@@ -833,6 +1075,9 @@
       "ballot_letter_requested": null,
       "roster": null,
       "roster_source": null,
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -851,8 +1096,24 @@
       "filed_name": "תנועת אחי תנועתו של הרב יורם אברג'ל זצ\"ל",
       "ballot_letter": "צבי",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "אלמלך יובל",
+        "אפל ישראל אביחי",
+        "ראובן ארז",
+        "דיין אברהם",
+        "כהן אדיר",
+        "יחזקאל חנן",
+        "דדון יהודה",
+        "וודגה גרמה גד",
+        "סויסה יצחק שניר רפאל",
+        "נהרי יקיר"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32341/תנועת-אחי.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": {
+        "אלמלך יובל": "הרב יובל אלימלך"
+      },
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -862,7 +1123,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/ahi"
     },
     {
@@ -872,9 +1133,21 @@
       "ballot_letter": "ד",
       "ballot_letter_requested": null,
       "roster": [
-        "טלאל אלקרינאוי"
+        "אלקרינאוי, טלאל",
+        "אבו עאזם עבדאללה",
+        "שליאן בשארה",
+        "כהן אליעזר עופר",
+        "גול-ורד' עודד",
+        "בדר אסתיבן ג'ון",
+        "שחאדה עאדל"
       ],
-      "roster_source": "https://br7news.co.il/he/news/news-1788865786",
+      "roster_source": "https://www.idi.org.il/media/32321/השותפות-לכולם.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": {
+        "שליאן בשארה": "בשארה שליאן",
+        "אלקרינאוי, טלאל": "טלאל אלקרינאוי"
+      },
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -884,7 +1157,7 @@
       "major": false,
       "debut": false,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/shutafut"
     },
     {
@@ -895,6 +1168,9 @@
       "ballot_letter_requested": null,
       "roster": null,
       "roster_source": null,
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -915,6 +1191,9 @@
       "ballot_letter_requested": null,
       "roster": null,
       "roster_source": null,
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -939,7 +1218,16 @@
         "יאיר אנסבכר"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
-      "former_candidates": [],
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
+      "former_candidates": [
+        {
+          "name": "דוד סדון",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
+          "removed_after_filing": null
+        }
+      ],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
       "leader": "ניסים לוק · בניהו הר שמש",
@@ -959,6 +1247,9 @@
       "ballot_letter_requested": null,
       "roster": null,
       "roster_source": null,
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -979,6 +1270,9 @@
       "ballot_letter_requested": null,
       "roster": null,
       "roster_source": null,
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -999,6 +1293,9 @@
       "ballot_letter_requested": null,
       "roster": null,
       "roster_source": null,
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1019,6 +1316,9 @@
       "ballot_letter_requested": null,
       "roster": null,
       "roster_source": null,
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1049,7 +1349,16 @@
         "עומר ערוק"
       ],
       "roster_source": "https://www.yahaad.com/",
-      "former_candidates": [],
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
+      "former_candidates": [
+        {
+          "name": "יורם דורי",
+          "note": "השם אינו מופיע ברשימת המועמדים שהוגשה לוועדת הבחירות (7–8.9.2026)",
+          "removed_after_filing": null
+        }
+      ],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
       "leader": "אבי שקד",
@@ -1067,8 +1376,26 @@
       "filed_name": "שרשר - לאהבה ואחדות העם",
       "ballot_letter": "צדק",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "שוילי איתן",
+        "שוילי תמר",
+        "אלמקייס אילן",
+        "שירזי רעיה",
+        "אשתי היתם",
+        "מזרחי אייל דוד",
+        "מזלתרים מאיר",
+        "ברוכים שמעון",
+        "אמרן ישראל",
+        "רוזנברג ארז",
+        "יוגב רון",
+        "הירש מהללאל"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32340/שרשר.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": {
+        "שוילי איתן": "איתן שווילי"
+      },
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1078,7 +1405,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/sharshar"
     },
     {
@@ -1092,6 +1419,9 @@
         "גאולה עמיר"
       ],
       "roster_source": "https://www.ynet.co.il/news/elections2026/article/rj2wniaomg",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1110,8 +1440,15 @@
       "filed_name": "שמע בראשות נפתלי גולדמן",
       "ballot_letter": "נף",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "גולדמן נפתלי בורוך"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32338/שמע.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": {
+        "גולדמן נפתלי בורוך": "נפתלי גולדמן"
+      },
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1121,7 +1458,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/shema"
     },
     {
@@ -1130,8 +1467,43 @@
       "filed_name": null,
       "ballot_letter": "קך",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "אופק אביטל חי",
+        "נאור לביא",
+        "רוזן אסתר",
+        "בטיטו דניאל",
+        "שמש זהבית",
+        "קוין פאולה",
+        "טובול ז'ק יעקב",
+        "שביט יוסף",
+        "חלילי אליז",
+        "שביט רינת",
+        "שורץ דורון",
+        "בטיטו ירין",
+        "אלגריסי רינה אלישבע",
+        "בירקי טירהס",
+        "זנזורי שלום",
+        "נאור ליאור חיים",
+        "אלגריסי אנט ארלט",
+        "זיידן רוי",
+        "בחמן מקסים",
+        "סויסה אורלי",
+        "זינגר גונן נועם",
+        "גנוסיס סיני נדב",
+        "מיכאלוב אורי",
+        "אשטון גולן",
+        "קומורובסקי אייל",
+        "אלישאיב ויאצ'סלב ירון",
+        "בר ציון אורי",
+        "יזרעאלי-נתנאל יעל",
+        "הלוי חן"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32331/סדר-חדש.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": {
+        "אופק אביטל חי": "עו\"ד אביטל אופק"
+      },
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1141,7 +1513,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/seder"
     },
     {
@@ -1150,8 +1522,25 @@
       "filed_name": "ברית עולם לגאולת ישראל",
       "ballot_letter": "זץ",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "ליפשיץ עופר פינחס",
+        "סבו לב",
+        "עכאשה היאם",
+        "זיאדה האני",
+        "שפירא שמעון",
+        "פולקמן חגי אליעזר",
+        "בדוי מוצלח",
+        "פולקמן אדווה",
+        "לור משיח עזיז",
+        "אל-הואשלה יוסף",
+        "מריח עבד אלעדים"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32310/ברית-עולם.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": {
+        "ליפשיץ עופר פינחס": "עופר ליפשיץ"
+      },
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1161,7 +1550,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/britolam"
     },
     {
@@ -1170,8 +1559,25 @@
       "filed_name": "התיקון לשיטת הבחירות והממשל",
       "ballot_letter": "נקי",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "סלומוביץ משה",
+        "קבלאן יארה",
+        "שרמן יהל",
+        "סיני סימוני שרון",
+        "סורוצקי רומן",
+        "סבג יהונתן בוריס",
+        "עראף אכרם",
+        "אלון חן",
+        "בן עזרא ליאת",
+        "להב אשר",
+        "אברמסון רעות",
+        "ירמיאס לסקר רוני",
+        "סלומוביץ עדן"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32322/התיקון.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1181,7 +1587,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/hatikun"
     },
     {
@@ -1190,8 +1596,16 @@
       "filed_name": "גה\"ת גוש התנ\"כי",
       "ballot_letter": "יק",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "ליפקין משה",
+        "קל ברכה",
+        "חוווא חנא",
+        "פרידמן בנימין דוד"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32312/הגוש-התנכי.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1201,7 +1615,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/gush"
     },
     {
@@ -1210,8 +1624,18 @@
       "filed_name": null,
       "ballot_letter": "נץ",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "טופצ'יאשוילי מיכאל",
+        "קיקווזשוילי גבריאל",
+        "קיקווזשוילי איליה",
+        "חונדיאשוילי מקואלה",
+        "יוסבאשוילי נודרי",
+        "קיקווזשוילי יפית"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32307/בטחון-אישי.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1221,7 +1645,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/bitachon"
     },
     {
@@ -1237,6 +1661,9 @@
         "הרב יצחק רבין הכהן"
       ],
       "roster_source": "https://www.kikar.co.il/political-news/tl29ml",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1262,6 +1689,9 @@
         "מרים אברהם"
       ],
       "roster_source": "https://he.wikipedia.org/wiki/הבחירות_לכנסת_העשרים_ושש",
+      "roster_style": null,
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1308,6 +1738,11 @@
         "אור אורן"
       ],
       "roster_source": "https://piratim.org/elections/",
+      "roster_style": null,
+      "roster_profile_names": {
+        "דן אריאלי": "פרופ' דן אריאלי"
+      },
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1326,8 +1761,21 @@
       "filed_name": "גן עדן בראשות ישוע בן דוד",
       "ballot_letter": "ה",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "בן דוד ישוע ישראל",
+        "בן יששכר יעקב",
+        "כהן יעקב ליאור",
+        "דה רוטשילד טליה",
+        "פודברי דוד",
+        "בדש רז כמוס",
+        "אברהם מור-חיים"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32311/גן-עדן.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": {
+        "בן דוד ישוע ישראל": "ישוע ישראל בן דוד"
+      },
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1337,7 +1785,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/ganeden"
     },
     {
@@ -1346,8 +1794,27 @@
       "filed_name": null,
       "ballot_letter": "קה",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "ישראל שדמי עמיר",
+        "בוהדנה אמה",
+        "בן אבו טליה",
+        "רוזנר גדי",
+        "עכו זהבית",
+        "אבקסיס אמיר שלמה",
+        "קהימקר שמואל",
+        "כץ מיכאל נפטלי",
+        "שלם ערן",
+        "בוהדנה נדב יצחק",
+        "בוהדנה ניר מבורך שלומי",
+        "אמסלם שירן",
+        "בוהדנה עידן",
+        "אבו צמח לירון",
+        "לזר בוהדנה מורן"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32336/קול-הנשים.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": null,
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1357,7 +1824,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/kolhanashim"
     },
     {
@@ -1366,8 +1833,21 @@
       "filed_name": "אני ואתה מפלגת העם הישראלית",
       "ballot_letter": "פה",
       "ballot_letter_requested": null,
-      "roster": null,
-      "roster_source": null,
+      "roster": [
+        "גלעדי אלון",
+        "גלעדי ז'ולסון מאיה",
+        "זלכה איציק",
+        "פורטנוב לודמילה",
+        "שוהם עזרא",
+        "אמויאל משה",
+        "שרעבי יהודה"
+      ],
+      "roster_source": "https://www.idi.org.il/media/32305/אני-ואתה.pdf",
+      "roster_style": "cec",
+      "roster_profile_names": {
+        "גלעדי אלון": "ד\"ר אלון גלעדי"
+      },
+      "roster_more": null,
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -1377,7 +1857,7 @@
       "major": false,
       "debut": true,
       "status": null,
-      "note": "רשימת המועמדים המאושרת עוד לא נאספה לאתר",
+      "note": null,
       "page": "https://bhirot26.online/party/aniveata"
     }
   ]
