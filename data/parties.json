@@ -1,8 +1,8 @@
 {
   "$comment": "נוצר אוטומטית על ידי scripts/gen-repo.mjs במאגר האתר. אין לערוך ידנית — הקובץ ייכתב מחדש.",
   "name": "מצפן הבחירה 2026",
-  "version": "2026-10-02",
-  "generated": "2026-10-02",
+  "version": "2026-10-04",
+  "generated": "2026-10-04",
   "election_date": "2026-10-27",
   "site": "https://bhirot26.online",
   "repository": "https://github.com/dangelm/bhirot26-election-data",
@@ -65,7 +65,7 @@
         }
       ],
       "surplus_agreement_with": "rz",
-      "surplus_agreement_note": "סוכם עקרונית בסוף אוגוסט; לפי ערוץ 14 (22.9.2026) עדיין לא נחתם, ובליכוד יש הלוחצים לחתום דווקא עם עמך ישראל אם תתבסס מעל אחוז החסימה",
+      "surplus_agreement_note": "סוכם עקרונית בסוף אוגוסט; לפי סרוגים (4.10.2026) הליכוד והציונות הדתית \"עדיין לא נעלו את ההסכם\", וההכרעה צפויה סמוך למועד האחרון, 16.10.2026",
       "leader": "בנימין נתניהו",
       "tag": "ימין",
       "scored": true,
@@ -134,7 +134,7 @@
     {
       "id": "yashar",
       "name": "ישר!",
-      "filed_name": "ישר! עם איזנקוט - מאחדים את ישראל",
+      "filed_name": "ישר! עם איזנקוט לראשות הממשלה מאחדים את ישראל",
       "ballot_letter": "דרך",
       "ballot_letter_requested": null,
       "roster": [
@@ -226,7 +226,7 @@
     {
       "id": "shas",
       "name": "ש\"ס",
-      "filed_name": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף",
+      "filed_name": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
       "ballot_letter": "שס",
       "ballot_letter_requested": null,
       "roster": [
@@ -271,7 +271,7 @@
     {
       "id": "utj",
       "name": "יהדות התורה",
-      "filed_name": "יהדות התורה-אגודת ישראל-דגל התורה",
+      "filed_name": "יהדות התורה והשבת אגודת ישראל - דגל התורה",
       "ballot_letter": "ג",
       "ballot_letter_requested": null,
       "roster": [
@@ -310,7 +310,7 @@
     {
       "id": "rz",
       "name": "הציונות הדתית",
-      "filed_name": "הציונות הדתית וזהות",
+      "filed_name": "הציונות הדתית בראשות בצלאל סמוטריץ' וזהות בראשות משה פייגלין",
       "ballot_letter": "ט",
       "ballot_letter_requested": null,
       "roster": [
@@ -333,7 +333,7 @@
       "roster_source": "https://www.inn.co.il/news/705946",
       "former_candidates": [],
       "surplus_agreement_with": "likud",
-      "surplus_agreement_note": "סוכם עקרונית בסוף אוגוסט; לפי ערוץ 14 (22.9.2026) עדיין לא נחתם, ובליכוד יש הלוחצים לחתום דווקא עם עמך ישראל אם תתבסס מעל אחוז החסימה",
+      "surplus_agreement_note": "סוכם עקרונית בסוף אוגוסט; לפי סרוגים (4.10.2026) הליכוד והציונות הדתית \"עדיין לא נעלו את ההסכם\", וההכרעה צפויה סמוך למועד האחרון, 16.10.2026",
       "leader": "בצלאל סמוטריץ'",
       "tag": "ימין דתי",
       "scored": true,
@@ -358,7 +358,7 @@
         "יצחק קרויזר",
         "חנמאל דורפמן",
         "צחי יצחק אליהו",
-        "יוסי גולדנברגר",
+        "יוסי גולדברגר",
         "איתיאל ניימן",
         "דוד מנחם בבלי",
         "ישי פליישר"
@@ -538,15 +538,15 @@
         "אבי מעוז",
         "שמעון טובול",
         "אליהו ליבמן",
-        "יסכה חיימוב",
         "ליאורה אלון",
+        "יסכה חיימוב",
         "ישראל יאיר אביטן",
         "אליהו אוזן",
         "אילון מאיר",
         "אלקנה באבד",
         "איתן וינברג"
       ],
-      "roster_source": "https://www.kipa.co.il/חדשות/1231371-0/",
+      "roster_source": "https://www.idi.org.il/media/32330/נעם.pdf",
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
@@ -684,7 +684,7 @@
     {
       "id": "hakahal",
       "name": "הקהל",
-      "filed_name": "מפלגת הקהל מפלגה כלל חרדית",
+      "filed_name": "הקהל - מפלגה כלל חרדית שנציגיה נבחרים על ידי הציבור בראשות הרב שלמה אלבוים",
       "ballot_letter": "רץ",
       "ballot_letter_requested": null,
       "roster": null,
@@ -704,7 +704,7 @@
     {
       "id": "tzibur",
       "name": "הציבור החרדי",
-      "filed_name": null,
+      "filed_name": "הציבור החרדי בראשות מוטי ליטנר",
       "ballot_letter": "זך",
       "ballot_letter_requested": null,
       "roster": null,
@@ -848,7 +848,7 @@
     {
       "id": "ahi",
       "name": "אח\"י",
-      "filed_name": "תנועת אח\"י",
+      "filed_name": "תנועת אחי תנועתו של הרב יורם אברג'ל זצ\"ל",
       "ballot_letter": "צבי",
       "ballot_letter_requested": null,
       "roster": null,
@@ -1252,7 +1252,7 @@
     {
       "id": "tkuma",
       "name": "דרך חזון ותקומה",
-      "filed_name": "דרך חזון ותקומה",
+      "filed_name": "מפלגת התקומה",
       "ballot_letter": "ק",
       "ballot_letter_requested": null,
       "roster": [
