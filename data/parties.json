@@ -1,8 +1,8 @@
 {
   "$comment": "נוצר אוטומטית על ידי scripts/gen-repo.mjs במאגר האתר. אין לערוך ידנית — הקובץ ייכתב מחדש.",
   "name": "מצפן הבחירה 2026",
-  "version": "2026-10-04",
-  "generated": "2026-10-04",
+  "version": "2026-10-11",
+  "generated": "2026-10-12",
   "election_date": "2026-10-27",
   "site": "https://bhirot26.online",
   "repository": "https://github.com/dangelm/bhirot26-election-data",
@@ -69,7 +69,7 @@
         }
       ],
       "surplus_agreement_with": "rz",
-      "surplus_agreement_note": "סוכם עקרונית בסוף אוגוסט; לפי סרוגים (4.10.2026) הליכוד והציונות הדתית \"עדיין לא נעלו את ההסכם\", וההכרעה צפויה סמוך למועד האחרון, 16.10.2026",
+      "surplus_agreement_note": "נחתם ב-6.10.2026",
       "leader": "בנימין נתניהו",
       "tag": "ימין",
       "scored": true,
@@ -130,6 +130,12 @@
           "עופר פליקס מאור",
           "resigned",
           "2026-10-01"
+        ],
+        [
+          118,
+          "אנטולי בראל",
+          "resigned",
+          "2026-10-09"
         ]
       ],
       "former_candidates": [
@@ -339,7 +345,7 @@
         }
       ],
       "surplus_agreement_with": "utj",
-      "surplus_agreement_note": "סרוגים דיווח ב-8.9.2026 על חתימה, אך כיכר השבת (10.9 ו-18.9) אינו מונה אותו בין ההסכמים שנחתמו",
+      "surplus_agreement_note": "נחתם ב-11.10.2026",
       "leader": "אריה דרעי",
       "tag": "חרדי-ספרדי",
       "scored": true,
@@ -373,7 +379,20 @@
       "roster_style": null,
       "roster_profile_names": null,
       "roster_more": null,
-      "roster_removed": null,
+      "roster_removed": [
+        [
+          24,
+          "משה דוד מורגנשטרן",
+          "resigned",
+          "2026-10-04"
+        ],
+        [
+          66,
+          "יעקב צבי רוזנשטין",
+          "resigned",
+          "2026-10-04"
+        ]
+      ],
       "former_candidates": [
         {
           "name": "ישראל אייכלר",
@@ -382,7 +401,7 @@
         }
       ],
       "surplus_agreement_with": "shas",
-      "surplus_agreement_note": "סרוגים דיווח ב-8.9.2026 על חתימה, אך כיכר השבת (10.9 ו-18.9) אינו מונה אותו בין ההסכמים שנחתמו",
+      "surplus_agreement_note": "נחתם ב-11.10.2026",
       "leader": "יעקב אשר · יצחק גולדקנופף",
       "tag": "חרדי-אשכנזי",
       "scored": true,
@@ -450,7 +469,7 @@
       ],
       "former_candidates": [],
       "surplus_agreement_with": "likud",
-      "surplus_agreement_note": "סוכם עקרונית בסוף אוגוסט; לפי סרוגים (4.10.2026) הליכוד והציונות הדתית \"עדיין לא נעלו את ההסכם\", וההכרעה צפויה סמוך למועד האחרון, 16.10.2026",
+      "surplus_agreement_note": "נחתם ב-6.10.2026",
       "leader": "בצלאל סמוטריץ'",
       "tag": "ימין דתי",
       "scored": true,
@@ -813,6 +832,12 @@
           "יונתן בהט",
           "struck",
           "2026-09-27"
+        ],
+        [
+          17,
+          "אלמוג רום",
+          "resigned",
+          "2026-10-11"
         ],
         [
           37,

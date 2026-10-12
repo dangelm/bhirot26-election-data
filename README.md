@@ -22,7 +22,7 @@
 | תאים שנבדקו ולא נמצאה בהם אמירה פומבית | 34 (9%) |
 | תאים שטרם נחקרו | 0 |
 | רשומות מקור מאומתות | 831 |
-| גרסת הנתונים | 2026-10-04 |
+| גרסת הנתונים | 2026-10-11 |
 
 ## הקבצים
 
@@ -53,7 +53,7 @@
 
 הנתונים משתנים עד יום הבחירות, ולכן ציטוט בלי גרסה אינו ניתן לבדיקה:
 
-> מצפן הבחירה 2026, גרסת נתונים 2026-10-04. https://bhirot26.online · https://github.com/dangelm/bhirot26-election-data
+> מצפן הבחירה 2026, גרסת נתונים 2026-10-11. https://bhirot26.online · https://github.com/dangelm/bhirot26-election-data
 
 ## מה המאגר הזה אינו
 
@@ -79,7 +79,7 @@
 Open data behind **[מצפן הבחירה 2026](https://bhirot26.online)**, a voting-advice application for
 Israel's 26th Knesset election (2026-10-27).
 
-**Status (2026-10-04):** all 38 lists filed on 7–8 September 2026 were approved by the Central
+**Status (2026-10-11):** all 38 lists filed on 7–8 September 2026 were approved by the Central
 Elections Committee on 27.9.2026, with their ballot letters. The committee disqualified Ra'am, the
 Joint List and the candidates Ofer Cassif and Sami Abu Shehadeh; on 2.10.2026 the Supreme Court
 overturned the disqualification of both lists (unanimously) and of Cassif (7–2), and Abu Shehadeh withdrew
