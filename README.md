@@ -8,21 +8,21 @@
 ולקישור לעמוד שממנו נלקח.
 
 > [!IMPORTANT]
-> **מצב הרשימות.** ועדת הבחירות המרכזית אישרה ב-27.9.2026 את 38 הרשימות ואת אותיות הפתק. בקשות הפסילה הוכרעו: הוועדה פסלה את רע"ם, את הרשימה המשותפת ואת המועמדים עופר כסיף וסאמי אבו שחאדה, ובית המשפט העליון ביטל ב-2.10.2026 את פסילת שתי הרשימות ואת פסילת כסיף; אבו שחאדה הסיר את מועמדותו. כל 38 הרשימות מתמודדות, והן יפורסמו ברשומות עד 18.10.2026. מה שעדיין לא סופי: פרופילים למועמדים ברשימות שהוגשו שעדיין מופיעים בשם בלבד; ניקוד במחשבון לרשימות שלא פרסמו עמדות ברוב הסוגיות.
+> **מצב הרשימות.** ועדת הבחירות המרכזית אישרה ב-27.9.2026 את 38 הרשימות ואת אותיות הפתק. בקשות הפסילה הוכרעו: הוועדה פסלה את רע"ם, את הרשימה המשותפת ואת המועמדים עופר כסיף וסאמי אבו שחאדה, ובית המשפט העליון ביטל ב-2.10.2026 את פסילת שתי הרשימות ואת פסילת כסיף; אבו שחאדה הסיר את מועמדותו. כחול לבן הודיעה ב-19.10.2026 על פרישה מהמרוץ, ו-37 רשימות מתמודדות; הפתק של כחול לבן יוסר מהקלפיות רק אם כל מועמדיה יגישו התפטרות לוועדה. המועד החוקי האחרון לפרסום הרשימות ברשומות היה 18.10.2026. מה שעדיין לא סופי: פרופילים למועמדים ברשימות שהוגשו שעדיין מופיעים בשם בלבד; ניקוד במחשבון לרשימות שלא פרסמו עמדות ברוב הסוגיות.
 
 ## המספרים
 
 | | |
 |---|---|
-| רשימות מוצגות | 50 (38 מתמודדות, 12 שפרשו או התאחדו) |
-| רשימות מנוקדות במחשבון | 18 |
+| רשימות מוצגות | 50 (37 מתמודדות, 13 שפרשו או התאחדו) |
+| רשימות מנוקדות במחשבון | 17 |
 | סוגיות | 20 |
-| תאים (רשימה × סוגיה) | 360 |
-| תאים עם מקור מוצג | 326 (91%) |
-| תאים שנבדקו ולא נמצאה בהם אמירה פומבית | 34 (9%) |
+| תאים (רשימה × סוגיה) | 340 |
+| תאים עם מקור מוצג | 306 (90%) |
+| תאים שנבדקו ולא נמצאה בהם אמירה פומבית | 34 (10%) |
 | תאים שטרם נחקרו | 0 |
 | רשומות מקור מאומתות | 831 |
-| גרסת הנתונים | 2026-10-18 |
+| גרסת הנתונים | 2026-10-19 |
 
 ## הקבצים
 
@@ -31,9 +31,9 @@
 | `data/parties.json` | כל 50 הרשימות: שם, אות, יו"ר, שיוך, והאם היא מנוקדת במחשבון |
 | `data/petitions.json` | 16 בקשות הפסילה לכנסת ה-26: נגד מי, מי הגיש, סטטוס, עילה כפי שנטענה ומקורות |
 | `data/issues.json` | 20 השאלות כלשונן, עם הנוסח המלא וההסבר שמוצג למשתמש |
-| `data/positions.json` | 360 התאים: העמדה, סוג הראיה, המקור החזק ביותר ותאריכו |
+| `data/positions.json` | 340 התאים: העמדה, סוג הראיה, המקור החזק ביותר ותאריכו |
 | `data/sources.json` | 831 רשומות המקור עם הציטוט המילולי, וכן התאים שנבדקו ונמצאו ריקים |
-| `data/positions.csv` | אותם 360 תאים כטבלה שטוחה, לניתוח בגיליון או ב-pandas |
+| `data/positions.csv` | אותם 340 תאים כטבלה שטוחה, לניתוח בגיליון או ב-pandas |
 | `methodology.md` | היררכיית המקורות, קידוד העמדות, תיקון הסיכוי, ומה שהכלי אינו עושה |
 | `CHANGELOG.md` | כל שינוי בנתונים לפי תאריך |
 
@@ -53,7 +53,7 @@
 
 הנתונים משתנים עד יום הבחירות, ולכן ציטוט בלי גרסה אינו ניתן לבדיקה:
 
-> מצפן הבחירה 2026, גרסת נתונים 2026-10-18. https://bhirot26.online · https://github.com/dangelm/bhirot26-election-data
+> מצפן הבחירה 2026, גרסת נתונים 2026-10-19. https://bhirot26.online · https://github.com/dangelm/bhirot26-election-data
 
 ## מה המאגר הזה אינו
 
@@ -79,7 +79,7 @@
 Open data behind **[מצפן הבחירה 2026](https://bhirot26.online)**, a voting-advice application for
 Israel's 26th Knesset election (2026-10-27).
 
-**Status (2026-10-18):** all 38 lists filed on 7–8 September 2026 were approved by the Central
+**Status (2026-10-19):** all 38 lists filed on 7–8 September 2026 were approved by the Central
 Elections Committee on 27.9.2026, with their ballot letters. The committee disqualified Ra'am, the
 Joint List and the candidates Ofer Cassif and Sami Abu Shehadeh; on 2.10.2026 the Supreme Court
 overturned the disqualification of both lists (unanimously) and of Cassif (7–2), and Abu Shehadeh withdrew
@@ -90,7 +90,7 @@ candidates who withdrew after filing (they are in `former_candidates` with `remo
 `filed_name` is the list name as filed, and `data/petitions.json` records each petition's committee
 decision and, in `court`, what the court did with it.
 
-18 parties × 20 issues = 360 coded positions. 326 carry a
+17 parties × 20 issues = 340 coded positions. 306 carry a
 published primary source with a verbatim quote, a date and a link; 34 are cells where we
 searched the party's platform, the news, and — for leaders who sat in the Knesset — the voting
 and bill record, and found no public statement. Those are marked as documented silence rather
