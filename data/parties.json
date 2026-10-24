@@ -1,8 +1,8 @@
 {
   "$comment": "נוצר אוטומטית על ידי scripts/gen-repo.mjs במאגר האתר. אין לערוך ידנית — הקובץ ייכתב מחדש.",
   "name": "מצפן הבחירה 2026",
-  "version": "2026-10-20",
-  "generated": "2026-10-20",
+  "version": "2026-10-22",
+  "generated": "2026-10-24",
   "election_date": "2026-10-27",
   "site": "https://bhirot26.online",
   "repository": "https://github.com/dangelm/bhirot26-election-data",
@@ -543,21 +543,29 @@
         "פלר חסן-נחום",
         "ללי דרעי",
         "רונן בודנרו",
-        "דוידי בן ציון",
         "אביב עזרא",
-        "אלי ג'ינו"
+        "אלי ג'ינו",
+        "סיגל קראוניק-עטיה"
       ],
       "roster_source": "https://www.gov.il/he/pages/amcha-israel_list6",
       "roster_style": null,
       "roster_profile_names": null,
-      "roster_more": [
+      "roster_more": null,
+      "roster_removed": [
         [
-          11,
-          "סיגל קראוניק-עטיה"
+          8,
+          "דוידי בן ציון",
+          "resigned",
+          "2026-10-21"
         ]
       ],
-      "roster_removed": null,
-      "former_candidates": [],
+      "former_candidates": [
+        {
+          "name": "דוידי בן ציון",
+          "note": "היה במקום 8 ברשימה שהוגשה. הודיע ב-13.10.2026 על פרישה מהרשימה, וב-21.10.2026 התפטר רשמית בוועדת הבחירות",
+          "removed_after_filing": "2026-10-21"
+        }
+      ],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
       "leader": "עופר וינטר",
@@ -815,7 +823,7 @@
       "major": false,
       "debut": false,
       "status": "withdrawn",
-      "note": "הודיעה ב-19.10.2026 על פרישה מהמרוץ",
+      "note": "הודיעה ב-19.10.2026 על פרישה; כל מועמדיה התפטרו, ופתק שלה בקלפי ייחשב קול פסול",
       "page": "https://bhirot26.online/party/kachol"
     },
     {
@@ -1835,14 +1843,20 @@
       "roster": [
         "הרב אליהו בוימרינד",
         "הרב דרור דגני",
-        "הרב יונתן יששכר",
         "הרב יצחק רבין הכהן"
       ],
       "roster_source": "https://www.gov.il/he/pages/shachor_list28",
       "roster_style": null,
       "roster_profile_names": null,
       "roster_more": null,
-      "roster_removed": null,
+      "roster_removed": [
+        [
+          3,
+          "הרב יונתן יששכר",
+          "resigned",
+          "2026-10-22"
+        ]
+      ],
       "former_candidates": [],
       "surplus_agreement_with": null,
       "surplus_agreement_note": null,
